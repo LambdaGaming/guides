@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on February 7, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on March 7, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -33,6 +33,9 @@
 						<li><a href="#misc">Additional Resources</a></li>
 					</ol>
 					<li><a href="#choosing">Choosing a Distro</a></li>
+					<ol>
+						<li><a href="#specialized" onclick="ToggleVis('DistroList')">Specialized Distros</a></li>
+					</ol>
 					<li><a href="#installinglinux">Installing Linux</a></li>
 					<li><a href="#conclusion">Conclusion</a></li>
 				</ol>
@@ -488,43 +491,7 @@
 					<li>Release type: Rolling</li>
 				</ul>
 				<img src="void.png">
-	
-				<h3><a href="https://www.centos.org/download/">CentOS</a></h3>
-				<p>CentOS is a more advanced OS catered towards users of Red Hat Enterprise Linux, similar to Fedora but more in-depth and less casual. Despite it being a rolling release distro, it won't always have the most recent software versions due to it receiving updates downstream from RHEL and Fedora. The plus side of this is that the distro will generally be more stable than the other two.</p>
-				<ul>
-					<li>Beginner friendliness: 4/10</li>
-					<li>Includes starter guide: No</li>
-					<li>Includes GUI software manager: No</li>
-					<li>Base distro: Red Hat Enterprise Linux (RHEL)</li>
-					<li>Default desktop environments: Cinnamon, GNOME, KDE Plasma, MATE, Xfce</li>
-					<li>Release type: Rolling</li>
-				</ul>
-				<img src="centos.png">
-	
-				<h3><a href="http://www.slackware.com/">Slackware</a></h3>
-				<p>Slackware is a very old distro (in fact, one of the first), that is still being maintained to this day. It's extremely lightweight and will run on just about anything that has at least 64 MB of RAM, making it ideal for 15+ year old machines that struggle to run modern distros. Setting up and maintaining this distro might not be easy for beginners.</p>
-				<ul>
-					<li>Beginner friendliness: 4/10</li>
-					<li>Includes starter guide: No</li>
-					<li>Includes GUI software manager: No</li>
-					<li>Base distro: None</li>
-					<li>Default desktop environments: GNOME, KDE Plasma, Cinnamon, Xfce, MATE</li>
-					<li>Release type: Irregular</li>
-				</ul>
-				<img src="slackware.png">
-	
-				<h3><a href="https://www.kali.org/">Kali</a></h3>
-				<p>Kali Linux is a highly specialized distro focused around cybersecurity. It comes with a huge amount of tools used for password cracking, forensic analysis, packet sniffing, network attacks, and much more. It's not a distro meant for daily driving by any means, I'm only including it here since it's popular and you might have heard of it before.</p>
-				<ul>
-					<li>Beginner friendliness: 3/10</li>
-					<li>Includes starter guide: Yes</li>
-					<li>Includes GUI software manager: No</li>
-					<li>Base distro: Debian</li>
-					<li>Default desktop environments: Xfce, GNOME, KDE Plasma, LXDE, MATE</li>
-					<li>Release type: Rolling</li>
-				</ul>
-				<img src="kali.png">
-	
+
 				<h3><a href="https://nixos.org/">NixOS</a></h3>
 				<p>NixOS is a terminal-centric distro that has several features designed for software developers. These features include but are not limited to: Saving exact system configurations to use on different PCs so development environments remain consistent, having multiple versions of the same software installed at the same time, testing potentially dangerous system changes in a virtual machine, and rolling back the system to a previous version if something does break.</p>
 				<ul>
@@ -560,22 +527,21 @@
 					<li>Release type: Rolling</li>
 				</ul>
 
+				<h2 id="specialized">Specialized Distros</h2><hr>
+				<h3><a href="http://www.slackware.com/">Slackware</a></h3>
+				<p>Slackware is a very old distro (in fact, one of the first), that is still being maintained to this day. It's extremely lightweight and will run on just about anything that has at least 64 MB of RAM, making it ideal for 15+ year old machines that struggle to run modern distros. Setting up and maintaining this distro is unusual compared to modern distros, so it isn't recommended for daily driving.</p>
+	
+				<h3><a href="https://www.kali.org/">Kali</a></h3>
+				<p>Kali Linux is a highly specialized distro focused around cybersecurity. It comes with a huge amount of tools used for password cracking, forensic analysis, packet sniffing, network attacks, and much more. It's not a distro meant for daily driving by any means, I'm only including it here since it's popular and you might have heard of it before.</p>
+
 				<h3><a href="https://www.linuxfromscratch.org/">Linux From Scratch</a></h3>
 				<p>Linux From Scratch is not a distro, but a book. It explains how to build your own custom Linux system from the ground up. It's designed for enthusiasts who want to build a system that is tailored exactly to their needs and wants.</p>
-				<ul>
-					<li>Beginner friendliness: 0/10</li>
-					<li>Includes starter guide: Yes</li>
-					<li>Includes GUI software manager: If you want</li>
-					<li>Base distro: None</li>
-					<li>Default desktop environment: None</li>
-					<li>Release type: Up to you</li>
-				</ul>
 	
 				<h3><a href="https://store.steampowered.com/steamos">SteamOS</a></h3>
 				<p>SteamOS is a specialized Arch Linux-based OS developed by Valve, for use with handheld gaming PCs such as the Steam Deck and Lenovo Legion Go. Despite having a desktop mode with the KDE Plasma desktop environment, it is not intended to be used as a normal desktop OS. It does not support normal PCs out of the box, and requires a lot of tweaking to get installed and running. If you want a distro similar to SteamOS that you can use on your desktop PC, check out Bazzite.</p>
 
 				<h3><a href="https://www.freebsd.org/">FreeBSD</a></h3>
-				<p>FreeBSD is NOT Linux, but I'm putting it here to avoid confusion because some people think it is. It's actually based on Unix, which is a much older OS made by Bell Labs that started development in 1969. Linux is Unix-like but not directly based on it, so naturally there's some similarities but there are many more differences.<br><br>These days, Unix itself isn't in development anymore, but several Unix-based operating systems are. FreeBSD, macOS, and Solaris are just a few examples. If you're reading through this guide, FreeBSD or any other Unix-based OS probably isn't for you.</p>
+				<p>FreeBSD is NOT Linux, but I'm putting it here to avoid confusion because some people think it is. It's actually based on Unix, which is a much older OS made by Bell Labs that started development in 1969. Linux is Unix-like but not directly based on it, so naturally there's some similarities but there are many more differences.<br><br>These days, Unix itself isn't in development anymore, but several Unix-based operating systems are. FreeBSD, macOS, and Solaris are just a few examples. FreeBSD and other BSD operating systems can be used by beginners, but software compatibility and availability is much more limited compared to Linux.</p>
 			</div>
 
 			<h1 id="installinglinux">Installing Linux</h1>
