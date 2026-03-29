@@ -37,6 +37,9 @@
 						<li><a href="#specialized" onclick="ToggleVis('DistroList')">Specialized Distros</a></li>
 					</ol>
 					<li><a href="#installinglinux">Installing Linux</a></li>
+					<ol>
+						<li><a href="#dualbooting">Dual Booting</a></li>
+					</ol>
 					<li><a href="#conclusion">Conclusion</a></li>
 				</ol>
 			</div>
@@ -557,6 +560,9 @@
 				<li>Go to the boot section and change the first boot option to the USB drive you just plugged in. Save your changes and reboot.</li>
 				<li>If you did everything correctly, your PC should have booted the USB. You might see the bootloader selection screen, or it might have booted straight into the live image. If you're at the bootloader selection screen, just press enter to select the default option. From there, you can install the distro by following the steps it gives you.</li>
 			</ol>
+			<h2 id="dualbooting">Dual Booting</h2><hr>
+			<p>If you plan on dual booting Linux and Windows, I <i>highly</i> recommend keeping them on separate physical drives. Windows has a tendency to overwrite or corrupt Linux boot sectors, but keeping them on separate drives helps mitigate this. I also suggest temporarily disconnecting your Linux drive if you plan on installing or upgrading Windows after Linux is installed.</p>
+			<p>Most Linux distros will automatically detect any other operating systems you have installed (including Windows), and will give you the option to either overwrite an existing installation or install the new distro alongside it. If the latter is chosen, the bootloader will be automatically configured to let you choose from multiple operating systems at startup.</p>
 
 			<h1 id="conclusion">Conclusion</h1>
 			<p>If you've made it all the way through the guide, then congratulations, you're now a Linux user! The end of this guide marks the beginning of your journey. Don't be discouraged if things start off a little rough. It's a brand new operating system and it could take some time to get used to, especially if you're looking to do more advanced things with it. If you need help, you can always refer back to this guide or any other resource, or you could just ask me. There's a decent chance that any problem you encounter is similar to one I've encountered. One of my favorite things about Linux is that once you fix the problems you're having, you usually won't have to deal with them again.</p>
