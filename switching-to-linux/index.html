@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on March 29, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on April 3, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -180,10 +180,10 @@
 			<h4><a href="https://github.com/HarbourHeading/KVM-GPU-Passthrough">QEMU/KVM</a></h4>
 			<p>KVM is a virtualization module that's built into the Linux kernel. QEMU is simply the graphical frontend for KVM. In terms of performance it's probably better than anything else out there because of how low-level it is. By following the steps linked above, you can pass your GPU through to the VM to be able to run graphics intensive programs like games, which isn't really possible with any other virtualization software on Linux. The downside is that the setup is extremely tedious and probably not worth it in the end.</p>
 			<h4><a href="https://github.com/TibixDev/winboat">WinBoat</a></h4>
-			<p>WinBoat is a new tool that uses Docker containers and virtual machines to allow users to easily setup and run Windows apps on Linux. It's a little easier to setup than VirtualBox, but it's still in early development so bugs and instabilities are likely, and there are a lot of features missing. It definitely has potential though, so it's worth keeping in mind.</p>
+			<p>WinBoat is a new tool that uses Docker containers and virtual machines to allow users to easily setup and run Windows apps on Linux, with seamless integration with your Linux desktop so you don't have to deal with a separate Windows desktop inside the VM. It's a little easier to setup than VirtualBox, but it's still in early development so bugs and instabilities are likely. It definitely has potential though, so it's worth keeping in mind.</p>
 
 			<h3 id="compat2">Program List</h3>
-			<p>The following list contains popular Windows programs and how they run on Linux (if at all). Good alternatives that are confirmed to work on Linux are also listed where applicable. Steam games are not listed here. For those, you should visit <a href="https://www.protondb.com/">ProtonDB.</a></p>
+			<p>The following list contains popular Windows programs and how they run on Linux (if at all). Good alternatives that are confirmed to work on Linux are also listed where applicable. Steam games are not listed here; for those, you should visit <a href="https://www.protondb.com/">ProtonDB.</a></p>
 			<button id="CompatListButton" onclick="ToggleVis('CompatList')">Show Program List</button>
 			<div id="CompatList" class="hidden">
 				<table>
@@ -562,6 +562,7 @@
 			<h2 id="dualbooting">Dual Booting</h2><hr>
 			<p>If you plan on dual booting Linux and Windows, I <i>highly</i> recommend keeping them on separate physical drives. Windows has a tendency to overwrite or corrupt Linux boot sectors, but keeping them on separate drives helps mitigate this. I also suggest temporarily disconnecting your Linux drive if you plan on installing or upgrading Windows after Linux is installed.</p>
 			<p>Most Linux distros will automatically detect any other operating systems you have installed (including Windows), and will give you the option to either overwrite an existing installation or install the new distro alongside it. If the latter is chosen, the bootloader will be automatically configured to let you choose from multiple operating systems at startup.</p>
+			<p>When dual booting Windows and Linux, you will likely find that both operating systems display different times. The basic explanation of why this happens is that Linux offsets the time being kept by your motherboard's clock, and Windows doesn't. You can fix this by following <a href="https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/">this guide.</a></p>
 
 			<h1 id="conclusion">Conclusion</h1>
 			<p>If you've made it all the way through the guide then congratulations - you're now a Linux user! The end of this guide marks the beginning of your journey. Don't be discouraged if things start off a little rough. It's a brand new operating system and it could take some time to get used to, especially if you're looking to do more advanced things with it. If you need help, you can always refer back to this guide or any other resource; or you could just ask me. There's a decent chance that any problem you encounter is similar to one I've encountered.</p>
