@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on April 3, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on April 9, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -125,7 +125,7 @@
 			<h3>Drive Encryption</h3>
 			<p>Some distros give you the option to encrypt your home folder and/or entire drive. I personally don't recommend it unless you're using a laptop that you travel with, or live in an area where burglaries and thefts are common. It can cause issues with certain programs (including Steam) and slow down older systems. It also makes data recovery in the event of a drive failure much more difficult.</p>
 			<h3>Risks</h3>
-			<p>Contrary to popular belief, Linux is not fully secure. There are certain factors that could make your system less secure compared to Windows. For example, many Linux distros don't come with a firewall by default, and even the ones that do come with one have it disabled by default. You can certainly install a firewall yourself (I recommend <a href="https://github.com/evilsocket/opensnitch">OpenSnitch</a>), but you have to know what you're doing in order to properly configure it. Having a firewall usually isn't absolutely necessary, but it's good to have that extra layer of security.</p>
+			<p>Contrary to popular belief, Linux is not fully secure. There are certain factors that could make your system less secure compared to Windows. For example, many Linux distros don't come with a firewall by default, and even the ones that do come with one have it disabled by default. You can certainly install a firewall yourself, though. I recommend <a href="https://itsfoss.com/set-up-firewall-gufw/">GUFW</a> for most people and <a href="https://github.com/evilsocket/opensnitch">OpenSnitch</a> if you need to manage specific connections. Having a firewall usually isn't absolutely necessary, but it's good to have that extra layer of security.</p>
 			<p>There are also additional risks introduced when Wine is installed on your system. As Wine continues to evolve, more and more Windows programs have the ability to run out of the box on Linux, and running programs through Wine bypasses the file system's executable permissions. Furthermore, neither Linux nor Wine come with any sort of anti-virus, so there isn't a system in place to scan programs and files for malware. This isn't meant to scare you out of using Wine; it's a very useful tool that I highly recommend, but you need to be careful about what you run with it.</p>
 
 			<h2 id="graphics">Graphics</h2>
@@ -135,6 +135,7 @@
 			<p>What does this mean for you? Mostly nothing. The distro you end up choosing will likely handle the switch over to Wayland without you ever knowing. The only time you need to worry about X11 vs Wayland is if you have multiple monitors with different refresh rates. If you do, you need to make sure the distro and desktop environment you choose supports Wayland, because X11 will force all monitors to have the refresh rate of the monitor with the lowest one.</p>
 			<h3>Nvidia Drivers</h3>
 			<p>If you have an Nvidia GPU, you will need to install a proprietary driver for it to work properly on Linux. Most distros will prompt you to install it, but some won't allow you to install it at all, so just be aware of that when choosing a distro. Any Nvidia GPU older than the GTX 900 series won't work with the modern drivers, so you might have issues running certain games on any GPU made prior to 2014. If you have an AMD or Intel GPU, you won't have to install a proprietary driver and everything should work out of the box on most distros.</p>
+			<p>It's also important to note that Nvidia drivers on Linux do not have a shared memory feature. This means that when your GPU's video memory (VRAM) is maxed out, the driver will not use regular system RAM as a backup. Because of this, when you're playing a game or running some other VRAM-intensive program, you might experience freezes, crashes, and visual bugs in <i>all</i> programs. This is not normal behavior - AMD and Intel GPUs do not have this problem. It's unclear why Nvidia refuses to implement this feature, but it is clear that Linux is not a focus for them, and I suggest switching to AMD or Intel if you plan on staying on Linux.</p>
 
 			<h2 id="software">Software Management</h2>
 			<hr>
@@ -190,8 +191,14 @@
 					<tr>
 						<th>Program Name</th>
 						<th>Works on Linux?</th>
-						<th>Alternatives</th>
+						<th>Recommended Alternatives</th>
 						<th>Notes</th>
+					</tr>
+					<tr>
+						<td>Adobe Acrobat</td>
+						<td>No</td>
+						<td>LibreOffice Draw, Okular, Stirling PDF</td>
+						<td>If you're looking to edit complex PDFs that were specifically designed for Acrobat, you will likely run into issues with alternatives.</td>
 					</tr>
 					<tr>
 						<td>Adobe Photoshop</td>
@@ -534,7 +541,7 @@
 				<p>Slackware is a very old distro (in fact, one of the first), that is still being maintained to this day. It's extremely lightweight and will run on just about anything that has at least 64 MB of RAM, making it ideal for 15+ year old machines that struggle to run modern distros. Setting up and maintaining this distro is unusual compared to modern distros, so it isn't recommended for daily driving.</p>
 	
 				<h3><a href="https://www.kali.org/">Kali</a></h3>
-				<p>Kali Linux is a highly specialized distro focused around cybersecurity. It comes with a huge amount of tools used for password cracking, forensic analysis, packet sniffing, network attacks, and much more. It's not a distro meant for daily driving by any means, I'm only including it here since it's popular and you might have heard of it before.</p>
+				<p>Kali Linux is a highly specialized distro focused around cybersecurity. It comes with a huge amount of tools used for password cracking, forensic analysis, packet sniffing, network attacks, and much more. It's not meant for daily driving, but it might still be worth checking out if you're into cybersecurity.</p>
 
 				<h3><a href="https://www.linuxfromscratch.org/">Linux From Scratch</a></h3>
 				<p>Linux From Scratch is not a distro, but a book. It explains how to build your own custom Linux system from the ground up. It's designed for enthusiasts who want to build a system that is tailored exactly to their needs and wants.</p>
