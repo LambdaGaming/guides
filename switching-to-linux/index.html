@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on April 9, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on April 20, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -245,8 +245,8 @@
 					<tr>
 						<td>Logitech GHub</td>
 						<td>No</td>
-						<td>N/A</td>
-						<td>If you only used it for peripheral drivers, you won't need it anyway.</td>
+						<td>OpenRGB (For device lighting controls)</td>
+						<td>If you're worried about getting drivers for certain devices such as steering wheels and joysticks, Linux generally supports them out of the box.</td>
 					</tr>
 					<tr>
 						<td>Microsoft Office / Office 365</td>
@@ -273,10 +273,10 @@
 						<td>Doesn't need manual installation for Steam games.</td>
 					</tr>
 					<tr>
-						<td>Valve Hammer Editor</td>
+						<td>Valve Hammer Editor (and other Source SDK tools)</td>
 						<td>Yes (Wine, Proton GE)</td>
 						<td>N/A</td>
-						<td>Requires Wine/Proton GE 9.0+</td>
+						<td>Requires Wine/Proton GE 9.0+, but 11.0+ is recommended.</td>
 					</tr>
 					<tr>
 						<td>Visual Studio</td>
@@ -316,7 +316,7 @@
 			<p>This guide won't be covering everything related to Linux, but there are a TON of other resources online to help you with anything you might be stuck on or confused about. The ones I recommend are the <a href="https://wiki.archlinux.org/title/Main_page">Arch Wiki</a>, <a href="https://labex.io/linuxjourney">Linux Journey</a>, and <a href="https://www.geeksforgeeks.org/linux-unix/linux-tutorial/">Geeks for Geeks</a>. While searching online for an answer to something, you might find yourself on the toxic side of the Linux community. My advice is to simply ignore whatever the toxic people have to say. Some of them love to belittle newbies and gate keep because they think of the Linux community as some exclusive club, but given the openness of Linux and everything related to it, newbies should be welcomed into the community with open arms.</p>
 
 			<h1 id="choosing">Choosing a Distro</h1>
-			<p>Now that you've learned about the basics of Linux, it's time to choose a distro! Below is a list of every popular distro, ranked from most beginner-friendly to least. If you don't feel like reading through the whole list and want to jump in right away, go with <a href="https://www.linuxmint.com/">Mint</a>. It's a good general-purpose OS with a clean and minimalist desktop environment that'll feel familiar if you're coming from Windows. You can always live boot or dual boot before fully committing to a distro, so if you don't like it you can just try another one.</p>
+			<p>Now that you've learned about the basics of Linux, it's time to choose a distro! Below is a list of every popular distro, ranked from most beginner-friendly to least. If you don't feel like reading through the whole list and want to jump in right away, go with <a href="https://www.linuxmint.com/">Mint</a>. It's a stable general-purpose OS with a clean and minimalist desktop environment that'll feel familiar if you're coming from Windows. You can always live boot or dual boot before fully committing to a distro, so if you don't like it you can just try another one.</p>
 			<p>If you're interested in seeing what's out there and what the differences are between popular distros, you can continue reading through this section. Just note that super niche or obscure distros won't be covered here. Anything that isn't already popular isn't worth using for most people, since you're much more likely to run into problems regarding usability, stability, software availability, and documentation.</p>
 
 			<button id="DistroListButton" onclick="ToggleVis('DistroList')">Show Distro List</button>
@@ -334,7 +334,7 @@
 				<img src="mint.png">
 				
 				<h3><a href="https://zorin.com/">Zorin OS</a></h3>
-				<p>Zorin OS is a very simple OS that is designed for beginners who are coming from Windows. It comes with a lot of generic programs pre-installed and provides a UI layout that is familiar and easy to navigate, making it ideal for people who don't have the knowledge or interest in tinkering with their OS. It loses a point for the pro version being misleading. The pro version states it comes with a suite of professional-grade software, and while this is true, they fail to mention that these programs are FOSS that can be downloaded for free on Windows, Linux, and macOS. The only exclusive things you're paying for with the pro version are the extra desktop environments and technical support.</p>
+				<p>Zorin OS is a very simple OS that is designed for beginners who are coming from Windows. It comes with a lot of generic programs pre-installed and provides a UI layout that is familiar and easy to navigate, making it ideal for people who don't have the knowledge or interest in tinkering with their OS. It loses a point for the pro version being misleading. The pro version states it comes with a suite of professional-grade software, and while this is true, they fail to mention that these programs are FOSS and can be downloaded for free on Windows, Linux, and macOS. The only exclusive things you're paying for with the pro version are the extra desktop environments and technical support.</p>
 				<ul>
 					<li>Beginner friendliness: 9/10</li>
 					<li>Includes starter guide: Yes</li>
@@ -346,7 +346,7 @@
 				<img src="zorin.png">
 	
 				<h3><a href="https://elementary.io">elementary OS</a></h3>
-				<p>Elementary OS is another very basic OS, though this one is catered more toward macOS users. It comes with a lot of basic but useful apps, and provides a decent amount of settings. Much like Zorin OS, this is ideal for those who are not technically inclined and only need basic functionality. It loses a point for the download being made to look like you have to pay for it. You can get it for free by entering 0 for the price.</p>
+				<p>Elementary OS is another very basic OS, though this one is catered toward macOS users. It comes with a lot of basic but useful apps, and provides a decent amount of settings. Much like Zorin OS, this is ideal for those who are not technically inclined and only need basic functionality. It loses a point for the download being made to look like you have to pay for it. You can get it for free by entering 0 for the price.</p>
 				<ul>
 					<li>Beginner friendliness: 9/10</li>
 					<li>Includes starter guide: Yes</li>
@@ -368,18 +368,6 @@
 					<li>Release type: Periodical, every 6 months</li>
 				</ul>
 				<img src="ubuntu.png">
-	
-				<h3><a href="https://pop.system76.com/">Pop!_OS</a></h3>
-				<p>Pop!_OS is like a more specialized Ubuntu. It's tailored for power users who do a variety of tasks such as programming, gaming, and creative works. Note that this is one of the few distros that has full disk encryption enabled by default, which could cause issues with certain software.</p>
-				<ul>
-					<li>Beginner friendliness: 8/10</li>
-					<li>Includes starter guide: No</li>
-					<li>Includes GUI software manager: Yes</li>
-					<li>Base distro: Ubuntu</li>
-					<li>Default desktop environment: COSMIC</li>
-					<li>Release type: Periodical, roughly every 6-8 months</li>
-				</ul>
-				<img src="pop.png">
 
 				<h3><a href="https://manjaro.org/">Manjaro</a></h3>
 				<p>Manjaro is a general-purpose OS that comes with a variety of software pre-installed, but it's a bit more complex due to how it works under the hood. The distro is based on Arch Linux, but it uses its own repositories. The Manjaro team tests software updates being pushed to the Arch repos before pushing them to their own repos, for the sake of stability. This is a great idea on paper, but in reality it often causes Manjaro to be less stable than Arch due to the delays between patches. Despite these flaws, it's still a fast and easy way to get introduced to the Arch ecosystem.</p>
@@ -453,6 +441,18 @@
 				</ul>
 				<img src="fedora.png">
 	
+				<h3><a href="https://pop.system76.com/">Pop!_OS</a></h3>
+				<p>Pop!_OS is like a more specialized Ubuntu. It's tailored for power users who do a variety of tasks such as programming, gaming, and creative works. Currently, the OS is in a somewhat buggy and unfinished state due to the developers prematurely releasing their new desktop environment. It's still usable, but beginners should generally avoid it until these issues are resolved.</p>
+				<ul>
+					<li>Beginner friendliness: 5/10</li>
+					<li>Includes starter guide: No</li>
+					<li>Includes GUI software manager: Yes</li>
+					<li>Base distro: Ubuntu</li>
+					<li>Default desktop environment: COSMIC</li>
+					<li>Release type: Periodical, roughly every 6-8 months</li>
+				</ul>
+				<img src="pop.png">
+
 				<h3><a href="https://get.opensuse.org/desktop/">openSUSE</a></h3>
 				<p>openSUSE is catered more towards technical people but it's not insanely complex to get into. It offers two separate versions that differ in the way the distro receives updates. Tumbleweed is a rolling release and is always running the newest software, while Leap receives one major update per year and does not constantly push new software versions. Despite being a rolling release distro, Tumbleweed packages are tested to ensure stability, similar to Manjaro but it's actually stable.</p>
 				<ul>
