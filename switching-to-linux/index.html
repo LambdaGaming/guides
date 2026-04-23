@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on April 20, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on April 23, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -107,11 +107,13 @@
 			<h2 id="file">File System</h2>
 			<hr>
 			<h3>File Structure</h3>
-			<p>The Linux file structure is very similar to Unix, so if you're coming from macOS it's going to feel familiar. If you're coming from Windows, it's going to feel a lot less familiar for several reasons. Firstly, drive letters aren't a thing. The root (aka the very first level) of the system drive is identified by a single forward slash /. All other mounted drives are accessed through either the /mnt or /media directory, depending on how it was mounted. Removable drives (USB,CD,Floppy) are typically found in /media, while permanent drives (HDD,SSD) that get mounted at startup are found in /mnt.</p>
+			<p>The Linux file structure is very similar to Unix, so if you're coming from macOS it's going to feel familiar. If you're coming from Windows, it's going to feel a lot less familiar for several reasons. First, drive letters don't exist. The root of the system drive (C:\ on Windows) is identified by a single forward slash /. All other mounted drives are accessed through either the /mnt or /run/media directory, depending on how it was mounted. Removable drives (USB,CD,Floppy) are typically found in /run/media, while permanent drives (HDD,SSD) that get mounted at startup are found in /mnt.</p>
 			<p>Next, user files are located in /home/[username], which in some cases can be shortened to a single tilde symbol ~. Similar to the Windows AppData folder, user-specific program data is located in hidden folders inside the user folder called '.config' and '.local'. The /home directory can sometimes be located on a separate partition or physical drive depending on how it was configured during installation, but this won't change how you access it in the file structure. The rest of the system directories aren't as important for beginners to know, but you can <a href="https://linuxhandbook.com/linux-directory-structure/">still read about them</a> if you'd like.</p>
+			<h3>File Systems</h3>
+			<p>File systems are responsible for how data is arranged and accessed on your storage device. While modern Windows only supports two main file systems (ReFS for servers and NTFS for everything else), Linux supports a much wider variety (including the Windows file systems). While Linux will not run on all supported file systems, it will at the very least read from and write to them. For example, if you have a Windows NTFS drive that you need to get files off of, Linux supports that out of the box, but you cannot boot Linux from an NTFS drive.</p><p>It's common for distros to ask what file system you want to use during installation, with the two most popular for desktop users being ext4 and Btrfs. ext4 is by far the most popular out of the two. It's extremely fast but doesn't contain many data integrity features. Btrfs on the other hand has a built-in snapshot system that allows you to revert the file system to a specific time if something goes wrong, at the cost of being much slower than ext4.</p>
 			<h3>Mounting Drives on Startup</h3>
 			<p>Any extra internal drives that you might be using alongside your main system drive are not automatically mounted on startup unless you manually set them to. The easiest way to do this is to download the <a href="https://apps.gnome.org/DiskUtility/">GNOME Disk Utility</a>, click the target disk, click the partition you want to mount, click the box with the play icon in the middle, click Edit Mount Options, then disable the toggle for User Session Defaults. You can change the mount point to a different name like /mnt/Disk2 to make it easier to find if you'd like. Just don't use spaces or special characters. You might also have to click the Take Ownership option to allow other programs to write to the drive.</p>
-			<p>If these drives are still formatted in NTFS from Windows, I highly recommend reformatting them to ext4 before doing anything with them. Linux technically supports NTFS, but due to how the permissions work, it can cause write errors and performance issues in some cases.</p>
+			<p>If these drives are still formatted in NTFS from Windows, I highly recommend reformatting them to a more Linux-friendly file system before doing anything with them. While Linux technically supports NTFS, read/write errors and performance issues are common due to how the NTFS permission system works.</p>
 			<h3>Cleanup & Maintenance</h3>
 			<p>Disk cleanup isn't as necessary on Linux as it is on Windows, so most distros don't come with any sort of cleanup tool by default. If you want to clean up unnecessary system and app files, I recommend <a href="https://www.bleachbit.org/">BleachBit</a>. Most software and update managers will automatically clean up their own unnecessary files, if not they usually give you an option to do it manually. The only files you might need to clear manually are caches and core dumps in the root folders. You can use a disk usage viewer such as <a href="https://apps.kde.org/filelight/">Filelight</a> to see how much space these files might be taking up.</p>
 			<p>Hard drive fragmentation is less of an issue on Linux due to how the ext4 file system works. Files are scattered around the disk to leave plenty of space for them to grow in size. Fragmentation only starts to happen when the disk is around 80% full, at which point most distros will start a defragging process in the background just like Windows does. SSD trimming is also automatically performed in the background.</p>
@@ -294,7 +296,7 @@
 						<td>WinDirStat & WizTree</td>
 						<td>Partially (Wine)</td>
 						<td>Disk Usage Analyser, Filelight</td>
-						<td>Technically works but it's kind of slow and it has to go through the Wine file system, so using a native alternative would be better.</td>
+						<td>Technically works but it's kind of slow and it has to go through Wine's virtual file system, so using a native alternative would be better.</td>
 					</tr>
 					<tr>
 						<td>WinSCP</td>
