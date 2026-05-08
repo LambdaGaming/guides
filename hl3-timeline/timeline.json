@@ -1,0 +1,1186 @@
+[
+	{
+		"title": "Half-Life 2: Episode 3 Announced",
+		"date": "May 24, 2006",
+		"info": "Along with revealing more information about the previously announced Episode 1 and Episode 2, Valve also announces that a third episode is in development, and will release by Christmas 2007.",
+		"url": "https://www.gamespot.com/articles/half-life-2-episode-one-gold-two-dated-three-announced/1100-6151796/",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Explains Episodic Trilogy",
+		"date": "June 6, 2006",
+		"info": "In an interview with Eurogamer, Gabe explains why Valve decided to switch to an episodic model instead of just releasing all of it as one big game like Half-Life 2. At one point he refers to the episodic trilogy as Half-Life 3.",
+		"url": "https://web.archive.org/web/20120215131947/http://www.eurogamer.net/articles/i_valve_060606",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Explains Half-Life 2: Lost Coast",
+		"date": "August 24, 2006",
+		"info": "In an interview with 1Up Network, Gabe explains the advantage of developing Half-Life 2: Lost Coast, stating that instead of waiting for Half-Life 3 to ship, they can develop tech demos like Lost Coast and have new engine features be immediately available for other games to use, such as HDR in Day of Defeat: Source. This is another example of Gabe using Half-Life 3 to refer to the episodic trilogy.",
+		"url": "https://youtu.be/1RNXIhccXLc",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 is in Pre-Production",
+		"date": "May 17, 2007",
+		"info": "In an interview with Eurogamer, Valve marketing director Doug Lombardi explains that Episode 3 is currently in pre-production with a skeleton crew, but development will be ramping up now that Episode 2 is close to being finished.",
+		"url": "https://www.eurogamer.net/valve-comments-on-episode-three-progress",
+		"type": 0
+	},
+	{
+		"title": "Valve Has Plans Laid Out for Episode 3",
+		"date": "August 30, 2007",
+		"info": "In an interview with Geoff Keighley on GTTV, Gabe Newell states that Valve will be working on Episode 3 after The Orange Box releases to finish off the trilogy and story arcs.",
+		"url": "https://youtu.be/Vd3__pI1SAA",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Reiterates Plans for Episode 3",
+		"date": "September 7, 2007",
+		"info": "In an interview with IGN, Gabe once again states that Valve will be working on Episode 3 after The Orange Box releases. He goes on to say 'We know how the trilogy ends, and there are a bunch of loose ends and narrative arcs that need to come to a conclusion in Episode 3. That's gonna be a big focus for us.'",
+		"url": "https://www.youtube.com/watch?v=nVKuc9vd118",
+		"type": 0
+	},
+	{
+		"title": "The Orange Box Releases",
+		"date": "October 10, 2007",
+		"info": "Along with Portal and Team Fortress 2, Half-Life 2: Episode 2 releases as part of the Orange Box collection. The game ends with a major cliffhanger and a tie-in with Portal, keeping fans on the edge of their seats waiting to see what happens next. In the developer commentary, Gabe Newell explains that Episode 2 is the midpoint of the episodic trilogy, which will be concluding with Episode 3.",
+		"url": "https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/",
+		"type": 0
+	},
+	{
+		"title": "David Speyrer Explains Episode 2 Ending",
+		"date": "November 8, 2007",
+		"info": "In an interview with Rock Paper Shotgun, Episode 2 project lead David Speyrer explains various aspects of Episode 2, including its ending and why it didn't end with a trailer for Episode 3. He states that one of the reasons for the lack of a trailer was to leave Episode 3 open for Valve to do more ambitious things with.",
+		"url": "https://www.rockpapershotgun.com/rps-interview-episode-ones-david-speyrer",
+		"type": 0
+	},
+	{
+		"title": "First Episode 3 Concept Art Revealed",
+		"date": "November 2007",
+		"info": "The November 2007 issue of PC Gamer magazine includes official concept art for Half-Life 2: Episode 3 on page 59. This is the first time any piece of Episode 3 content is revealed to the public.",
+		"url": "https://archive.gamehistory.org/item/531e80e0-d9d0-4d65-bf82-6dbe951043b0",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 Isn't the Last Half-Life Game",
+		"date": "December 12, 2007",
+		"info": "In an interview with StuffWeLike, Doug Lombardi explains that Episode 3 is not going to be the last Half-Life game. This article appears to be one of the first cases of the name Half-Life 3 being used in the context of a separate, full-fledged game rather than a name to describe the episodic trilogy.",
+		"url": "https://www.stuffwelike.com/2007/12/12/half-life-3-world-exclusive/",
+		"type": 0
+	},
+	{
+		"title": "Fake Half-Life 3 Screenshot is Posted",
+		"date": "January 21, 2008",
+		"info": "A user on the hidden-source.com forum posts an image claiming that it's a screenshot of Half-Life 3. The image appears to show the player holding a blue crowbar standing on top of a building in the middle of City 17. Other users were quick to call it out as fake, but it nevertheless became one of the most well-known Half-Life 3 images.",
+		"url": "https://web.archive.org/web/20171118194434/https://forum.hidden-source.com/showthread.php?9275-First-Half-Life-3-Screenshot",
+		"type": 4
+	},
+	{
+		"title": "Gabe Newell Discusses Episode 3 Features",
+		"date": "March 1, 2008",
+		"info": "In an interview with Geoff Keighley on GTTV, Gabe states that Episode 3 will have multiple things that players have never seen before, relating to both graphics and gameplay. Geoff Keighley asks 'Even better than the portal gun?', to which Gabe replies 'Oh yeah'.",
+		"url": "https://youtu.be/Jt0w9YP_wZ0?t=60",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 References Found in Source SDK",
+		"date": "April 21, 2008",
+		"info": "A user on the Steam forums discovers references to an Episode3 folder in the Source SDK that contains 3 C++ source files. Valve employee Tony Sergi replies a day later, stating that they are unused leftovers that were included in the SDK by mistake.",
+		"url": "https://web.archive.org/web/20121117035655/http://forums.steampowered.com/forums/showthread.php?p=7533035#post7533035",
+		"type": 1
+	},
+	{
+		"title": "Rumors Spread About Episode 3 Reveal",
+		"date": "June 27, 2008",
+		"info": "Internet rumors spread that Episode 3 will be revealed at E3 2008. Doug Lombardi confirms that this isn't the case.",
+		"url": "https://web.archive.org/web/20190719043636/https://kotaku.com/will-half-life-2-episode-three-be-at-e3-valve-says-no-5020376",
+		"type": 3
+	},
+	{
+		"title": "More Episode 3 Concept Art Revealed",
+		"date": "July 11, 2008",
+		"info": "PC Gamer magazine releases more Episode 3 concept art on their website. These images appear to show advisors floating around the Borealis, which is partially encased in a giant ice wall.",
+		"url": "https://www.gamesradar.com/the-first-concept-art-from-half-life-2-episode-three/",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Declines to Comment on Episode 3",
+		"date": "August 22, 2008",
+		"info": "In an interview with Gamereactor about Left 4 Dead, Gabe is asked when we will see Episode 3, to which he replies 'I'm not saying anything about Episode 3 or any of the other things we haven't talked about.'",
+		"url": "https://www.youtube.com/watch?v=UVpvKioADjU",
+		"type": 0
+	},
+	{
+		"title": "Doug Lombardi Talks About Episode 3",
+		"date": "October 15, 2008",
+		"info": "In an interview with Kikizo, Lombardi states that the wait for Episode 3 is going to be longer than every other game in the franchise, and also states that Valve might reveal something about Episode 3 'at the very end of the year'.",
+		"url": "https://games.kikizo.com/features/valve-doug-lombardi-left-4-dead-interview-p3.asp",
+		"type": 0
+	},
+	{
+		"title": "Reasons for Episode 3 Delay Explained",
+		"date": "October 17, 2008",
+		"info": "In an interview with Shacknews, Doug Lombardi explains the reasons why Episode 3 isn't out yet. He says the project is more ambitious than previous games, and that a lot of their development time has been taken up by Left 4 Dead and Team Fortress 2.",
+		"url": "https://web.archive.org/web/20190723142744/https://kotaku.com/heres-who-to-blame-for-half-life-2-episode-3s-long-ges-5064829",
+		"type": 0
+	},
+	{
+		"title": "Petition Started for Valve to Communicate Better",
+		"date": "June 3, 2009",
+		"info": "After getting no word from Valve about Episode 3 at the end of 2008, Steam user surfrock22 starts a petition to get better communication from Valve, with a goal of 1000 signatures.",
+		"url": "https://web.archive.org/web/20120209055536/http://forums.steampowered.com/forums/showthread.php?t=887255",
+		"type": 5
+	},
+	{
+		"title": "Valve Declines to Comment on Episode 3",
+		"date": "June 10, 2009",
+		"info": "In an interview with G4TV, Doug Lombardi and Gabe Newell are asked about Left 4 Dead 2, Portal 2, TF2, and Episode 3. Gabe states that they're only going to discuss Left 4 Dead 2 and Episode 3, but Doug responds that they're not going to discuss Episode 3 publicly. Gabe laughs and says: 'Oh well, I guess I'm not talking about Episode 3 publicly either'.",
+		"url": "https://web.archive.org/web/20090914005014/http://g4tv.com/thefeed/blog/post/696431/Opening-The-Valve-The-Gabe-Newell-Interview.html",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 Might Feature Deaf Character",
+		"date": "August 7, 2009",
+		"info": "Gabe Newell interviews a group of deaf people to figure out what Valve can do to make their games and platform more accommodating. During this interview he mentions the possibility of Episode 3 having a deaf character.",
+		"url": "https://youtu.be/j2LnP3JgbM0",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 is Victim of Valve's Experimenting",
+		"date": "August 12, 2009",
+		"info": "In a podcast interview with Steamcast, Gabe Newell is asked why Valve has chosen to keep quiet about Episode 3 when they were open about all of their other in-development games. Gabe replies that Valve doesn't say anything about it because they don't have anything to say. He goes on to say that Valve is always experimenting, and Episode 3 is a victim of that. He concludes by stating that Valve will say something as soon as they have something to say.",
+		"url": "https://web.archive.org/web/20140222165849/http://www.thesteamcast.com/episodes/9/",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 Still in Development",
+		"date": "September 2009",
+		"info": "Geoff Keighley interviews Gabe Newell on GTTV and asks about Episode 3. Gabe states that he doesn't have anything to say about it, but after more questions from Geoff he confirms that the game is still in development. He then jokingly says to Geoff: 'You're not going to trick me into saying something that I get emailed about for the next year'.",
+		"url": "https://youtu.be/Jt0w9YP_wZ0?t=95",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Admits Episode 3 is Late",
+		"date": "November 23, 2009",
+		"info": "In an interview with Machinima about Left 4 Dead 2, Gabe admits that Episode 3 is late. While he doesn't go into detail about Episode 3, he states that 'we tend to view ourselves as subject to valid criticism on our ability to manage our schedules'.",
+		"url": "https://web.archive.org/web/20161222063807/https://www.youtube.com/watch?v=5uhpj5XQEOA",
+		"type": 0
+	},
+	{
+		"title": "Game Informer Casts Doubts on 2010 Release",
+		"date": "January 2010",
+		"info": "Game Informer magazine publishes a note in the rumors section of their January 2010 issue, stating that there won't be any Half-Life games releasing in 2010, and that it's unknown what the next game will be.",
+		"url": "https://kotaku.com/no-new-half-life-coming-in-2010-says-game-informer-5452226",
+		"type": 3
+	},
+	{
+		"title": "Portal ARG Begins",
+		"date": "March 1, 2010",
+		"info": "Valve begins gradually updating Portal with cryptic content that fans come to realize is an ARG for Portal 2. While this isn't Valve's first ARG, it is the most memorable amongst fans. Unbeknownst to Valve at the time, this ARG would set an expectation that future Half-Life titles would be announced in a similar way.",
+		"url": "https://combineoverwiki.net/wiki/Portal_ARG",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Suggests Making Half-Life Scarier",
+		"date": "March 26, 2010",
+		"info": "In an interview with Edge magazine, Gabe Newell discusses how Half-Life games have gotten away from scaring people more than he'd like, and that Valve needs to think about 'broadening the emotional palette' that they can use.",
+		"url": "https://web.archive.org/web/20100330072951/https://www.computerandvideogames.com/article.php?id=240672",
+		"type": 0
+	},
+	{
+		"title": "Gordon Freeman Isn't Changing",
+		"date": "April 4, 2010",
+		"info": "In another interview with Edge magazine, Gabe Newell is asked about changing Gordon Freeman to be more aligned with modern shooters. Gabe explains that there's no reason to do so, and most of what he's seen is gimmicky and only briefly entertaining. Gabe is then asked whether or not Freeman would ever speak. He replies that they're not opposed to it, but there isn't a good reason to do it.",
+		"url": "https://web.archive.org/web/20111127204200/http://www.computerandvideogames.com/241221/gabe-newell-next-half-life-wont-change-gordon-freeman/",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 References Found in Alien Swarm SDK",
+		"date": "August 2, 2010",
+		"info": "Several hint nodes referencing a blob entity from Episode 3 are found in the Alien Swarm SDK.",
+		"url": "https://archive.lambdageneration.com/episode-3-ai-nodes-found-in-the-alien-swarm-sdk/",
+		"type": 1
+	},
+	{
+		"title": "Doug Lombardi Declines to Comment on Episode 3",
+		"date": "August 5, 2010",
+		"info": "In an interview with Computers and Video Games, Doug Lombardi is asked about Episode 3. He responds with 'We hate to make you wait, but we have no announcements regarding Mr. Freeman or his ongoing adventures at this time'.",
+		"url": "https://web.archive.org/web/20110221100238/http://www.computerandvideogames.com/258751/features/how-valve-will-change-ps3/",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Declines to Comment on Episode 3",
+		"date": "September 15, 2010",
+		"info": "In an interview with PC Gamer, Gabe is asked about something called the Weaponizer being compared with the gravity gun on a whiteboard in Valve's office, and if it has anything to do with Episode 3. Gabe says no, and that it was an internal design experiment. The interviewer then asks more questions about Episode 3, to which Gabe refuses to answer because Doug Lombardi would yell at him.",
+		"url": "https://www.pcgamer.com/we-ask-gabe-newell-about-piracy-drm-and-episode-three/",
+		"type": 0
+	},
+	{
+		"title": "Valve Petition Reaches 1000 Signatures",
+		"date": "December 18, 2010",
+		"info": "The petition started by Steam user surfrock22 for Valve to communicate better hits 1000 signatures. An email is then sent to Gabe Newell and Doug Lombardi requesting Valve to communicate more about Episode 3. Neither person ever responded.",
+		"url": "https://archive.lambdageneration.com/the-episode-two-spufs-message-to-valve-petition-has-hit-1000-signatures/",
+		"type": 5
+	},
+	{
+		"title": "Valve Writers Decline to Comment on Episode 3",
+		"date": "February 21, 2011",
+		"info": "In a phone interview with Australian news outlet news.com.au about Portal 2, Valve writers Chet Faliszek, Erik Wolpaw, and Jay Pinkerton are asked when Episode 3 is releasing. They say they aren't prepared to talk about that. They are then asked if the game is coming out at all, to which they respond by pretending that the phone line is breaking up.",
+		"url": "https://web.archive.org/web/20110224032249/https://www.news.com.au/technology/gaming/valve-writers-crack-jokes-about-g-man-but-refuse-to-answer-questions-about-half-life-2-episode-3/story-e6frfrt9-1226009308880",
+		"type": 0
+	},
+	{
+		"title": "Doug Lombardi Says 'Hang in There'",
+		"date": "March 28, 2011",
+		"info": "In an interview with AusGamers, Doug confirms that Valve isn't done making Half-Life games, and says to 'hang in there with us'.",
+		"url": "https://web.archive.org/web/20110928071554/https://www.ausgamers.com/features/read/3037280",
+		"type": 0
+	},
+	{
+		"title": "Fans Speculate on Portal 2's Role in Half-Life Story",
+		"date": "April 8, 2011",
+		"info": "Knowing the connection between Portal 1 and Episode 2, fans speculate on what Portal 2 might add to the Half-Life story, and if Half-Life 3 could be announced after Portal 2 releases.",
+		"url": "https://kotaku.com/where-does-portal-2s-co-op-campaign-fit-into-the-half-l-5790275",
+		"type": 3
+	},
+	{
+		"title": "Portal 2 Releases",
+		"date": "April 19, 2011",
+		"info": "The sequel to Portal releases and soon becomes the #1 most top rated game on Steam - a title that it still holds today. The game includes a hidden easter egg that shows the dry dock of the Borealis, leading fans to speculate that Half-Life 3 might be coming soon.",
+		"url": "https://store.steampowered.com/app/620/Portal_2/",
+		"type": 0
+	},
+	{
+		"title": "Valve Done Making Single-Player Games",
+		"date": "April 19, 2011",
+		"info": "In The Final Hours of Portal 2 by Geoff Keighley, Geoff states that 'Portal 2 will probably be Valve's last game with an isolated single-player experience'. Fans speculate on what this could mean for the future of the Half-Life series and Valve games in general.",
+		"url": "https://kotaku.com/valve-probably-done-with-single-player-games-5795355",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Explains 'Single-Player Plus'",
+		"date": "May 2, 2011",
+		"info": "In an interview with a high school student, Gabe Newell clarifies that Valve isn't done making single-player games, but rather wants to integrate social features into single-player experiences to make players feel more connected - which he calls single-player plus. Later in the same interview, Gabe is asked about a crossover between Portal and Half-Life. He implies that having Gordon and Chell exist at the same time and same place is within the realm of possibility.",
+		"url": "https://kotaku.com/valve-turns-to-singleplayer-plus-not-no-more-singlepla-5799661",
+		"type": 0
+	},
+	{
+		"title": "Valve is Done With the Episodic Model",
+		"date": "May 9, 2011",
+		"info": "In an interview with Develop, Gabe Newell states that the episodic model has been completely replaced, and now Valve is shifting towards much shorter development cycles where games are being constantly updated. This is likely one of the main reasons there started to be more talk about Half-Life 3 rather than Episode 3 around this time.",
+		"url": "https://web.archive.org/web/20111105230057/https://www.develop-online.net/features/1184/The-Valve-manifesto",
+		"type": 0
+	},
+	{
+		"title": "New Half-Life Entities Found in Portal 2 SDK",
+		"date": "May 14, 2011",
+		"info": "Two previously unseen Half-Life entities are found within the Portal 2 FGD file: npc_combine_advisor_roaming and info_target_advisor_roaming_crash. Given that these entities are not present in Episode 2, fans speculate that they could be related to Episode 3.",
+		"url": "https://archive.lambdageneration.com/half-life-code-found-inside-portal-2-sdk/",
+		"type": 1
+	},
+	{
+		"title": "Gabe Newell Declines to Comment on Episode 3",
+		"date": "June 22, 2011",
+		"info": "At a keynote address for the Games For Learning Institute, Gabe Newell is asked a question about Episode 3, to which he declines to answer.",
+		"url": "https://kotaku.com/liveblogging-whatever-smart-stuff-gabe-newell-has-to-sa-5814405",
+		"type": 0
+	},
+	{
+		"title": "Possible Half-Life 3 ARG Found",
+		"date": "July 25, 2011",
+		"info": "A Reddit user finds a cryptic video that provides a hidden link in hexadecimal. Once converted to ASCII, the link redirects to megaupload.com where a Half-Life 2: Episode 2 map can be downloaded. While at first many people thought this could be an ARG for Half-Life 3, it ultimately led to nothing.",
+		"url": "https://www.reddit.com/r/gaming/comments/iyr59/arg_for_something_new_maybe_from_valve_heres_a/",
+		"type": 4
+	},
+	{
+		"title": "Canadians Protest Outside Valve HQ",
+		"date": "August 10, 2011",
+		"info": "Two Canadians sit in lawn chairs outside Valve's office building, each holding cardboard signs. One reads: 'Canada 4 the release of Half Life 3', and the other reads 'Half Life 3...is it Left 4 Dead?'. Gabe Newell becomes aware of the protest and meets the two outside. He says he can't tell them when Episode 3 is releasing, but he gives them pizza and offers to give them a tour of the office and have them play test Dota 2.",
+		"url": "https://archive.lambdageneration.com/what-became-of-the-hl3-protest/",
+		"type": 5
+	},
+	{
+		"title": "Gabe Newell Declines to Comment on Episode 3",
+		"date": "August 19, 2011",
+		"info": "In an interview with PC Gamer at Gamescom 2011, Gabe is asked about Episode 3 and states: 'No, we don't have anything about Half-Life or Episode 3.'",
+		"url": "https://youtu.be/o_I6RtnAeLo",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Declines to Comment on Half-Life",
+		"date": "August 23, 2011",
+		"info": "In an interview with Gamereactor at Gamescom 2011, Gabe is asked briefly about the status of the Half-Life franchise, to which he smiles and replies: 'I've got nothing to say about Half-Life.'",
+		"url": "https://youtu.be/ehwvouL-I74",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 Code Found in Dota 2 Leak",
+		"date": "September 19, 2011",
+		"info": "Several C++ source files for Episode 3 weapons are found in a Dota 2 client that was leaked by a beta tester. The weapons include an ice gun, weaponizer, and flamethrower. There are also references to unknown entities that were later found to be part of the cancelled game Stars of Blood.",
+		"url": "https://archive.lambdageneration.com/dota-2-client-leaked-including-actual-hl2-episode-three-code/",
+		"type": 2
+	},
+	{
+		"title": "Gabe Newell Jokes About Episode 3",
+		"date": "September 21, 2011",
+		"info": "A Reddit user emails a haiku to Gabe, asking if Episode 3 is coming soon. Gabe responds with another haiku: 'Haikus are neato. They have a rigid structure. Episode 3 ships in'.",
+		"url": "https://www.reddit.com/r/gaming/comments/kn6yt/exchanging_episode_3_haikus_with_gabe_newell/",
+		"type": 0
+	},
+	{
+		"title": "Leaked Episode 3 Code Doesn't Mean Anything",
+		"date": "September 22, 2011",
+		"info": "At a CS:GO presentation in London, Valve writer Chet Faliszek tells NowGamer that the leaked Episode 3 source code doesn't mean anything. He says that if you looked at the original Half-Life source code, you'd probably find unrelated things that are labeled HL3. He then claims that 'its just the way it happens'.",
+		"url": "https://web.archive.org/web/20120325190607/http://www.nowgamer.com/news/1065119/halflife_2_episode_3_code_doesnt_mean_anything_valve.html",
+		"type": 0
+	},
+	{
+		"title": "Valve Employee Seen Wearing Half-Life 3 Shirt",
+		"date": "December 2, 2011",
+		"info": "At a developer event in Bellevue, Uber Entertainment founder Eka sees an unnamed Valve employee wearing a Half-Life 3 shirt. Fans speculate that the employee could be hinting at the game being in development.",
+		"url": "https://web.archive.org/web/20121117090018/https://kotaku.com/5864573/half+life-3-t+shirt-confirmed-but-that-is-all",
+		"type": 0
+	},
+	{
+		"title": "Voice Lines Recorded for Episode 3",
+		"date": "December 9, 2011",
+		"info": "An unnamed American voice actor tells the Official Xbox Magazine that they recently recorded voice lines for 'Half-Life Episode 3'. Fans speculate how far along in development the game is, and whether or not it could be announced at the Spike Video Game Awards.",
+		"url": "https://web.archive.org/web/20120107175418/http://www.oxm.co.uk/36708/valve-voice-actor-working-on-half-life-episode-3/",
+		"type": 2
+	},
+	{
+		"title": "Wheatley Speech Releases",
+		"date": "December 22, 2011",
+		"info": "Valve releases a video for the Spike Video Game Awards Character of the Year award, showing Wheatley from Portal 2 accepting the award. Wheatley was nominated but did not win. Fans are quick to note the last thing Wheatley says - 'Ah, maybe next year' - doesn't seem to be an empty phrase. People speculate that Valve could be releasing another single-player game in 2012.",
+		"url": "https://archive.lambdageneration.com/valve-releases-wheatleys-vga-2011-character-of-the-year-never-aired-acceptance-short-hints-towards-a-secret-valve-single-player-game-to-be-released-in-2012/",
+		"type": 0
+	},
+	{
+		"title": "Fake Half-Life 3 Website Launched",
+		"date": "December 22, 2011",
+		"info": "Roughly around the same time that Valve uploads Wheatley's speech, a fake Half-Life 3 website goes live. The site displays a giant Half-Life 3 logo and not much else. While this generates a good amount of hype within the community, it quickly dies out when people realize the website isn't registered to Valve.",
+		"url": "https://kotaku.com/heres-your-weekly-instalment-of-half-life-3-trolling-5870308",
+		"type": 4
+	},
+	{
+		"title": "Hints to be Dropped for Next Half-Life Game",
+		"date": "December 22, 2011",
+		"info": "Steamcast co-host Saurabh is told by an informant who has sources at Valve that Gabe Newell 'has given the go ahead to drop hints for the next half life game'. Despite all people involved in this flow of information being credible sources, Gabe later debunks this claim in an email. It is also revealed that the informant was only assuming Gabe said this, and was not directly told he did.",
+		"url": "https://archive.lambdageneration.com/informant-close-to-valve-tells-valve-arg-network-admin-and-steamcast-co-host-gabe-has-given-the-go-ahead-for-half-life-hints/",
+		"type": 4
+	},
+	{
+		"title": "John Patrick Lowrie Not Involved With Episode 3",
+		"date": "December 23, 2011",
+		"info": "Voice actor John Patrick Lowrie denies being involved with Episode 3 or Half-Life 3. He says he hasn't heard anything from Valve about it, and if he did he wouldn't lie about it. He also states that his wife - voice actress Ellen McLain - hasn't been contacted by Valve about a new Half-Life game either.",
+		"url": "https://web.archive.org/web/20121117035523/http://lowrie.camelpress.com/?p=306",
+		"type": 0
+	},
+	{
+		"title": "Half-Life References in Steam Winter Sale",
+		"date": "December 24, 2011",
+		"info": "Steam users find multiple references to Half-Life in media related to the 2011 Steam winter sale. One is a hidden image that depicts three of Steam's mascots riding on Santa's sleigh. The first mascot is wearing a chain necklace with the Half-Life logo on it. Another is a comic, that on page 3 shows 3 stockings with Gordon, Alyx, and Dog written on them. The final thing is a description for an achievement in a holiday sale mini game, where Half-Life is mentioned.",
+		"url": "https://archive.lambdageneration.com/valve-teases-half-life-3-through-hidden-steam-store-image-and-more-strange-half-life-hints-and-clues/",
+		"type": 3
+	},
+	{
+		"title": "Valve Petition Expands Into Steam Group",
+		"date": "December 25, 2011",
+		"info": "The original petition that requested more communication from Valve on Episode 3 has expanded into a Steam group, which quickly gained thousands of members. The group hopes to get Valve's attention and finally get them to improve their communication.",
+		"url": "https://steamcommunity.com/groups/messagetovalve",
+		"type": 5
+	},
+	{
+		"title": "Chet Faliszek Debunks Recent Info",
+		"date": "December 27, 2011",
+		"info": "In response to all of the info about Half-Life 3 that has come out recently, Chet Faliszek posts on the Steam forums that it's all false, and that the community is simply being trolled by the community.",
+		"url": "https://web.archive.org/web/20120104014444/http://forums.steampowered.com/forums/showpost.php?p=27654778&postcount=30",
+		"type": 0
+	},
+	{
+		"title": "Half-Life References Found in CS:GO",
+		"date": "January 4, 2012",
+		"info": "Multiple Half-Life references are found on textures in the CS:GO beta, including a sign for Blue Mesa Airlines; a whiteboard that lists Barney, Gordon, Eli, and Breen; and a Raising the Bar book.",
+		"url": "https://web.archive.org/web/20120201040019/http://forums.steampowered.com/forums/showthread.php?t=2456534",
+		"type": 1
+	},
+	{
+		"title": "Operation Crowbar Commences",
+		"date": "January 5, 2012",
+		"info": "To protest Valve's silence on Episode 3, a group of fans join together to order crowbars from Amazon and send them to Valve. It's unknown what came of this, if anything.",
+		"url": "https://web.archive.org/web/20120201040730/http://forums.steampowered.com/forums/showthread.php?t=2460658",
+		"type": 5
+	},
+	{
+		"title": "IGN Predicts Half-Life 3 Will be Announced in 2012",
+		"date": "January 10, 2012",
+		"info": "This prediction is based on two main factors: Next gen hardware is being unveiled in 2012, and no known Valve games are coming out in 2013.",
+		"url": "https://www.ign.com/articles/2012/01/10/prediction-half-life-3-will-be-unveiled-in-2012",
+		"type": 3
+	},
+	{
+		"title": "Garry Newman Gets Half-Life 3 Shirt",
+		"date": "January 12, 2012",
+		"info": "Garry's Mod creator Garry Newman makes a Tweet saying he got a Half-Life 3 shirt from Valve. An hour later he makes another post claiming that he was just joking. Some fans remain skeptical though, as it seems unusual for Garry to make such a post to begin with.",
+		"url": "https://archive.lambdageneration.com/garry-newman-trolls-fans-with-yet-another-half-life-3-t-shirt/",
+		"type": 4
+	},
+	{
+		"title": "Marc Laidlaw Confirms Existence of Episode 4",
+		"date": "January 13, 2012",
+		"info": "Following rumors about a supposed Episode 4 being in development, Marc Laidlaw confirms in an email that it was in development from 2006-2009. He says it was going to be developed by Arkane Studios and called Return to Ravenholm.",
+		"url": "https://archive.lambdageneration.com/marc-laidlaw-on-the-cancelled-half-life-spin-offs-return-to-ravenholm-and-episode-four/",
+		"type": 0
+	},
+	{
+		"title": "Fans Protest Valve by Playing Half-Life 2",
+		"date": "January 31, 2012",
+		"info": "The Call for Communication Steam group announces plans to get tens of thousands of people playing Half-Life 2 at once on February 5, to get Valve's attention and let them know how much they want Half-Life 3. Tens of thousands of people did participate, and Half-Life 2 reached #11 for the daily top played games list, but Valve did not respond.",
+		"url": "https://kotaku.com/30-000-people-are-going-to-play-half-life-2-as-a-protes-5881132",
+		"type": 5
+	},
+	{
+		"title": "Episode 3 Choreography Files Found in Portal 2",
+		"date": "March 1, 2012",
+		"info": "Digging deeper into the Portal 2 files, fans are able to find Dr. Magnusson choreography files that don't match anything found in Episode 2, meaning they are likely from Episode 3.",
+		"url": "https://archive.lambdageneration.com/new-half-life-choreography-files-for-doctor-magnusson-found-in-portal-2/",
+		"type": 1
+	},
+	{
+		"title": "Gabe Newell Confirms No E3 2012 Announcements",
+		"date": "April 23, 2012",
+		"info": "In an email with a ValveTime user, Gabe Newell confirms that Valve will not be announcing anything new at E3 2012. He specifically mentions that they will not be announcing Half-Life 3, Portal 3, or Left 4 Dead 3.",
+		"url": "https://web.archive.org/web/20120510115206/http://valvetime.net/threads/gabe-newell-we-are-not-announcing-anything-at-e3.189989/",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Discusses 'Ricochet 2'",
+		"date": "April 23, 2012",
+		"info": "In a podcast interview with Seven Day Cooldown, Gabe is asked about Ricochet 2, which he discusses as if he is talking about Episode 3. He states that he would love to talk about it, but the 'twists and turns' that the company goes through during development would probably drive people more crazy than just remaining silent until the development team has made up their mind.",
+		"url": "https://www.pcgamer.com/half-life-2-episode-3-silence-due-to-development-twists-and-turns-says-newell/",
+		"type": 0
+	},
+	{
+		"title": "BreenGrub Starts Posting",
+		"date": "May 31, 2012",
+		"info": "A Twitter account named BreenGrub is created and starts posting short, cryptic messages that appear to be about Dr. Breen in an Advisor body talking to himself. People speculate that this might be an ARG for a new Half-Life game.",
+		"url": "https://x.com/BreenGrub",
+		"type": 3
+	},
+	{
+		"title": "Gabe Newell Dodges Another Half-Life Question",
+		"date": "June 2012",
+		"info": "At E3 2012, Norwegian news outlet DBTV asks Gabe Newell if he has received death threats yet over Half-Life 3 not being released. Gabe laughs and replies: 'I think everybody hopes that we do good work in the future.'",
+		"url": "https://youtu.be/izoGqxYy9bs",
+		"type": 0
+	},
+	{
+		"title": "These Things, They Take Time",
+		"date": "June 9, 2012",
+		"info": "In a Kickstarter video for an upcoming indie game, Gabe Newell is seen hitting a glowing hot crowbar over an anvil. A man approaches and asks: 'Is that about ready?', to which Gabe replies: 'These things, they take time.'. Not knowing the original context, many people assume it's a teaser for an upcoming Half-Life game.",
+		"url": "https://youtu.be/0d6yBHDvKUw",
+		"type": 5
+	},
+	{
+		"title": "Episode 3 Concept Art Discovered",
+		"date": "June 27, 2012",
+		"info": "A ValveTime user discovers several pieces of Episode 3 concept art on Picasa, created by Valve artist Andrea Wicklund. She had posted the images to her Picasa account in 2008, and presumably deleted them once fans discovered them.",
+		"url": "https://web.archive.org/web/20180923122755/http://www.valvetime.net/threads/exclusive-half-life-2-episode-3-concept-art.206815/",
+		"type": 2
+	},
+	{
+		"title": "Source 2 References Found in Source Filmmaker",
+		"date": "August 6, 2012",
+		"info": "A ValveTime user finds references to a Source 2 engine in the Source Filmmaker beta files. This is the first time anything related to Source 2 is found. Fans have high hopes that the next Half-Life game will be running on the new engine.",
+		"url": "https://web.archive.org/web/20120824131948/http://www.valvetime.net/threads/exclusive-next-gen-source-2-engine-is-in-development.215336/",
+		"type": 1
+	},
+	{
+		"title": "Half-Life 3 Will be Announced at Gamescom",
+		"date": "August 14, 2012",
+		"info": "A PDF file from Gamescom lists all of the games that will be appearing at the event, and Half-Life 3 is one of those games. Gamescom later says that this entry was a mistake, and Valve also confirms that they are not announcing anything at Gamescom.",
+		"url": "https://www.rockpapershotgun.com/half-life-3-to-be-announced-at-gamescom-goodness-knows",
+		"type": 2
+	},
+	{
+		"title": "Half-Life 3 Logo Appears in Keyboard Ad",
+		"date": "August 14, 2012",
+		"info": "In an ad for the Mad Catz S.T.R.I.K.E. 7 keyboard, the screen attachment shows a Half-Life 3 logo in one of the menus. Fans speculate whether or not this could mean anything.",
+		"url": "https://www.youtube.com/watch?v=3AbwJON7ECk&t=22s",
+		"type": 3
+	},
+	{
+		"title": "Gabe Newell Jokes About Half-Life 3",
+		"date": "August 17, 2012",
+		"info": "In a special Valve-focused episode of GTTV with Geoff Keighley, Gabe finishes off the episode by stating that he's going swimming with sharks in Africa, and jokingly pleads with the sharks not to eat him, then says: 'You'll never get Half-Life 3 if you eat me.'",
+		"url": "https://youtu.be/G9luYVeqS4k",
+		"type": 0
+	},
+	{
+		"title": "Insider Claims Half-Life 3 is Open World",
+		"date": "September 20, 2012",
+		"info": "An anonymous source that claims to be close to Valve told French gaming site Le Journal du Gamer that Half-Life 3 will be open world. Similar to Skyrim and Fallout, the game will also supposedly feature quests given by NPCs. The source also claims that the game won't be releasing until after 2013.",
+		"url": "https://www.slashgear.com/half-life-3-has-reportedly-become-an-open-world-game-20248794/",
+		"type": 4
+	},
+	{
+		"title": "Gabe Newell Confirms Source 2 is in Development",
+		"date": "November 11, 2012",
+		"info": "During a meetup with 4chan users and Valve employees for Gabe Newell's 50th birthday, Gabe is asked about Source 2. He confirms that it's been in development for a while, and that they're 'waiting for a game to roll it out with'.",
+		"url": "https://archive.lambdageneration.com/gabe-newell-officially-confirms-that-a-next-gen-valve-engine-is-in-development/",
+		"type": 0
+	},
+	{
+		"title": "Episode 3 FGD File Leaks",
+		"date": "February 18, 2013",
+		"info": "A user on ValveLeakware uploads two FGD files: one for cancelled game Stars of Blood, and one for Episode 3. The Episode 3 file contains references to several weapons and entities including a teleport gun, ice gun, weaponizer, charge gun, gluon gun, tau cannon, depleted uranium ammo for the gluon gun and tau cannon, and the blob entity.",
+		"url": "https://web.archive.org/web/20130220225036/http://valveleakware.com/threads/episode-3-and-sob-fgds-leaked.3",
+		"type": 2
+	},
+	{
+		"title": "Gabe Newell Declines to Comment on Half-Life 3",
+		"date": "March 13, 2013",
+		"info": "At the British Academy Games Awards, Gabe is asked by the BBC and the host of the show about Half-Life 3 being in development, to which he states he doesn't have anything to share.",
+		"url": "https://youtu.be/6jDLUfm4pLQ",
+		"type": 0
+	},
+	{
+		"title": "Fake Episode 3 Steam Page is Launched",
+		"date": "April 1, 2013",
+		"info": "A fan-made website is launched on April Fools Day, showing Episode 3 on a nearly identical version of the Steam store. While many are quick to realize it's fake, it still manages to fool some.",
+		"url": "https://web.archive.org/web/20130404224737/https://storestteampowered.com/app/4411/",
+		"type": 4
+	},
+	{
+		"title": "Marc Laidlaw Admits to Being Behind BreenGrub",
+		"date": "May 16, 2013",
+		"info": "He confirms that it's not an ARG and is just something he wanted to do for fun. He continued to post occasionally for another year afterwards, with the last posts being made on June 6, 2014. While these posts are not canon, many fans still like to believe they are.",
+		"url": "https://combineoverwiki.net/wiki/BreenGrub#cite_ref-4",
+		"type": 0
+	},
+	{
+		"title": "Valve Project Tracker Leaked",
+		"date": "June 19, 2013",
+		"info": "Due to a security exploit in the project management software Jira, people from outside of Valve were able to gain access to the company's internal mailing lists. Several unannounced projects were found including Half-Life 3, Left 4 Dead 3, and Source 2. Each of these projects also list all Valve employees who have worked on them.",
+		"url": "https://web.archive.org/web/20130703062038/http://www.valvetime.net/threads/updated-half-life-3-left-4-dead-3-source-2-much-more-found-on-valve-project-tracker.243580",
+		"type": 2
+	},
+	{
+		"title": "Steam Support Makes Cryptic Tweet",
+		"date": "June 25, 2013",
+		"info": "Steam Support posts on their Twitter that a recent Half-Life 2 update has issues, and that players should pause the update for now. They end the post with a sentence in Korean: '예측하지 못한 결과에 대비하라...', which roughly translates to 'Prepare for unforeseen consequences'. Given the fact that the project tracker leak happened less than a week prior, fans speculate that Valve could be teasing an upcoming announcement. A baseless rumor also stemmed from this that Dr. Breen was replaced at the beginning of the game with a picture of North Korean dictator Kim Jong-Un.",
+		"url": "https://x.com/Steam_Support/status/349678346688405505",
+		"type": 3
+	},
+	{
+		"title": "PC Gamer Rumors Spread",
+		"date": "June 26, 2013",
+		"info": "The June 2013 issue of PC Gamer magazine includes an illustration of an elevator panel at Valve's office, seemingly without context. The 13th floor is labeled 'Half-Life 3 Development', with a post-it note over it that says 'FPS Developer Terrarium'. While fans speculated that Half-Life 3 would be revealed in a future issue of the magazine, the artist who made the elevator panel claims it was simply a joke.",
+		"url": "https://www.reddit.com/r/gaming/comments/1h2yxm/halflife_3_to_be_revealed_in_pc_gamer/",
+		"type": 3
+	},
+	{
+		"title": "John Patrick Lowrie Says Half-Life 3 Isn't in Development",
+		"date": "August 14, 2013",
+		"info": "In response to comments on a 2 year old post on his personal website, Valve voice actor John Patrick Lowrie claims Half-Life 3 is not in development. He says Valve is busy with other projects, and that they have motion capture problems they need to solve.",
+		"url": "https://www.vg247.com/valve-isnt-developing-half-life-3-right-now-claims-voice-actor",
+		"type": 0
+	},
+	{
+		"title": "John Patrick Lowrie Retracts Previous Statements",
+		"date": "August 19, 2013",
+		"info": "Several days after claiming Half-Life 3 isn't in development, John deletes his comments and makes a new comment clarifying the situation. He apologizes for giving people the impression that he knew about Half-Life 3, and that the best info people will get is whatever Gabe Newell says.",
+		"url": "https://www.vg247.com/half-life-voice-actor-misspoke-about-half-life-3-suspension",
+		"type": 0
+	},
+	{
+		"title": "Valve Project Tracker Leaked (Again)",
+		"date": "September 1, 2013",
+		"info": "This time a new group was found called Half-Life 3 Core, and the amount of people in the original Half-Life 3 group increased, suggesting that the project is gaining momentum.",
+		"url": "https://web.archive.org/web/20131109091801/http://www.valvetime.net/threads/valve-jira-database-accessed-once-more-hl3-l4d3-source-2-groups-expand.243965/",
+		"type": 2
+	},
+	{
+		"title": "Valve Files EU Trademark for Half-Life 3",
+		"date": "September 29, 2013",
+		"info": "A NeoGAF user notices that Valve has filed a trademark in the EU for Half-Life 3. Several days later, journalists noticed that this filing was removed from the official EU trademark website, meaning it was likely fake.",
+		"url": "https://www.neogaf.com/threads/valve-files-trademark-for-update-and-logo.688589/",
+		"type": 4
+	},
+	{
+		"title": "Half-Life 3 References in Source 2 Leak",
+		"date": "January 27, 2014",
+		"info": "A NeoGAF user posts an image showing a file directory for Source 2 that contains several folders and files. Two of these folders include hl3 and hl3_imported. CS2, Left 4 Dead 3, and Team Fortress are also referenced. The community is skeptical at first, but users on ValveTime are able to verify the legitimacy of the leak.",
+		"url": "https://web.archive.org/web/20201112040526/https://www.neogaf.com/threads/another-source-2-related-leak.759039/#post-98671599",
+		"type": 2
+	},
+	{
+		"title": "Half-Life 3 References Found in Source Filmmaker",
+		"date": "March 11, 2014",
+		"info": "A ValveTime user finds references to Half-Life 3 in Python code for Source Filmmaker. The code specifically mentions a dog fight movie.",
+		"url": "https://www.valvetime.co.uk/threads/half-life-3-referenced-in-source-filmmaker-render-code.244373/",
+		"type": 1
+	},
+	{
+		"title": "Counter-Strike Co-Creator Says Half-Life 3 is in Development",
+		"date": "May 23, 2014",
+		"info": "Co-creator of the original Counter-Strike Minh Le confirms that Half-Life 3 is in development and that he's seen concept art for it. He also claims he's seen Left 4 Dead 3.",
+		"url": "https://www.vg247.com/half-life-3-left-4-dead-3-minh-le-interview",
+		"type": 3
+	},
+	{
+		"title": "Two Fans Try to Crowdfund Pressure Campaign",
+		"date": "October 17, 2014",
+		"info": "Two Half-Life fans working as interns at an ad firm attempt to crowdfund a pressure campaign that would effectively harass Valve employees to convince them to release Half-Life 3. They had a goal of raising $150,000, but ended up getting less than $1,600.",
+		"url": "https://www.pcgamer.com/half-life-3-pressure-campaign-sounds-like-a-terrible-idea/",
+		"type": 5
+	},
+	{
+		"title": "Half-Life 3 Reference Found in Dota 2 Workshop Tools",
+		"date": "February 10, 2015",
+		"info": "A NeoGAF user finds a single 'hl3' in the files of the Dota 2 Workshop Tools. It appears to be part of a launch parameter for a program called physics_testbed.exe. It's unknown how long this existed in the files before being discovered.",
+		"url": "https://www.valvetime.co.uk/threads/minor-half-life-3-reference-found-within-dota-2-workshop-tools.245732/",
+		"type": 1
+	},
+	{
+		"title": "First Mention of a Possible VR Half-Life Game",
+		"date": "March 5, 2015",
+		"info": "During Valve's VR demo at the Game Developers Conference, Kotaku asks Valve programmer Jett Barnett about the possibility of a new Half-Life game. Barnett explains that Valve is experimenting in VR using Half-Life assets, but a new Half-Life game is not guaranteed.",
+		"url": "https://kotaku.com/yep-valve-is-experimenting-with-half-life-in-vr-1689726340",
+		"type": 0
+	},
+	{
+		"title": "Fake Half-Life 3 Site Appears",
+		"date": "June 12, 2015",
+		"info": "Another fake website mimicking the Steam store appears. The front page of the store features an image carousel, with the second image being Half-Life 3. Once again, some people are fooled, most aren't.",
+		"url": "https://web.archive.org/web/20150821090403/https://valve.software/",
+		"type": 4
+	},
+	{
+		"title": "Half-Life 3 References Found in Dota 2 Update",
+		"date": "October 9, 2015",
+		"info": "An FGD file named hl3.txt is found by SteamDB in a recent Dota 2 update. The file contains references to several notable things, including the Combine Ceiling Turret, VR systems, and an NPC quest system.",
+		"url": "https://github.com/SteamTracking/GameTracking/blob/0dd82bbf7db9c0bde3f045e337544eeeb7038595/373301/game/core/tools/help/fgd/hl3.txt",
+		"type": 1
+	},
+	{
+		"title": "ARG Found in Steam Winter Sale",
+		"date": "January 1, 2016",
+		"info": "Several potential references to Half-Life are found in an ARG for the 2015 Steam winter sale, including lambda logos, crowbars, and a possible Borealis connection. Fans begin to think it could be for an upcoming game, but Marc Laidlaw clarifies in an email that the ARG is purely for the Steam winter sale and isn't related to any game announcement.",
+		"url": "https://archive.lambdageneration.com/could-this-really-be-half-life-3-everything-we-know-so-far-about-the-steam-holiday-sale-arg/",
+		"type": 3
+	},
+	{
+		"title": "Marc Laidlaw Leaves Valve",
+		"date": "January 8, 2016",
+		"info": "He states that he needs 'a break from the collaborative chaos of game production, and a return to more self-directed writing projects'. Half-Life fans begin to fear that Laidlaw's departure means Half-Life 3 will never release.",
+		"url": "https://combineoverwiki.net/wiki/References:Marc_Laidlaw_emails#On_his_retirement",
+		"type": 0
+	},
+	{
+		"title": "'Insider' Describes Details of Half-Life 3",
+		"date": "January 11, 2016",
+		"info": "A Reddit user makes a very lengthy post detailing various things about Half-Life 3. Their identity or occupation is never revealed, but many people assume they are associated with Valve to some degree based on how detailed their post is, and also based on the subreddit mods approving the post. This ultimately stirred up drama after someone impersonating a Reddit mod tried to get the post taken down. It ended with most people concluding that the entire thing was likely a hoax.",
+		"url": "https://www.reddit.com/r/pcmasterrace/comments/40j84n/drama_in_rhalflife_possibly_the_first_legitimate/",
+		"type": 4
+	},
+	{
+		"title": "Half-Life 3 References Found in Steam VR Tool",
+		"date": "February 22, 2016",
+		"info": "Valve releases a new tool called the Steam VR Performance Test, which is designed to benchmark PCs to determine if they're VR-ready. The tool runs on Source 2 and it doesn't take long for the community to dig through the files and find direct references to Half-Life 3 and other files that are potentially related to it.",
+		"url": "https://youtu.be/g2igP0jguSc",
+		"type": 1
+	},
+	{
+		"title": "Half-Life 3 References Found in Destinations",
+		"date": "June 9, 2016",
+		"info": "In Valve's new Steam VR tool Destinations, data miners find various references to Half-Life 3 and HLVR. Some of these include an imported headcrab model, a helicopter crash, and an overhaul of the VScript system.",
+		"url": "https://youtu.be/wBTSRcmcjUQ",
+		"type": 1
+	},
+	{
+		"title": "Geoff Keighley Teases E3 Special Guest",
+		"date": "June 13, 2016",
+		"info": "He makes a tweet a day before E3 2016 teasing a 'very special surprise guest' who is making something that people have been waiting 10 years for. Given the fact that it's been 10 years since Episode 3 was first announced, people speculate that it could be Gabe Newell. It instead turned out to be Hideo Kojima.",
+		"url": "https://youtu.be/wBTSRcmcjUQ?t=135",
+		"type": 3
+	},
+	{
+		"title": "Half-Life 3 Ad Appears at Gamescom",
+		"date": "August 16, 2016",
+		"info": "A giant sign for Half-Life 3 appears outside Gamescom 2016, except it's not actually for Half-Life 3. The sign actually says: 'Half-Life: 3', then below that it says 'editors who played it back then'. Essentially, it was a joke put together by two German gaming websites.",
+		"url": "https://www.pcgamer.com/gamescom-pranked-by-half-life-3-ad/",
+		"type": 4
+	},
+	{
+		"title": "HLVR References Found in Dota 2 Update",
+		"date": "October 9, 2016",
+		"info": "References to a procedural glass breaking system and a point_player_speak entity are found in a recent Dota 2 update. The entity's description is 'Used to force the HLVR player to speak', which makes the community think that HLVR will likely not feature Gordon Freeman.",
+		"url": "https://youtu.be/CXWU4D1l4qU",
+		"type": 1
+	},
+	{
+		"title": "Anonymous Valve Employee Discusses Company",
+		"date": "January 11, 2017",
+		"info": "GameInformer interviews an anonymous Valve employee who discusses various things about the company, mainly regarding the game making process and how people decide what to work on. The employee explains that Episode 3 had 30-40 people working on it before it was scrapped, and that they don't think Valve will return to the Half-Life series unless a group of developers can make something that they all agree is exciting.",
+		"url": "https://gameinformer.com/b/features/archive/2017/01/11/searching-for-half-life-3.aspx",
+		"type": 0
+	},
+	{
+		"title": "Gabe Newell Answers Half-Life Questions",
+		"date": "January 17, 2017",
+		"info": "During a Reddit AMA, Gabe answers various Half-Life-related questions. He states that he doesn't have information regarding what Valve plans on doing with the series, but says that he views Half-Life as a series of regrets. In another question, he states that a new IP that takes place in the Half-Life/Portal universe is possible.",
+		"url": "https://www.reddit.com/r/The_Gaben/comments/5olhj4/hi_im_gabe_newell_ama/",
+		"type": 0
+	},
+	{
+		"title": "Some Valve Employees Like to Mess With People",
+		"date": "February 15, 2017",
+		"info": "In an interview with several journalists at Valve HQ, Gabe Newell admits that 'some of the more childish members of our company' have done things to intentionally mess with people; including wearing Half-Life 3 shirts to GDC, hiding Half-Life 3 logos on monitors that people take pictures of, and including Half-Life 3 references in the files of other games.",
+		"url": "https://gamerant.com/childish-valve-devs-half-life-3/",
+		"type": 0
+	},
+	{
+		"title": "Marc Laidlaw Has no Interest in Going Back",
+		"date": "July 17, 2017",
+		"info": "In an interview with Arcade Attack, Marc Laidlaw is asked about working on Half-Life 3, in which he states that he has 'no interest in going back'. He explains that he had ideas for Episode 3, and that these ideas were to put the series in a place where he could step away and let someone else take over. He also states that he wanted Half-Life 3 to be a dramatic shift from Half-Life 2, and Episode 3 was only going to finish up the Half-Life 2 story.",
+		"url": "https://www.arcadeattack.co.uk/marc-laidlaw-half-life-3/",
+		"type": 0
+	},
+	{
+		"title": "Marc Laidlaw Posts Epistle 3",
+		"date": "August 24, 2017",
+		"info": "Less than two years after leaving Valve, he posts a story on his personal website that resembles a basic overview of Half-Life 2: Episode 3, even going as far as to use very similar character names. It immediately spreads throughout the Half-Life community, with many fearing that this is proof Valve is done with the franchise. Laidlaw clarifies that it's not a definitive Episode 3 story, as it lacks ideas from the rest of the development team. The story was deleted around 5 years later, with Laidlaw stating that he regrets posting it because it caused problems for his former coworkers.",
+		"url": "https://combineoverwiki.net/wiki/Epistle_3#Original",
+		"type": 0
+	},
+	{
+		"title": "Project Borealis is Announced",
+		"date": "October 2017",
+		"info": "Two months after Marc Laidlaw posted Epistle 3, a group of volunteers start work on Project Borealis - a fan-made Half-Life game that follows the story of Epistle 3. The game is being built on the Unreal Engine but is still being designed to look and feel like a Half-Life game.",
+		"url": "https://projectborealis.com/#about",
+		"type": 5
+	},
+	{
+		"title": "Half-Life: Alyx is Announced",
+		"date": "November 18, 2019",
+		"info": "The announcement is made on Valve's Twitter account, which was created 5 months prior. A trailer is then posted two days later. Many fans are hopeful for the future of the franchise after waiting so long for a new game.",
+		"url": "https://x.com/valvesoftware/status/1196566870360387584",
+		"type": 0
+	},
+	{
+		"title": "Half-Life: Alyx Releases",
+		"date": "March 23, 2020",
+		"info": "The first Half-Life game in 13 years releases. Despite being VR-only, the game is very well received and the post-credits scene generates a tremendous amount of hype. Fans realize that Valve is entering a new chapter, and that Half-Life 3 is closer to being a reality than ever before.",
+		"url": "https://store.steampowered.com/app/546560/HalfLife_Alyx/",
+		"type": 0
+	},
+	{
+		"title": "Valve Wants to do More With Half-Life",
+		"date": "March 24, 2020",
+		"info": "At the very end of an IGN interview with Robin Walker and Chris Remo, Robin suggests that Valve wants to do more with Half-Life if Alyx is successful, and states that 'hopefully you will see more from us a lot sooner than last time'.",
+		"url": "https://youtu.be/cqi1EYDoa7o",
+		"type": 0
+	},
+	{
+		"title": "Dario Casali Explains Episode 3",
+		"date": "March 28, 2020",
+		"info": "In an interview with IGN, Valve level designer Dario Casali explains why Episode 3 never released. He states that there was worry about scope creep, a desire to start making Source 2, and a lack of ideas for new gameplay elements.",
+		"url": "https://www.ign.com/articles/valve-explains-why-half-life-2-episode-3-was-never-made",
+		"type": 0
+	},
+	{
+		"title": "The Final Hours of Half-Life: Alyx Releases",
+		"date": "July 9, 2020",
+		"info": "Geoff Keighley releases an interactive storybook that covers the entire development process of Half-Life: Alyx, as well as the Half-Life projects that Valve worked on prior to Alyx. The info on the older projects suggests that a lot of the info that came out about Half-Life 3 around 2010-2013 may have been true to some extent.",
+		"url": "https://store.steampowered.com/app/1361700/HalfLife_Alyx__Final_Hours/",
+		"type": 0
+	},
+	{
+		"title": "New Half-Life Game Referenced in Source 2 Files",
+		"date": "March 24, 2021",
+		"info": "Exactly one year after the release of Half-Life: Alyx, updates to various Source 2 games introduce a reference to an unknown Half-Life game codenamed HLX, that appears to be built off of HL:A.",
+		"url": "https://youtu.be/MPH1puSnbvA",
+		"type": 1
+	},
+	{
+		"title": "HLX References Found in S&box Files",
+		"date": "April 26, 2021",
+		"info": "Files referencing HLX were found in the files of Facepunch's in-development Garry's Mod successor, s&box. They reference various Half-Life: Alyx NPCs and VR systems, but they are distinctly different from HLVR aka Half-Life: Alyx, indicating it's a separate project. When asked about this, Garry Newman said it's not a big deal, and that HLX is just what Source 2's first person shooter system is called. Tyler McVicker speculates that HLX is a separate VR game.",
+		"url": "https://youtu.be/kqFpL42Puis",
+		"type": 1
+	},
+	{
+		"title": "HLX Appears to be a Testbed",
+		"date": "April 11, 2022",
+		"info": "Tyler McVicker states that 'all the evidence is pointing towards' HLX being a testbed for expanding upon all of the features seen in Half-Life: Alyx.",
+		"url": "https://youtu.be/Yjx054-DhDw",
+		"type": 3
+	},
+	{
+		"title": "More Episode 3 Concept Art Revealed",
+		"date": "August 29, 2022",
+		"info": "For the first time in over a decade, more Episode 3 concept art is released to the public by 2K marketing producer and Valve content collector David McGreavy. He states that he bought them from a Valve employee who saved the art from being thrown away during Valve's office move in 2016. A few high-res scans were first shared with the LambdaGeneration community, and the entire collection was later uploaded to the Internet Archive.",
+		"url": "https://archive.org/details/unreleased-half-life-concept-art",
+		"type": 2
+	},
+	{
+		"title": "Half-Life Being Exhibited at Gamescom",
+		"date": "July 26, 2023",
+		"info": "A Reddit user finds a listing for Valve on the Gamescom companion app. Under the listing it shows Half-Life as being one of the exhibited brands. Fans speculate that this could be Half-Life 3, but it was later revealed that the user was mistaken. They learned the app they used was removed from the Google Play store, so they were likely seeing false info.",
+		"url": "https://web.archive.org/web/20230728071309/https://www.reddit.com/r/GamingLeaksAndRumours/comments/159tntl/the_gamescom_possibly_leaked_a_new_half_life/",
+		"type": 4
+	},
+	{
+		"title": "Mike Morasky Worked on 2 Half-Life Games",
+		"date": "October 7, 2023",
+		"info": "In an interview with Stefan Heinz, Valve music composer Mike Morasky is discussing musical motifs used in Portal 2 and compares them to what Kelly Bailey did for the Half-Life games. He states that he used same type of motifs that Kelly used and 'pushed them a little further in both the Half-Life...games, ah well...game...and um...and uhh..the uh..ya know...Portal games'. Given the fact that Morasky has officially only worked on Half-Life: Alyx, fans speculate that he is now working on HLX.",
+		"url": "https://youtu.be/92w2633MCPI?t=1940",
+		"type": 3
+	},
+	{
+		"title": "New Valve Game Appears on Voice Actor's Resume",
+		"date": "August 4, 2024",
+		"info": "A Valve game named 'Project White Sands' appears on Natasha Chandel's resume under the Voice Over section, with a TBA in the role column. Fans speculate that White Sands is a codename for Half-Life 3, based on the fact that it's the name of the military test range in New Mexico where the first atomic bomb was detonated, and the fact that the name could be a synonym for snow. It's later revealed that Project White Sands is Deadlock, not Half-Life 3.",
+		"url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ek3943/valve_is_working_on_a_title_under_the_codename/",
+		"type": 3
+	},
+	{
+		"title": "HLX is Half-Life 3",
+		"date": "August 4, 2024",
+		"info": "After extensive data mining of Deadlock and other Source 2 games, Tyler McVicker speculates that HLX is a full-fledged, non-VR Half-Life game that is most likely Half-Life 3. He mentions that there are references in the data mined strings to an HEV suit, a location called offworld, feral manhacks, houndeyes, new Xen creatures, and a high-detail vehicle simulation; none of which are seen in Half-Life: Alyx.",
+		"url": "https://www.youtube.com/watch?v=36gF6eiCsqU",
+		"type": 3
+	},
+	{
+		"title": "More HLX References Found in Source 2 Games",
+		"date": "August 25, 2024",
+		"info": "Data mining by Tyler McVicker reveals more HLX references, including an alien head icon, an icon with gordon freeman holding a crowbar, a bugreporter config for HLX, and hint nodes for Combine and Xen NPCs.",
+		"url": "https://youtu.be/FNNZUjkN3Qg",
+		"type": 1
+	},
+	{
+		"title": "More HLX References Found in Deadlock",
+		"date": "October 16, 2024",
+		"info": "Data mining by Tyler McVicker reveals more HLX references, including a detailed surface property system and a detailed vehicle physics system, both of which are likely for HLX because they aren't used in any other known Source 2 games. He also notes that Valve started hiring a lot more artists and level designers from accredited studios in 2023, including id Software, Rockstar, Bungie, Naughty Dog, and Meta.",
+		"url": "https://youtu.be/HWlRkzwHLwI",
+		"type": 1
+	},
+	{
+		"title": "Mike Morasky Confirms He's Not Working on Deadlock",
+		"date": "October 23, 2024",
+		"info": "Mike Morasky confirms in a Tweet that he is not responsible for the music in Deadlock, likely meaning he is working on another big project such as HLX.",
+		"url": "https://miro.com/app/board/uXjVINqBTwM=/",
+		"type": 0
+	},
+	{
+		"title": "Project Borealis Releases Demo",
+		"date": "November 11, 2024",
+		"info": "The Project Borealis team releases a demo on Steam that showcases what they've been working on for the past several years. The demo takes place in a snow-covered Ravenholm, with the Borealis sitting where Father Grigori is normally first seen.",
+		"url": "https://store.steampowered.com/app/546560/HalfLife_Alyx/",
+		"type": 5
+	},
+	{
+		"title": "Half-Life 2 Documentary Releases",
+		"date": "November 16, 2024",
+		"info": "Alongside Half-Life 2's 20th anniversary update, Valve posts a 2 hour long documentary about the development of Half-Life 2 to their YouTube channel. Towards the end of the documentary, various developers discuss Episode 3, and show never before seen footage of it. This is the first time in over a decade that Valve has publicly acknowledged Episode 3. Gabe Newell then goes on to say that they could've shipped the game, but doing it just to wrap up the story felt like a cop-out. He explains that Episode 3 needed to be more innovative than what he could come up with at the time, and states that there's currently no shortage of innovation, leading fans to speculate that he's hinting at Half-Life 3 being in development.",
+		"url": "https://www.youtube.com/watch?v=YCjNT9qGjh4",
+		"type": 0
+	},
+	{
+		"title": "Raising the Bar Second Edition Announced",
+		"date": "November 16, 2024",
+		"info": "Alongside Half-Life 2's 20th anniversary update, Valve announces plans to release a second edition of the Raising the Bar book in 2025. This expanded edition will include the development of the episodes, including Episode 3. Despite their claims, the book did not release in 2025.",
+		"url": "https://www.half-life.com/en/halflife2/20th",
+		"type": 0
+	},
+	{
+		"title": "More Potential HLX Info Found in Source 2 Games",
+		"date": "November 23, 2024",
+		"info": "Data mining by Tyler McVicker reveals more info that is likely related to HLX, including a 'psudo-level-streaming trick', new sound types, a new point_orient entity that lets NPC orientation be changed by map logic, fog and wind simulation, and voxel-based destruction. He also states that Half-Life 3 will not be a full immersive sim but will include more immersive sim elements than any other Half-Life game.",
+		"url": "https://youtu.be/yQSdohLVa20",
+		"type": 1
+	},
+	{
+		"title": "Two Big Announcments Will be at the Game Awards",
+		"date": "December 10, 2024",
+		"info": "In a live podcast with Kinda Funny Games, gaming journalist Jason Schreier states that there will be two big announcements at the upcoming Game Awards. Fans speculate that one of these could be Half-Life 3. Jason later states that what he said was just a guess and was not based on any insider info, which left many people skeptical.",
+		"url": "https://youtu.be/j8_XQdX8cEE?t=2031",
+		"type": 3
+	},
+	{
+		"title": "More Potential HLX Info Found in Source 2 Games",
+		"date": "December 12, 2024",
+		"info": "Data mining by Tyler McVicker reveals more info that is likely related to HLX, including a visual scripting system, more updates to the surface property system, zero-gravity and underwater NPC navigation, a hair strand system, destructible parts for NPCs, plasticity and elasticity system, and an NPC mood system. He concludes by saying that Half-Life 3 could be announced at the Game Awards, and mentions that Valve owes Geoff Keighley for cancelling on him at the 2019 Game Awards.",
+		"url": "https://youtu.be/f9cLbSumFO4",
+		"type": 1
+	},
+	{
+		"title": "Valve Programmer Potentially Worked on HLX",
+		"date": "December 12, 2024",
+		"info": "Valve programmer Ben Burbank gives a presentation where he discusses gameplay systems he's worked on. He mentions complex game systems including how water behaves and gravity shifting, neither of which are present in any known Source 2 game besides HLX.",
+		"url": "https://youtu.be/3NPJ1YKjLjs",
+		"type": 3
+	},
+	{
+		"title": "Jay Pinkerton and Erik Wolpaw Not Working on Deadlock",
+		"date": "December 25, 2024",
+		"info": "Jay Pinkerton confirms in an email that himself and Erik Wolpaw are not working on Deadlock, likely meaning they are working on another big project such as HLX.",
+		"url": "https://youtu.be/yP9JgtJPzbI?t=507",
+		"type": 0
+	},
+	{
+		"title": "Half-Life 3 is Being Playtested",
+		"date": "December 28, 2024",
+		"info": "Gabe Follower claims that Valve has started playtesting Half-Life 3 with various Valve employees and their friends and family. He notes that this stage of development has led to major reworks of recent titles such as Deadlock and Half-Life: Alyx, and specifically mentions that the story of Half-Life: Alyx was completely rewritten after playtesters didn't like it.",
+		"url": "https://youtu.be/yP9JgtJPzbI",
+		"type": 3
+	},
+	{
+		"title": "Mike Shapiro Posts Cryptic Video",
+		"date": "December 31, 2024",
+		"info": "Mike Shapiro - the voice of Barney and G-Man - posts a cryptic video on X with the hashtags #Valve, #Halflife, #GMan, and #2025. In the video he states - among other things - 'May the next quarter century deliver as many unexpected surprises as the millennium's first.', switching to his G-Man voice half way through. Naturally, many people speculate that he is teasing a 2025 Half-Life 3 reveal.",
+		"url": "https://x.com/mikeshapiroland/status/1874213952680607922/video/1",
+		"type": 3
+	},
+	{
+		"title": "Speculation Grows About Shapiro's Music",
+		"date": "January 2, 2025",
+		"info": "A few days after Mike Shapiro's tweet, Reddit users on r/HalfLife begin discussing a potential deeper meaning of his post, as well as his music. They speculate that three of his songs are part of an ARG for Half-Life 3, with the most notable theory being the 197 theory. The number 197 seemed to be referenced several times in Shapiro's music. While there's no definitive meaning to the number, fans note that 197 is the only stable isotope of gold, they're the only visible characters on the muscle car's license plate in Episode 2, and lining up the hands on an analog clock to 1, 9, and 7 creates a shape resembling a lambda.",
+		"url": "https://www.reddit.com/r/HalfLife/comments/1hrkq3q/i_think_the_mike_shapiro_tweet_songs_are_the/",
+		"type": 3
+	},
+	{
+		"title": "Valve Employees Excited to Talk About Half-Life 3",
+		"date": "January 2, 2025",
+		"info": "A user on the Ars Technica forum states that he knows a few people who work at Valve, and that they've been randomly bringing up Half-Life 3 out of the blue. He goes on to say that while he doesn't know of any particular timeframe, he's willing to bet that a Half-Life game is currently in development.",
+		"url": "https://arstechnica.com/civis/threads/is-2025-finally-the-real-year-of-%E2%80%9Chalf-life-3-confirmed%E2%80%9D.1504850/page-2#post-43403099",
+		"type": 3
+	},
+	{
+		"title": "Fans Look to HL2 Beta Audio File for 197 Leads",
+		"date": "January 4, 2025",
+		"info": "In December 2024, a fan uploaded a YouTube video showing how he was able to trace the origin of one of the Half-Life 2 Beta audio files to a Cuban number station. Less than a month later, he is questioned by the community regarding the numbers 197 that appear in the video. He states that he knows nothing about Half-Life 3 and that the numbers he chose for the video are purely coincidental, which is corroborated by the fact that his video was posted weeks before Shapiro's tweet.",
+		"url": "https://www.youtube.com/watch?v=ruKtGx-NuXE",
+		"type": 4
+	},
+	{
+		"title": "197 Leads Found in Recent CS2 Update",
+		"date": "January 6, 2025",
+		"info": "This update contains various changes to the de_train map, including a renaming of a certain hallway from Popdog to Longdog. Fans speculated that this could be tied to one of Mike Shapiro's songs, Best Long Dog. People also note that all of the clocks on the map are set to 2:23, and 223 is another significant number tied to Shapiro's music.",
+		"url": "https://www.thegamer.com/half-life-3-hl3-arg-g-man-actor-tweet-reference-counter-strike-2-cs2/",
+		"type": 3
+	},
+	{
+		"title": "Two Games Listed Under Valve's Upcoming Releases",
+		"date": "January 12, 2025",
+		"info": "Steam users notice that there are two games being reported as upcoming releases under Valve's developer page, but only Deadlock is visible. Fans speculate that the other hidden game could be Half-Life 3. It's quickly determined that the upcoming 'game' is actually just an outdated listing for Steam gift cards.",
+		"url": "https://www.pcgamer.com/games/fps/valves-steam-page-currently-lists-a-second-mystery-game-alongside-deadlock-sending-half-life-3-theorists-into-another-frenzy-of-speculation/",
+		"type": 3
+	},
+	{
+		"title": "'Valve Doesn't Do ARGs Anymore'",
+		"date": "January 31, 2025",
+		"info": "Tyler McVicker attempts to debunk the 197 theory and other theories related to Mike Shapiro's tweet, stating that 'Valve doesn't do ARGs anymore. I guarantee you that Valve will just announce whatever it is they're working on through a social media post'.",
+		"url": "https://youtu.be/3f20EdGSxwQ",
+		"type": 3
+	},
+	{
+		"title": "Episode 3 Source Code Releases",
+		"date": "February 18, 2025",
+		"info": "Three C++ source files for Episode 3 are released as part of the TF2 SDK. One is for an armored Combine NPC, one is for a weapon scanner NPC, and one is for a weapon that fires penetrating crossbow bolts. This is the first time any code related to Episode 3 is officially released by Valve.",
+		"url": "https://github.com/ValveSoftware/source-sdk-2013/tree/master/src/game/server/episodic/Episode3",
+		"type": 0
+	},
+	{
+		"title": "HLX is in Optimization Phase",
+		"date": "February 26, 2025",
+		"info": "After data mining a recent Dota 2 update, Tyler McVicker states that he found several references to optimization systems that are likely related to HLX. He goes on to say that HLX getting these optimzation systems means the game is nearing the final stages of production, and that a 2025 announcement 'could be expected'.",
+		"url": "https://youtu.be/_lGdUBMdQ94",
+		"type": 3
+	},
+	{
+		"title": "Mike Morasky Nearly Says 'HLX'",
+		"date": "April 13, 2025",
+		"info": "In another interview with Stefan Heinz, Mike is discussing the mapping tricks he used in Portal 2 to trigger music. He states that these sorts of tricks aren't as necessary anymore because Hammer has greatly improved since then, 'and even since HL e...Alyx Half-Life Alyx has come out...so um...yeah'. Given Morasky's previous slip-up, fans are now fully convinced that he's working on HLX.",
+		"url": "https://youtu.be/bCMjDTxvGX0?t=4271",
+		"type": 3
+	},
+	{
+		"title": "Valve Artist Says Half-Life 3 is in Development",
+		"date": "April 15, 2025",
+		"info": "During a Russian podcast, Valve concept artist Evgeniy Evstratiy confirms that Half-Life 3 is currently in development, and that Valve has attempted to make it multiple times. He states that while he didn't see the development itself, he did see multiple things that suggested it was in development such as computers and whiteboards, and that just because they're working it on again now doesn't mean it will release.",
+		"url": "https://www.vice.com/en/article/valve-concept-artist-apparently-confirms-half-life-3-exists-can-dreams-actually-come-true/"
+		,
+		"type": 0
+	},
+	{
+		"title": "Tyler McVicker Discusses Half-Life 3",
+		"date": "April 30, 2025",
+		"info": "In an AMA livestream, Tyler answers community questions and reveals insider info about HLX/Half-Life 3. He states that the game is being playtested and that he knows people who know have been told things about the plot, but he himself doesn't know anything about it. He guesses that the game will be announced in the Summer of 2025 and released in the Winter. He also states that he's less willing to talk to insiders now due to legal scares in the past.",
+		"url": "https://www.youtube.com/watch?v=l_Z9IOIWKHg",
+		"type": 3
+	},
+	{
+		"title": "More Potential HLX Info Found in Source 2 Games",
+		"date": "May 29, 2025",
+		"info": "Data mining by Tyler McVicker reveals more info that is likely related to HLX, including a rewrite to the save system, more references to the vehicle system, an electrification surface property, multithreaded physics, asyncronous NPC navigation, crawl and crouch height, NPC hearing and vision system, and fans. Tyler also states that an announcement is possible at any time, but is also possible a year from now.",
+		"url": "https://youtu.be/FUj4iMRKGqM",
+		"type": 1
+	},
+	{
+		"title": "More HLX References Found in Source 2 Games",
+		"date": "July 31, 2025",
+		"info": "Data mining by Tyler McVicker and Gabe Follower reveals more info related to HLX, including references to antlions and thumpers, updates to FGDs, updates to the vehicle simulation system and many strings that reference engine features in plain English. Tyler speculates that this is evidence of Valve updating the Source 2 toolset, suggesting that HLX is in the very last stages of production.",
+		"url": "https://youtu.be/W7fLurNQT8U",
+		"type": 1
+	},
+	{
+		"title": "More Potential HLX Info Found in Source 2 Games",
+		"date": "September 3, 2025",
+		"info": "Data mining by Tyler McVicker reveals more info that is likely related to HLX, including more updates to the physics system, liquid simulation, load time optimization, and more updates to the save system. Tyler also states that in terms of pushing changes to projects, August 2025 was the busiest month Valve has had in the last 10 years.",
+		"url": "https://youtu.be/htC-u80xs_Q",
+		"type": 1
+	},
+	{
+		"title": "Mike Shapiro Teases Something",
+		"date": "October 14, 2025",
+		"info": "A Reddit user claims to have met Mike Shapiro at a convention, where Mike said to him 'prepare for the valve opening'. While there isn't anything concrete to disprove it, most people still think it's a hoax.",
+		"url": "https://www.reddit.com/r/HalfLife/comments/1o6881g/prepare_for_the_valve_opening/",
+		"type": 4
+	},
+	{
+		"title": "More Potential HLX Info Found in Source 2 Games",
+		"date": "October 30, 2025",
+		"info": "Data mining by Tyler McVicker reveals more info that is likely related to HLX, including updates to various damage systems, more optimization systems, and updates to the wind and surface property systems. Tyler also states that it's unlikely that Half-Life 3 will be announced at the Game Awards, and reiterates that Valve will likely just announce it through a tweet. He concludes by saying that the current rumor is that Valve is working on the trailer for the game.",
+		"url": "https://youtu.be/qKR-G1EuYyg",
+		"type": 1
+	},
+	{
+		"title": "Half-Life 3 to be Announced on November 18",
+		"date": "November 10, 2025",
+		"info": "A rumor starts to spread that Half-Life 3 will be announced on the 18th, based on an apparent gap in Steam events during that time. Fans quickly debunked this, and noted that Steam events wouldn't be affected by a Valve game announcement.",
+		"url": "https://www.theshortcut.com/p/half-life-3-release-date-may-have-been-revealed-by-dedicated-fans",
+		"type": 4
+	},
+	{
+		"title": "Valve Announces New Steam Hardware",
+		"date": "November 12, 2025",
+		"info": "Valve releases a video on YouTube announcing a new Steam controller, Steam Machine, and VR headset. Fans notice that a keycap with Half-Life logo can be seen on the keyboard at 1:55, and one of the front plates for the Steam Machine has a SOON™ sticker on it. This combined with the fact that 3 new pieces of hardware are being announced, makes fans speculate that they could be teasing an upcoming Half-Life 3 announcement.",
+		"url": "https://youtu.be/OmKrKTwtukE",
+		"type": 0
+	},
+	{
+		"title": "Valve Isn't Done With Big Announcements",
+		"date": "November 12, 2025",
+		"info": "Insider Gaming journalist Mike Straw makes a tweet stating that Valve isn't done making big announcements, and that there's going to be something else soon. Fans of course speculate that this is going to be Half-Life 3.",
+		"url": "https://youtu.be/p5MMg7sDdms?t=15",
+		"type": 3
+	},
+	{
+		"title": "Valve Confirms They're Not Making Any VR Games",
+		"date": "November 12, 2025",
+		"info": "In an interview with RoadToVR, the Steam Frame team is asked whether or not Valve has any VR games currently in development, to which one of the members responds with 'no'. This confirms the speculation that HLX is not a VR game but rather a traditional first person shooter.",
+		"url": "https://www.roadtovr.com/valve-no-first-party-vr-game-in-development-half-life/",
+		"type": 0
+	},
+	{
+		"title": "Large Security Presence at Valve HQ",
+		"date": "November 12, 2025",
+		"info": "During Valve's press tour for their new Steam hardware, several journalists note that they were escorted by security guards, with conflicting reports that the guards were armed. In particular, The Verge reports that security guards lined the halls. Others point out that this is very unusual for Valve, as in previous years they were allowed to walk around unguided. Fans speculate that Valve could be taking precations to make sure nobody gets a peak at Half-Life 3.",
+		"url": "https://www.theverge.com/games/818622/valve-console-wars-price-sony-microsoft-nintendo-windows",
+		"type": 0
+	},
+	{
+		"title": "2025 Announcement is Still Planned",
+		"date": "November 14, 2025",
+		"info": "Gabe Follower states on Discord that nothing has changed internally at Valve, and that they're still aiming for a 2025 announcement of Half-Life 3 as far as he's aware.",
+		"url": "https://www.reddit.com/r/HalfLife/comments/1ox4jzk/more_hopium/",
+		"type": 3
+	},
+	{
+		"title": "Fans Speculate on More Announcement Dates",
+		"date": "November 17, 2025",
+		"info": "Fans continue to speculate on a Half-Life 3 announcement date, taking all available info into account. One Reddit user even makes a chart listing the dates that are most likely and not at all likely.",
+		"url": "https://www.reddit.com/r/HalfLife/comments/1ozm4zl/all_possible_half_life_3_announcement_dates/",
+		"type": 3
+	},
+	{
+		"title": "'It Has Never Felt This Way Before'",
+		"date": "November 18, 2025",
+		"info": "Tyler McVicker makes a video debunking recent announcement rumors and supposed concept art leaks. He also reiterats what Gabe Follower said several days earlier that everything still appears to be on track for a 2025 announcement, and that 'it has never felt this way before' in regards to how close a legit announcement seems to be.",
+		"url": "https://youtu.be/E09c6YSfWWc",
+		"type": 3
+	},
+	{
+		"title": "HLX Miro Board Gains Popularity",
+		"date": "November 19, 2025",
+		"info": "Various members of the Half-Life community put together a Miro board of every single piece of information related to HLX, from data mined strings to journalist speculations. While the board has been around for over a year at this point, the media hasn't picked up on it until now.",
+		"url": "https://miro.com/app/board/uXjVINqBTwM=/",
+		"type": 5
+	},
+	{
+		"title": "Mike Straw Gives Announcement Info",
+		"date": "November 20, 2025",
+		"info": "He makes multiple tweets answering people's questions about a potential Half-Life 3 announcement. In one Tweet he says 'the date I was told is this year' in regards to a reveal date. In another Tweet he states that Half-Life 3 will not be announced at the Game Awards unless Geoff Keighley 'managed to get them to agree to something'. He then says that he thinks the announcement will be standalone.",
+		"url": "https://gamingbolt.com/half-life-3-is-not-supposed-to-be-unveiled-at-the-game-awards-2025-rumour",
+		"type": 3
+	},
+	{
+		"title": "Half-Life Community Goes Insane",
+		"date": "December 12, 2025",
+		"info": "After Half-Life 3 wasn't announced at the Game Awards, fans start to suffer from hopium withdrawl and go completely insane. For some, it took months to recover.",
+		"url": "https://www.reddit.com/r/HalfLife/comments/1plfjv1/the_night_after_tga_as_told_by_rhalflife/",
+		"type": 5
+	},
+	{
+		"title": "Mike Straw Gives More Half-Life 3 Info",
+		"date": "December 12, 2025",
+		"info": "He clarifies in a podcast that all of the dates he was given by insiders have since passed, meaning they were all likely faked by Valve to catch leakers. He also claims that Half-Life 3 will be a launch title for the Steam Machine, and that the reason it wasn't announced this year is because of the RAM crisis.",
+		"url": "https://youtu.be/x7GRLcaZtgA?t=1685",
+		"type": 3
+	},
+	{
+		"title": "Half-Life 3 Likely Not Affected by Hardware Delay",
+		"date": "February 1, 2026",
+		"info": "Gabe Follower doesn't think Half-Life 3 is being delayed as a result of the hardware delay. He states that Valve develops hardware and software independently from each other, and that syncing plans across two different teams is difficult due to the company's workflow. He also notes that Half-Life: Alyx was supposed to launch with the Valve Index, but the game ended up being delayed by a year while the headset released on time.",
+		"url": "https://youtu.be/p5MMg7sDdms",
+		"type": 3
+	},
+	{
+		"title": "Chet Faliszek Mocks Half-Life 3 Theory",
+		"date": "February 2, 2026",
+		"info": "He makes fun of a recent theory that Half-Life 3 is finished and that developers have moved onto other projects while they wait for the Steam Machine to release. Under the sarcasm it can be assumed that he's stating Valve wouldn't just sit on a game that they have finished, meaning Half-Life 3 is likely not being affected by the hardware delay.",
+		"url": "https://youtu.be/c6LosBvFdso",
+		"type": 0
+	},
+	{
+		"title": "HLX Continues to be Optimized",
+		"date": "February 2, 2026",
+		"info": "Data mining by Tyler McVicker reveals a bunch of reworks and optimization changes that further indicate HLX is in the final stages of development. Tyler goes on to say 'This game is gonna be the most polished thing that Valve has ever created', noting that the last year and a half of HLX's development appears to be nothing but polish.",
+		"url": "https://youtu.be/irI02zjaSlM",
+		"type": 1
+	},
+	{
+		"title": "More HLX References Found in Deadlock Update",
+		"date": "February 5, 2026",
+		"info": "Gabe Follower finds new references to HLX in a recent Deadlock update. While minor, it shows that the game is still in active devleopment.",
+		"url": "https://x.com/gabefollower/status/2019536782279557428",
+		"type": 1
+	},
+	{
+		"title": "More HLX References Found in Source 2 Games",
+		"date": "April 1, 2026",
+		"info": "Data mining by Tyler McVicker reveals a bunch of new Source 2 engine changes that are likely from HLX, including updates to tooling, lots of updates to choreography and particle systems, new vehicle hitgroups that suggest the vehicle system will be extremely detailed, a new player companion system, and much more.",
+		"url": "https://youtu.be/Jd95JQ_oZpM",
+		"type": 1
+	},
+	{
+		"title": "Hideo Kojima Visits Valve",
+		"date": "April 21, 2026",
+		"info": "He posts various pictures of himself around Valve's office, one of which includes him standing next to the big Valve sign. Underneath the sign are 3 gravity guns and 3 portal guns. While this is likely meaningless, fans nevertheless try to somehow connect it with Half-Life 3.",
+		"url": "https://x.com/Kojima_Hideo/status/2046736666837365201",
+		"type": 3
+	}
+]

@@ -1,0 +1,151 @@
+* {
+	box-sizing: border-box;
+}
+
+.main {
+	padding: 0;
+}
+
+.timeline {
+	position: relative;
+}
+
+.about {
+	width: 70%;
+	margin: auto;
+	margin-bottom: 75px;
+}
+
+.line {
+	position: absolute;
+	background: linear-gradient(to bottom, transparent, var( --orange ), 2%, var( --orange ), 98%, transparent);
+	left: 50%;
+	width: 2px;
+	height: 100%;
+}
+
+.dot {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX( -50% );
+	width: 18px;
+	height: 18px;
+	background-color: var( --orange );
+	border-radius: 50%;
+	border: 3px solid white;
+}
+
+.eventList {
+	display: flex;
+	flex-direction: column;
+}
+
+.event {
+	position: relative;
+	display: flex;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.eventBox {
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 20px;
+	width: 40%;
+}
+
+.title {
+	color: var( --orange );
+	text-decoration: none;
+}
+.title:hover {
+	text-decoration: underline;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.type {
+	color: white;
+	height: 20px;
+	border: 1px solid white;
+	border-radius: 5px;
+	font-size: 12px;
+	padding: 3px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: bold;
+	cursor: help;
+}
+.type[data-type="official"] {
+	background-color: green;
+}
+.type[data-type="official"]::before {
+	content: 'This is legit info that came from Valve, a Valve employee, or a Valve partner';
+}
+.type[data-type="discovery"] {
+	background-color: rgb( 0, 63, 0 );
+}
+.type[data-type="discovery"]::before {
+	content: 'This is legit info that came from data mining official Valve content';
+}
+.type[data-type="leak"] {
+	background-color: var( --orange );
+}
+.type[data-type="leak"]::before {
+	content: "This is legit info that wasn't intended to be public";
+}
+.type[data-type="speculation"] {
+	background-color: navy;
+}
+.type[data-type="speculation"]::before {
+	content: "The community speculates that this could be related to HL3";
+}
+.type[data-type="hoax"] {
+	background-color: red;
+}
+.type[data-type="hoax"]::before {
+	content: "Info in relation to HL3 is fake, and was likely made to intentionally deceive people";
+}
+.type[data-type="community"] {
+	background-color: dimgray;
+}
+.type[data-type="community"]::before {
+	content: "This is an unofficial event that provides no additional HL3 info";
+}
+.type::before {
+	position: absolute;
+	content: "You're not supposed to be here";
+	text-align: center;
+	background-color: dimgray;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+	visibility: hidden;
+	top: -30px;
+	text-transform: none;
+	border: 2px solid white;
+	width: 35%;
+}
+.type:hover::before {
+	visibility: visible;
+}
+
+.date {
+	font-size: 15px;
+}
+
+.desc {
+	font-size: 15px;
+	line-height: 1.3rem;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+
+.right {
+	justify-content: right;
+}
