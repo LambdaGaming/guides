@@ -18,11 +18,22 @@ function LoadTimeline() {
 		} );
 }
 
-function ShowTimeline() {
+function ShowTimeline( filter ) {
 	var right = false;
 	var lastDate = "";
 	var container = document.getElementById( "eventList" );
+	var showing = document.getElementById( "showing" );
+	var count = 0;
+	if ( filter != null ) {
+		var list = document.getElementsByClassName( "event" );
+		while ( list.length > 0 ) {
+			list[0].remove();
+		}
+	}
 	for ( const t of timeline ) {
+		if ( filter != null && filter != t.type ) {
+			continue;
+		}
 		var event = document.createElement( "div" );
 		event.className = "event"
 		var dot = document.createElement( "div" );
@@ -65,7 +76,9 @@ function ShowTimeline() {
 			event.className += " right";
 		}
 		lastDate = t.date;
+		count++;
 	}
+	showing.innerText = `Showing ${count}/${timeline.length} Events`;
 }
 
 document.addEventListener( "DOMContentLoaded", function() {
