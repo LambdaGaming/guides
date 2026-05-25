@@ -693,6 +693,13 @@
 		"type": 1
 	},
 	{
+		"title": "10 Years",
+		"date": "May 24, 2016",
+		"info": "Today marks the 10th anniversary of the announcement of Half-Life 2: Episode 3.",
+		"url": "https://www.theatlantic.com/entertainment/archive/2016/05/how-half-life-3-became-the-worlds-longest-anticipated-video-game/484073/",
+		"type": 5
+	},
+	{
 		"title": "Half-Life 3 References Found in Destinations",
 		"date": "June 9, 2016",
 		"info": "In Valve's new Steam VR tool Destinations, data miners find various references to Half-Life 3 and HLVR. Some of these include an imported headcrab model, a helicopter crash, and an overhaul of the VScript system.",
@@ -1182,5 +1189,19 @@
 		"info": "He posts various pictures of himself around Valve's office, one of which includes him standing next to the big Valve sign. Underneath the sign are 3 gravity guns and 3 portal guns. While this is likely meaningless, fans nevertheless try to somehow connect it with Half-Life 3.",
 		"url": "https://x.com/Kojima_Hideo/status/2046736666837365201",
 		"type": 3
+	},
+	{
+		"title": "Chet Faliszek Doesn't Want to Write For Half-Life 3",
+		"date": "May 14, 2026",
+		"info": "In response to a fan comment, Faliszek makes a video explaining that he doesn't want to write for Half-Life 3 or any other game with pre-existing lore because it's difficult to write within those boundaries. He also makes it clear at the beginning of the video that he's 'not trying to allude to anything', presumably about the current development of Half-Life 3.",
+		"url": "https://www.youtube.com/watch?v=sFcri936k-w",
+		"type": 0
+	},
+	{
+		"title": "20 Years",
+		"date": "May 24, 2026",
+		"info": "Today marks the 20th anniversary of the announcement of Half-Life 2: Episode 3.",
+		"url": "",
+		"type": 5
 	}
 ]
