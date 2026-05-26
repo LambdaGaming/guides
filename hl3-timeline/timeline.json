@@ -224,6 +224,13 @@
 		"type": 5
 	},
 	{
+		"title": "Game Informer Predicts 2011 Half-Life 3 Reveal",
+		"date": "December 31, 2010",
+		"info": "Game Informer predicts that Half-Life 3 will be revealed in 2011. Given the lack of additional info explaining why they made this prediction, it is likely just a joke.",
+		"url": "https://web.archive.org/web/20110904032234/http://www.gameinformer.com/b/news/archive/2010/12/31/what-s-ahead-game-informer-s-2011-predictions.aspx",
+		"type": 3
+	},
+	{
 		"title": "Valve Writers Decline to Comment on Episode 3",
 		"date": "February 21, 2011",
 		"info": "In a phone interview with Australian news outlet news.com.au about Portal 2, Valve writers Chet Faliszek, Erik Wolpaw, and Jay Pinkerton are asked when Episode 3 is releasing. They say they aren't prepared to talk about that. They are then asked if the game is coming out at all, to which they respond by pretending that the phone line is breaking up.",
@@ -287,6 +294,13 @@
 		"type": 0
 	},
 	{
+		"title": "Valve Art Director Seen Wearing Half-Life 3 Shirt",
+		"date": "July 14, 2011",
+		"info": "Valve senior art director Jeremy Bennett was seen wearing a Half-Life 3 shirt at Comic Con 2011. While it took the community over a year to discover this, they ultimately speculated that he could be hinting at the game being in development.",
+		"url": "https://web.archive.org/web/20160608105338/https://whitecloudworlds.blogspot.com/2011/07/comic-con-2011.html",
+		"type": 0
+	},
+	{
 		"title": "Possible Half-Life 3 ARG Found",
 		"date": "July 25, 2011",
 		"info": "A Reddit user finds a cryptic video that provides a hidden link in hexadecimal. Once converted to ASCII, the link redirects to megaupload.com where a Half-Life 2: Episode 2 map can be downloaded. While at first many people thought this could be an ARG for Half-Life 3, it ultimately led to nothing.",
@@ -338,7 +352,7 @@
 	{
 		"title": "Valve Employee Seen Wearing Half-Life 3 Shirt",
 		"date": "December 2, 2011",
-		"info": "At a developer event in Bellevue, Uber Entertainment founder Eka sees an unnamed Valve employee wearing a Half-Life 3 shirt. Fans speculate that the employee could be hinting at the game being in development.",
+		"info": "At a developer event in Bellevue, Uber Entertainment founder Eka sees an unnamed Valve employee wearing a Half-Life 3 shirt. Fans speculate that the employee could be hinting at the game being in development. Notably, this is not the same shirt that Jeremy Bennett was wearing at Comic Con 2011.",
 		"url": "https://web.archive.org/web/20121117090018/https://kotaku.com/5864573/half+life-3-t+shirt-confirmed-but-that-is-all",
 		"type": 0
 	},
@@ -490,10 +504,10 @@
 		"type": 2
 	},
 	{
-		"title": "Source 2 References Found in Source Filmmaker",
-		"date": "August 6, 2012",
-		"info": "A ValveTime user finds references to a Source 2 engine in the Source Filmmaker beta files. This is the first time anything related to Source 2 is found. Fans have high hopes that the next Half-Life game will be running on the new engine.",
-		"url": "https://web.archive.org/web/20120824131948/http://www.valvetime.net/threads/exclusive-next-gen-source-2-engine-is-in-development.215336/",
+		"title": "EP3 & Source 2 References Found in Source Filmmaker",
+		"date": "August 5, 2012",
+		"info": "A Facepunch forums user finds references to Episode 3 and a Source 2 engine in the Source Filmmaker beta files. This is the first time anything related to Source 2 is found. Fans have high hopes that the next Half-Life game will be running on the new engine.",
+		"url": "https://archive.lambdageneration.com/references-to-hl2-episode-three-and-source-2-found-inside-source-filmmaker/",
 		"type": 1
 	},
 	{
@@ -501,7 +515,7 @@
 		"date": "August 14, 2012",
 		"info": "A PDF file from Gamescom lists all of the games that will be appearing at the event, and Half-Life 3 is one of those games. Gamescom later says that this entry was a mistake, and Valve also confirms that they are not announcing anything at Gamescom.",
 		"url": "https://www.rockpapershotgun.com/half-life-3-to-be-announced-at-gamescom-goodness-knows",
-		"type": 2
+		"type": 4
 	},
 	{
 		"title": "Half-Life 3 Logo Appears in Keyboard Ad",
@@ -631,9 +645,9 @@
 	},
 	{
 		"title": "Two Fans Try to Crowdfund Pressure Campaign",
-		"date": "October 17, 2014",
-		"info": "Two Half-Life fans working as interns at an ad firm attempt to crowdfund a pressure campaign that would effectively harass Valve employees to convince them to release Half-Life 3. They had a goal of raising $150,000, but ended up getting less than $1,600.",
-		"url": "https://www.pcgamer.com/half-life-3-pressure-campaign-sounds-like-a-terrible-idea/",
+		"date": "October 15, 2014",
+		"info": "Two Half-Life fans attempt to crowdfund a pressure campaign that aims to convince Valve employees to release Half-Life 3. The campaign would involve displaying ads in places that would be seen by Valve employees, having a group of Gabe Newell lookalikes walk around Valve HQ, and inviting Valve employees to a Half-Life concert in Seattle. They had a goal of raising $150,000, but ended up getting less than $1,600.",
+		"url": "https://archive.lambdageneration.com/new-crowdfunding-campaign-we-want-half-life-3-launched/",
 		"type": 5
 	},
 	{
@@ -663,6 +677,13 @@
 		"info": "An FGD file named hl3.txt is found by SteamDB in a recent Dota 2 update. The file contains references to several notable things, including the Combine Ceiling Turret, VR systems, and an NPC quest system.",
 		"url": "https://github.com/SteamTracking/GameTracking/blob/0dd82bbf7db9c0bde3f045e337544eeeb7038595/373301/game/core/tools/help/fgd/hl3.txt",
 		"type": 1
+	},
+	{
+		"title": "Fake Half-Life 3 Listing Found on SteamDB",
+		"date": "December 6, 2015",
+		"info": "SteamDB users find a new listing for a package called 'Half Life 3'. Fans quickly realize it's more than likely fake because the name lacks a hyphen and developers can name their packages anything they want.",
+		"url": "https://steamdb.info/sub/66300/history/?changeid=U:2620502",
+		"type": 4
 	},
 	{
 		"title": "ARG Found in Steam Winter Sale",
@@ -695,7 +716,7 @@
 	{
 		"title": "10 Years",
 		"date": "May 24, 2016",
-		"info": "Today marks the 10th anniversary of the announcement of Half-Life 2: Episode 3.",
+		"info": "This marks the 10th anniversary of the announcement of Half-Life 2: Episode 3.",
 		"url": "https://www.theatlantic.com/entertainment/archive/2016/05/how-half-life-3-became-the-worlds-longest-anticipated-video-game/484073/",
 		"type": 5
 	},
@@ -1200,7 +1221,7 @@
 	{
 		"title": "20 Years",
 		"date": "May 24, 2026",
-		"info": "Today marks the 20th anniversary of the announcement of Half-Life 2: Episode 3.",
+		"info": "This marks the 20th anniversary of the announcement of Half-Life 2: Episode 3.",
 		"url": "",
 		"type": 5
 	}
