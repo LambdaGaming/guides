@@ -110,7 +110,7 @@ h3 {
 	background-color: navy;
 }
 .type[data-type="speculation"]::before {
-	content: "The community speculates that this could be related to HL3";
+	content: "This is info that the community is speculating about, or the info is speculation itself";
 }
 .type[data-type="hoax"] {
 	background-color: red;
