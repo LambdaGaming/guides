@@ -25,7 +25,7 @@ h3 {
 
 .line {
 	position: absolute;
-	background: linear-gradient(to bottom, transparent, var( --orange ), 2%, var( --orange ), 98%, transparent);
+	background: linear-gradient(to bottom, transparent, var( --orange ), 2%, var( --orange ), 99%, transparent);
 	left: 50%;
 	width: 2px;
 	height: 100%;
@@ -110,7 +110,7 @@ h3 {
 	background-color: navy;
 }
 .type[data-type="speculation"]::before {
-	content: "This is info that the community is speculating about, or the info is speculation itself";
+	content: "This is info that the community is speculating about, or the info itself is speculation";
 }
 .type[data-type="hoax"] {
 	background-color: red;
