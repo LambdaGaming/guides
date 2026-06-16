@@ -1224,5 +1224,12 @@
 		"info": "This marks the 20th anniversary of the announcement of Half-Life 2: Episode 3.",
 		"url": "",
 		"type": 5
+	},
+	{
+		"title": "HLX Won't be Announced With Steam Hardware Release",
+		"date": "June 16, 2026",
+		"info": "In a video discussing the upcoming release of the new Steam Machine and Steam Frame, Tyler McVicker speculates that HLX will not be announced alongside the hardware release. He states that this was likely the plan in early-mid 2025, but this is no longer the case given everything that happened towards the end of 2025.",
+		"url": "https://www.youtube.com/watch?v=zs9LdkbOzHg",
+		"type": 3
 	}
 ]
