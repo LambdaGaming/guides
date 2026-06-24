@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on June 7, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on June 24, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -554,7 +554,7 @@
 				<p>Linux From Scratch is not a distro, but a book. It explains how to build your own custom Linux system from the ground up. It's designed for enthusiasts who want to build a system that is tailored exactly to their needs and wants.</p>
 	
 				<h3><a href="https://store.steampowered.com/steamos">SteamOS</a></h3>
-				<p>SteamOS is a specialized Arch Linux-based OS developed by Valve, for use with handheld gaming PCs such as the Steam Deck and Lenovo Legion Go. Despite having a desktop mode with the KDE Plasma desktop environment, it is not intended to be used as a normal desktop OS. It does not support normal PCs out of the box, and requires a lot of tweaking to get installed and running. If you want a distro similar to SteamOS that you can easily setup and use on your desktop PC, check out Bazzite.</p>
+				<p>SteamOS is a specialized Arch Linux-based OS developed by Valve. It is mainly used with handhelds and other small form factor systems such as the Steam Deck, Steam Machine, and Lenovo Legion Go. While it can be installed on regular PCs, I don't recommend doing so because it contains a limited set of pre-installed software and does not support Nvidia GPUs out of the box. If you want a similar experience with a larger selection of pre-installed software and Nvidia GPU support, check out Bazzite.</p>
 
 				<h3><a href="https://www.freebsd.org/">FreeBSD</a></h3>
 				<p>FreeBSD is NOT Linux, but I'm putting it here to avoid confusion because some people think it is. It's actually based on Unix, which is a much older OS made by Bell Labs that started development in 1969. Linux is Unix-like but not directly based on it, so naturally there's some similarities but there are many more differences.<br><br>These days, Unix itself isn't in development anymore, but several Unix-based operating systems are. FreeBSD, macOS, and Solaris are just a few examples. FreeBSD and other BSD operating systems can be used by beginners, but software compatibility and availability is much more limited compared to Linux.</p>
@@ -570,6 +570,7 @@
 				<li>Click the flash button. It might take a while depending on the size of the ISO and the speed of the drive.</li>
 				<li>Once balenaEtcher says it's finished, plug the USB into the PC you want to install Linux on, and reboot the PC into the BIOS. If you're not sure how to get into the BIOS, spamming the F12 or delete key as the PC is rebooting usually works. If not, you'll have to check the manual for your motherboard or laptop.</li>
 				<li>From here, the steps will be vague because every motherboard is different. Look around the BIOS/UEFI for an option for USB booting. If you find it, make sure it's enabled. If you can't find it, it's probably already enabled. If your hardware doesn't support it, you'll have to find an alternative method such as burning the ISO to a CD, writing the ISO to an empty internal drive, or installing Linux on a different PC then swapping the drive.</li>
+				<li>You will also likely need to disable secure boot, as it will prevent you from booting any OS other than what you currently have installed. The option can usually be found under the Boot section. If your motherboard was made before 2011, you won't have this option and you can skip to the next step.</li>
 				<li>Go to the boot section and change the first boot option to the USB drive you just plugged in. Save your changes and reboot.</li>
 				<li>If you did everything correctly, your PC should have booted the USB. You might see the bootloader selection screen, or it might have booted straight into the live image. If you're at the bootloader selection screen, just press enter to select the default option. From there, you can install the distro by following the steps it gives you.</li>
 			</ol>
