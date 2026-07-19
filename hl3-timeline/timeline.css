@@ -6,6 +6,10 @@ h3 {
 	text-align: center;
 }
 
+button {
+	border-style: solid;
+}
+
 .main {
 	padding: 0;
 	margin: 0;

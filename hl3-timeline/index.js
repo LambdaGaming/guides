@@ -78,7 +78,7 @@ function ShowTimeline( filter ) {
 		lastDate = t.date;
 		count++;
 	}
-	showing.innerText = `Showing ${count}/${timeline.length} Events`;
+	showing.innerText = `Showing ${count} / ${timeline.length} Events`;
 }
 
 document.addEventListener( "DOMContentLoaded", function() {
