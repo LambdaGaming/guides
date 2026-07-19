@@ -1245,5 +1245,12 @@
 		"info": "A datamine by Tyler McVicker of a recent major Dota 2 update reveals info that appears to be related to HLX's development, including various graphical and physical improvements to the Source 2 engine, and the return of multiple Half-Life voice actors. Tyler also indirectly hints that he's spoken to insiders about the game, and states that Valve has an entire floor at their office dedicated to its development. He also speculates that the Raising the Bar reprint is going to have an entire section dedicated to the development of Half-Life 3, and that some developers thinking the game isn't good enough is part of the reason why it wasn't announced last November.",
 		"url": "https://youtu.be/8Fi44EB4hjk",
 		"type": 1
+	},
+	{
+		"title": "Valve Programmer Hints Toward HLX",
+		"date": "July 15, 2026",
+		"info": "In a Reddit post discussing his second retirement from Valve, programmer Chris Green is asked if he can give any info on HLX, to which he replies with 'I think you know the answer to that :-)', causing fans to speculate on whether or not he is confirming the existence of the project. Two days later, he follows up with another comment clarifying that he meant he's not going to discuss projects that may or may not exist. Notably, he also confirms in a separate Reddit AMA that he wrote some of the code for Episode 3.",
+		"url": "https://www.reddit.com/r/valve/comments/1uwx9q0/comment/oxpvf9w/",
+		"type": 3
 	}
 ]
