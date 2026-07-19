@@ -24,12 +24,11 @@ function ShowTimeline( filter ) {
 	var container = document.getElementById( "eventList" );
 	var showing = document.getElementById( "showing" );
 	var count = 0;
-	if ( filter != null ) {
-		var list = document.getElementsByClassName( "event" );
-		while ( list.length > 0 ) {
-			list[0].remove();
-		}
+	var list = document.getElementsByClassName( "event" );
+	while ( list.length > 0 ) {
+		list[0].remove();
 	}
+	
 	for ( const t of timeline ) {
 		if ( filter != null && filter != t.type ) {
 			continue;
