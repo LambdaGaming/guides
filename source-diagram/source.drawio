@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.9 Safari/537.36">
   <diagram name="Page-1" id="zby8Wxxjh_6SGCrDghd_">
-    <mxGraphModel dx="1414" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2028" pageHeight="2028" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="2700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2028" pageHeight="2028" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,31 +10,31 @@
         <mxCell id="NXid-BT4yfgxMKIQa66q-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="&lt;div&gt;Legend&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="NXid-BT4yfgxMKIQa66q-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="Official Valve Mod/Title/Engine" vertex="1">
-          <mxGeometry height="30" width="170" x="60" y="50" as="geometry" />
+        <mxCell id="NXid-BT4yfgxMKIQa66q-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="Title or engine developed by Valve" vertex="1">
+          <mxGeometry height="30" width="190" x="60" y="50" as="geometry" />
         </mxCell>
         <mxCell id="NXid-BT4yfgxMKIQa66q-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="15" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="NXid-BT4yfgxMKIQa66q-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="Title Published But Not Developed By Valve" vertex="1">
-          <mxGeometry height="30" width="240" x="60" y="90" as="geometry" />
+        <mxCell id="NXid-BT4yfgxMKIQa66q-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="Title published by Valve but not directly developed by them" vertex="1">
+          <mxGeometry height="30" width="320" x="60" y="90" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;rounded=1;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="15" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="C-jzJU40o5kUoUtQNF1t-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;arcSize=50;" value="3rd Party Mod" vertex="1">
+        <mxCell id="C-jzJU40o5kUoUtQNF1t-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;arcSize=50;" value="3rd party mod" vertex="1">
           <mxGeometry height="30" width="80" x="61" y="130" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;rounded=1;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="15" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="C-jzJU40o5kUoUtQNF1t-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="&lt;div&gt;3rd Party Title&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="85" x="60" y="210" as="geometry" />
+        <mxCell id="C-jzJU40o5kUoUtQNF1t-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="&lt;div&gt;3rd party title&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="75" x="60" y="210" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;strokeColor=#FF0000;rounded=1;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="15" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="C-jzJU40o5kUoUtQNF1t-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="3rd Party Mod That Became an Official Title" vertex="1">
+        <mxCell id="C-jzJU40o5kUoUtQNF1t-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="3rd party mod that Valve bought the rights to" vertex="1">
           <mxGeometry height="30" width="240" x="60" y="170" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-25" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="C-jzJU40o5kUoUtQNF1t-59" value="">
@@ -157,6 +157,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8tR8tl6IdKTZvuz6Lt_4-2" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8tR8tl6IdKTZvuz6Lt_4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-19" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bgOTiWMDi-ORbzpVP-7E-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Half-Life / GoldSrc" vertex="1">
@@ -286,6 +289,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-10" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bgOTiWMDi-ORbzpVP-7E-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-86" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;div&gt;The Orange Box /&lt;/div&gt;&lt;div&gt;Source 2007&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="140" x="944.75" y="1380" as="geometry" />
         </mxCell>
@@ -304,8 +310,8 @@
         <mxCell id="C-jzJU40o5kUoUtQNF1t-95" parent="1" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;rounded=1;" value="Team Fortress" vertex="1">
           <mxGeometry height="60" width="100" x="784" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="C-jzJU40o5kUoUtQNF1t-97" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;div&gt;DOTA 2&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="80" x="1175.58" y="2710" as="geometry" />
+        <mxCell id="C-jzJU40o5kUoUtQNF1t-97" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;div&gt;DOTA 2&lt;/div&gt;&lt;div&gt;(2015-Present)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="114.42" x="1175.58" y="2690" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-99" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Team Fortress Classic" vertex="1">
           <mxGeometry height="98.5" width="150" x="560" y="20" as="geometry" />
@@ -378,6 +384,12 @@
         <mxCell id="C-jzJU40o5kUoUtQNF1t-203" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C-jzJU40o5kUoUtQNF1t-202" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-2" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bgOTiWMDi-ORbzpVP-7E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-4" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="bgOTiWMDi-ORbzpVP-7E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-129" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Alien Swarm Branch" vertex="1">
           <mxGeometry height="100" width="140" x="944.25" y="1910" as="geometry" />
         </mxCell>
@@ -390,9 +402,6 @@
         <mxCell id="C-jzJU40o5kUoUtQNF1t-152" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C-jzJU40o5kUoUtQNF1t-151" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-jzJU40o5kUoUtQNF1t-155" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="C-jzJU40o5kUoUtQNF1t-149">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-227" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="C-jzJU40o5kUoUtQNF1t-226">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -402,10 +411,8 @@
         <mxCell id="C-jzJU40o5kUoUtQNF1t-234" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="C-jzJU40o5kUoUtQNF1t-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-jzJU40o5kUoUtQNF1t-238" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="2130" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-5" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="C-jzJU40o5kUoUtQNF1t-237">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-131" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Portal 2 Branch" vertex="1">
           <mxGeometry height="100" width="140" x="944.25" y="2130" as="geometry" />
@@ -463,17 +470,23 @@
         <mxCell id="C-jzJU40o5kUoUtQNF1t-143" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;div&gt;CS:GO /&lt;/div&gt;&lt;div&gt;Source 2013&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="140" x="944.24" y="2452" as="geometry" />
         </mxCell>
-        <mxCell id="C-jzJU40o5kUoUtQNF1t-145" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Black Mesa" vertex="1">
-          <mxGeometry height="80" width="120" x="618.74" y="2410" as="geometry" />
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-15" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="bgOTiWMDi-ORbzpVP-7E-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-jzJU40o5kUoUtQNF1t-149" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Dino D-Day" vertex="1">
-          <mxGeometry height="80" width="102.75" x="800" y="2040" as="geometry" />
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-16" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="bgOTiWMDi-ORbzpVP-7E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-17" edge="1" parent="1" source="C-jzJU40o5kUoUtQNF1t-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="bgOTiWMDi-ORbzpVP-7E-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-jzJU40o5kUoUtQNF1t-145" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Black Mesa&lt;div&gt;(2015-Present)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="618.74" y="2410" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-151" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="The Stanley Parable" vertex="1">
           <mxGeometry height="100" width="140" x="754" y="2160" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-153" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Lambda Wars" vertex="1">
-          <mxGeometry height="80" width="114" x="1197" y="1920" as="geometry" />
+          <mxGeometry height="80" width="114" x="1125.5" y="1840" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-157" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Insurgency" vertex="1">
           <mxGeometry height="82" width="122.5" x="771.49" y="2552" as="geometry" />
@@ -500,7 +513,7 @@
           <mxGeometry height="90" width="149.5" x="757.99" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-168" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="They Hunger" vertex="1">
-          <mxGeometry height="80" width="120" x="1080" y="300" as="geometry" />
+          <mxGeometry height="60" width="100" x="1080" y="300" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-170" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Age of Chivarly" vertex="1">
           <mxGeometry height="100" width="140" x="797.5" y="1470" as="geometry" />
@@ -581,7 +594,7 @@
           <mxGeometry height="80" width="120" x="839.5" y="2240" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-237" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="INFRA" vertex="1">
-          <mxGeometry height="80" width="102.75" x="706.75" y="2090" as="geometry" />
+          <mxGeometry height="80" width="102.75" x="846.25" y="2066" as="geometry" />
         </mxCell>
         <mxCell id="C-jzJU40o5kUoUtQNF1t-239" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Artifact" vertex="1">
           <mxGeometry height="80" width="113" x="756.42" y="2850" as="geometry" />
@@ -601,7 +614,7 @@
         <mxCell id="C-jzJU40o5kUoUtQNF1t-250" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Fistful of Frags" vertex="1">
           <mxGeometry height="82" width="122.5" x="1166.08" y="2552" as="geometry" />
         </mxCell>
-        <mxCell id="oVlJzI-M39lpiFUeE6OW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Abou&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;t&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;This is kind of like a Source family tree, showing what games used other games as a base, starting with Quake. I also included some non-Source games since I thought their origins were interesting. Feel free to suggest improvements if you think something is wrong or could be added. I don&#39;t plan on adding every single mod or game that could fit here, but if you think one deserves to be added feel free to let me know.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note that while many Source 1 games were upgraded to later engine versions after release, they are listed here as they were at release.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="oVlJzI-M39lpiFUeE6OW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Abou&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;&quot;&gt;t&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;This is kind of like a Source family tree. It shows what various Source games were built off of, starting with Quake. I also included some non-Source games since I thought their origins were interesting. Feel free to suggest improvements if you think something is wrong or could be added. I don&#39;t plan on adding every single mod or game that could fit here, but let me know if you think one deserves to be added.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note that while many Source 1 games were upgraded to later engine versions after release, they are listed here as they were at release.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="230" width="392" x="819" y="-240" as="geometry" />
         </mxCell>
         <mxCell id="TBxg5IuYlkcbJLlAOZ3T-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="My Summer Cottage" vertex="1">
@@ -620,13 +633,34 @@
           <mxGeometry height="80" width="120" x="810" y="380" as="geometry" />
         </mxCell>
         <mxCell id="TBxg5IuYlkcbJLlAOZ3T-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Zombie Panic!" vertex="1">
-          <mxGeometry height="80" width="120" x="884" y="267" as="geometry" />
+          <mxGeometry height="80" width="120" x="884" y="280" as="geometry" />
         </mxCell>
         <mxCell id="8tR8tl6IdKTZvuz6Lt_4-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Natural Selection" vertex="1">
-          <mxGeometry height="80" width="120" x="1080" y="400" as="geometry" />
+          <mxGeometry height="70" width="110" x="1074.5" y="370" as="geometry" />
         </mxCell>
         <mxCell id="8tR8tl6IdKTZvuz6Lt_4-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Day of Defeat: Source" vertex="1">
           <mxGeometry height="90" width="149.5" x="1094" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;div&gt;DOTA 2&lt;/div&gt;&lt;div&gt;(2013-2015)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="114.42" x="1129.08" y="1950" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Dino D-Day" vertex="1">
+          <mxGeometry height="80" width="102.75" x="856.12" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Black Mesa: Source&lt;div&gt;(2012-2015)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="138.87" x="1071.13" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Black Mesa:&lt;div&gt;Black Ops&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="618.75" y="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Black Mesa:&lt;div&gt;Azure Sheep&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="510" y="2340" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Black Mesa:&lt;div&gt;Blue Shift&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="498.75" y="2472" as="geometry" />
+        </mxCell>
+        <mxCell id="bgOTiWMDi-ORbzpVP-7E-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Azure Sheep" vertex="1">
+          <mxGeometry height="60" width="96" x="1079.17" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
