@@ -849,7 +849,7 @@
 	{
 		"title": "More Episode 3 Concept Art Revealed",
 		"date": "August 29, 2022",
-		"info": "For the first time in over a decade, more Episode 3 concept art is released to the public by 2K marketing producer and Valve content collector David McGreavy. He states that he bought them from a Valve employee who saved the art from being thrown away during Valve's office move in 2016. A few high-res scans were first shared with the LambdaGeneration community, and the entire collection was later uploaded to the Internet Archive.",
+		"info": "For the first time in over a decade, more Episode 3 concept art is released to the public by 2K marketing producer and Valve content collector David McGreavy. He states that he bought them from a Valve employee who saved the art from being thrown away during Valve's office move in 2016. A few scans were first shared with the LambdaGeneration community, and the entire collection was later uploaded to the Internet Archive.",
 		"url": "https://archive.org/details/unreleased-half-life-concept-art",
 		"type": 2
 	},
@@ -870,7 +870,7 @@
 	{
 		"title": "New Valve Game Appears on Voice Actor's Resume",
 		"date": "August 4, 2024",
-		"info": "A Valve game named 'Project White Sands' appears on Natasha Chandel's resume under the Voice Over section, with a TBA in the role column. Fans speculate that White Sands is a codename for Half-Life 3, based on the fact that it's the name of the military test range in New Mexico where the first atomic bomb was detonated, and the fact that the name could be a synonym for snow. It's later revealed that Project White Sands is Deadlock, not Half-Life 3.",
+		"info": "A Valve game named 'Project White Sands' appears on Natasha Chandel's resume under the Voice Over section, with a TBA in the role column. Fans speculate that White Sands is a codename for Half-Life 3, based on the fact that it's the name of the military test range in New Mexico where the first atomic bomb was detonated, and the fact that white sands could be a synonym for snow. It's later revealed that Project White Sands is Deadlock, not Half-Life 3.",
 		"url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ek3943/valve_is_working_on_a_title_under_the_codename/",
 		"type": 3
 	},
@@ -884,21 +884,21 @@
 	{
 		"title": "More HLX References Found in Source 2 Games",
 		"date": "August 25, 2024",
-		"info": "Data mining by Tyler McVicker reveals more HLX references, including an alien head icon, an icon with gordon freeman holding a crowbar, a bugreporter config for HLX, and hint nodes for Combine and Xen NPCs.",
+		"info": "Data mining by Tyler McVicker reveals more HLX references, including an alien head icon, an icon with Gordon Freeman holding a crowbar, a bugreporter config for HLX, and hint nodes for Combine and Xen NPCs.",
 		"url": "https://youtu.be/FNNZUjkN3Qg",
 		"type": 1
 	},
 	{
 		"title": "More HLX References Found in Deadlock",
 		"date": "October 16, 2024",
-		"info": "Data mining by Tyler McVicker reveals more HLX references, including a detailed surface property system and a detailed vehicle physics system, both of which are likely for HLX because they aren't used in any other known Source 2 games. He also notes that Valve started hiring a lot more artists and level designers from accredited studios in 2023, including id Software, Rockstar, Bungie, Naughty Dog, and Meta.",
+		"info": "Data mining by Tyler McVicker reveals more HLX references, including a detailed surface property system and a detailed vehicle physics system, both of which are likely for HLX because they aren't used in any other known Source 2 games. He also notes that Valve started hiring a lot more artists and level designers from accredited studios in 2023 including id Software, Rockstar, Bungie, Naughty Dog, and Meta.",
 		"url": "https://youtu.be/HWlRkzwHLwI",
 		"type": 1
 	},
 	{
 		"title": "Mike Morasky Confirms He's Not Working on Deadlock",
 		"date": "October 23, 2024",
-		"info": "Mike Morasky confirms in a Tweet that he is not responsible for the music in Deadlock, likely meaning he is working on another big project such as HLX.",
+		"info": "Mike Morasky confirms in a Tweet that he is not responsible for the music in Deadlock. Fans speculate that this likely means he is working on another big project such as HLX.",
 		"url": "https://miro.com/app/board/uXjVINqBTwM=/",
 		"type": 0
 	},
@@ -1205,13 +1205,6 @@
 		"type": 1
 	},
 	{
-		"title": "Hideo Kojima Visits Valve",
-		"date": "April 21, 2026",
-		"info": "He posts various pictures of himself around Valve's office, one of which includes him standing next to the big Valve sign. Underneath the sign are 3 gravity guns and 3 portal guns. While this is likely meaningless, fans nevertheless try to somehow connect it with Half-Life 3.",
-		"url": "https://x.com/Kojima_Hideo/status/2046736666837365201",
-		"type": 3
-	},
-	{
 		"title": "Chet Faliszek Doesn't Want to Write For Half-Life 3",
 		"date": "May 14, 2026",
 		"info": "In response to a fan comment, Faliszek makes a video explaining that he doesn't want to write for Half-Life 3 or any other game with pre-existing lore because it's difficult to write within those boundaries. He also makes it clear at the beginning of the video that he's 'not trying to allude to anything', presumably about the current development of Half-Life 3.",
@@ -1249,7 +1242,7 @@
 	{
 		"title": "Valve Programmer Hints Toward HLX",
 		"date": "July 15, 2026",
-		"info": "In a Reddit post discussing his second retirement from Valve, programmer Chris Green is asked if he can give any info on HLX, to which he replies with 'I think you know the answer to that :-)', causing fans to speculate on whether or not he is confirming the existence of the project. Two days later, he follows up with another comment clarifying that he meant he's not going to discuss projects that may or may not exist. Notably, he also confirms in a separate Reddit AMA that he wrote some of the code for Episode 3.",
+		"info": "In a Reddit post discussing his second retirement from Valve, programmer Chris Green is asked if he can give any info on HLX, to which he replies with 'I think you know the answer to that :-)', causing fans to speculate on whether or not he is confirming the existence of the project. Two days later, he follows up with another comment clarifying that he meant he's not going to discuss projects that may or may not exist. Notably, he also confirms in a separate Reddit AMA that he worked on Episode 3.",
 		"url": "https://www.reddit.com/r/valve/comments/1uwx9q0/comment/oxpvf9w/",
 		"type": 3
 	}
