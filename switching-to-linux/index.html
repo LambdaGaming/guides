@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on July 28, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on August 12, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -48,22 +48,22 @@
 			<p>As a long time Windows user, the idea of switching to Linux used to be nothing but a joke to me. Over the years however, Microsoft has added more and more features that bloat the OS, introduce security and privacy concerns, and generally just make the user experience worse. In early 2024, all of this annoyed me enough to start looking into Linux. It didn't take long for me to realize that it was a suitable alternative, and since then I've been daily driving Linux with no regrets. This guide will cover why I think Linux is generally a better alternative to Windows, how to get started using it, and many of the differences between Linux and Windows that you should know.<p>
 			<p>Before we start, please take note of a few things:</p>
 			<ul>
-				<li>Linux is <b>NOT</b> perfect. Don't go into it thinking that it's going to work flawlessly and do everything better than Windows. This type of mindset is unrealistic and tends to cause people to go back to Windows out of frustration or disappointment. You don't need to be extremely tech-savvy to use Linux, but you do need to have realistic expectations, patience, and a willingness to learn and do basic research. Like any operating system, there will very likely be a point where you have to stop and learn about a particular feature before being able to properly use it, and you might even encounter a problem that you will have to fix yourself.</li>
+				<li>Linux is <b>NOT</b> perfect. Don't go into it thinking that it's going to work flawlessly and do everything better than Windows. This type of mindset is unrealistic and tends to cause people to stay on Windows out of frustration or disappointment. You don't need to be extremely tech-savvy to use Linux, but you do need to have realistic expectations, patience, and a willingness to learn and do basic research. Like any operating system, there will very likely be a point where you have to stop and learn about a particular feature before being able to properly use it, and you might even encounter a problem that you will have to fix yourself.</li>
 				<li>This guide is mainly designed for Windows users. While macOS is mentioned occasionally throughout the guide, it's not popular enough in the home user space to justify covering it as extensively as Windows.</li>
 				<li>This guide contains a mix of my own experiences and factual information with citations. While I aim to make the information in this guide 100% accurate and easily verifiable, some information could be wrong or might lack proper citations. If you find any problems or have suggestions to add or change something, feel free to create an issue on <a href="https://github.com/LambdaGaming/Guides">GitHub.</a></li>
 			</ul></p>
 			<h1 id="why">Why Linux?</h1>
 			<h2 id="privacy">Privacy</h2>
 			<hr>
-			<p>You might not realize it, but the concept of privacy in the digital world is slowly degrading, and has been <a href="https://www.britannica.com/topic/USA-PATRIOT-Act">since the early 2000s.</a> Governments, companies, and other groups are interested in <a href="https://www.privacyguides.org/en/basics/common-threats/">collecting a wide variety of information about you</a>, for several different reasons.</p>
-			<p>Microsoft is well known for including things in Windows that <a href="https://www.privacyguides.org/en/os/windows/">put your privacy at risk.</a> Windows is full of trackers and telemetry that send data about your app usage and web activity back to Microsoft, OneDrive is known to upload your documents to the cloud without your consent, Windows 11 has an AI feature that takes screenshots every 5 seconds and analyses their contents, and BitLocker decryption keys connected to your Microsoft account can be <a href="https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/">handed over to law enforcement</a> without your knowledge or consent.</p><p>While it's possible to disable many of these privacy-violating features, it's impossible to disable everything because of how engrained some of these trackers are. Just because it's disabled doesn't mean it's safe, either. Microsoft has historically pushed updates that re-enable those features, and have on several occasions changed their privacy policy to allow for more data collection.</p>
-			<p>Apple isn't much better. While their largest privacy controversies were exclusive to the cloud and mobile spaces, macOS suffers from <a href="https://www.privacyguides.org/en/os/macos-overview/">some of the same privacy issues as Windows.</a> Most parts of Windows and macOS are closed-source, meaning nobody outside of the company knows exactly what code is running on your computer. There are ways to find out without having the source code, but they're extremely technical and typically require extensive research by cybersecurity professionals.</p><p>On the other hand, most Linux distros do not have any sort of data collection, and even the few that do have it turned off by default. Your private data is generally a lot safer because most software for Linux (including Linux itself) is open source, so not only is it a lot harder to hide malicious code that steals your data, there's also little incentive for these projects to be collecting your data to begin with, because most of them are not in it for the money.</p>
+			<p>Most people don't realize it, but the concept of digital privacy is slowly degrading, and has been <a href="https://www.britannica.com/topic/USA-PATRIOT-Act">since the early 2000s.</a> Governments, companies, and other groups are interested in <a href="https://www.privacyguides.org/en/basics/common-threats/">collecting a wide variety of information about you</a>, for several different reasons.</p>
+			<p>Microsoft is well known for including things in Windows that <a href="https://www.privacyguides.org/en/os/windows/">put your privacy at risk.</a> Windows is full of trackers and telemetry that send data about your app usage and web activity back to Microsoft, OneDrive is known to upload your documents to the cloud without your consent, Windows 11 has an AI feature that takes screenshots every 5 seconds and analyses their contents, and BitLocker decryption keys connected to your Microsoft account can be <a href="https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/">handed over to law enforcement</a> without your knowledge or consent.</p><p>While it's possible to disable many of these privacy-violating features, it's impossible to disable everything because of how engrained some of these trackers are. Just because it's disabled doesn't mean it's safe, either. Windows tends to re-enable many of these features after updating, and Microsoft has changed their privacy policy to allow for more data collection on several occasions.</p>
+			<p>Apple isn't much better. While their largest privacy controversies were exclusive to the cloud and mobile spaces, macOS suffers from <a href="https://www.privacyguides.org/en/os/macos-overview/">some of the same privacy issues as Windows.</a> Most parts of Windows and macOS are closed-source, meaning nobody outside of the company knows exactly what code is running on your computer. There are ways to find out without having the source code, but they're extremely technical and typically require extensive research by cybersecurity professionals.</p><p>On the other hand, most Linux distros do not have any sort of data collection, and even the few that do have it ask for your consent first. Your private data is generally a lot safer because most software for Linux (including Linux itself) is open source, so not only is it a lot harder to hide malicious code that steals your data, there's also little incentive for these projects to be collecting your data to begin with, because most of them are not in it for the money.</p>
 			<p>Some people think that online privacy doesn't matter if they have nothing to hide, but I completely disagree. This section is already long enough so I'm not going to rant about that, but if you're willing to have your mind changed <a href="https://www.privacyguides.org/en/basics/why-privacy-matters/">this article tells you everything you need to know</a>. This website in general is a fantastic resource for everything related to online privacy.</p>
 			<h2 id="security">Security</h2>
 			<hr>
 			<p>You can't have privacy without security, and while nothing is ever 100% secure, Linux-based systems are generally more secure than Windows for several reasons:</p>
 			<h3>Security Through Obscurity</h3>
-			<p>Linux is <a href="https://itsfoss.com/linux-market-share/">significantly less popular</a> than Windows and macOS in the desktop space, which means that malware creators have less incentive to target it. This could certainly change as Linux grows in popularity among desktop users, but there are other factors that still limit the effectiveness of malware on Linux. There's a somewhat common misconception that malware for desktop Linux doesn't exist. All types of computers are vulnerable to malware infections to some extent; the risk might be low, but it's never 0%.</p>
+			<p>Linux is <a href="https://itsfoss.com/linux-market-share/">significantly less popular</a> than Windows and macOS in the desktop space, which means that malware creators have less incentive to target it. This could certainly change as Linux grows in popularity among desktop users, but there are other factors that still limit the effectiveness of malware on Linux.</p><p>There's a somewhat common misconception that malware for desktop Linux doesn't exist. All types of computers are vulnerable to malware infections to some extent; the risk might be low, but it's never 0%.</p>
 			<h3>Better File System Permissions</h3>
 			<p>Linux uses <a href="https://blog.geekinstitute.org/2025/05/linux-file-and-permission-management.html">file and group permissions</a> to determine who is allowed to access and modify what. Each file has read, write, and execute permissions that can be restricted to certain users or groups, and both users and programs can belong to groups. System files are protected with these permissions, and cannot be modified by any program unless it's running with root permissions, which is discussed in the next section. Windows has file system protections as well, but they're not as in-depth as Linux. Protections for system files on Windows are not consistent and sometimes don't even need admin privileges in order to modify, which opens up opportunities that malware can take advantage of.</p>
 			<h3>Better Admin Permissions</h3>
@@ -93,7 +93,7 @@
 			<h2 id="whatsadistro">What's a distro?</h2>
 			<hr>
 			<p>Distro is short for distribution. It's typically considered to be an operating system that runs on the Linux kernel, comes with various free open-source software (FOSS) pre-installed, is designed for desktop use, and is available to be used and distributed freely by the public. The problem is that there are many definitions, and some operating systems might fit this definition but are still not considered distros, and vice versa.</p>
-			<p>You might hear someone refer to a distro as GNU/Linux. This is in reference to the <a href="https://www.gnu.org/">GNU operating system.</a> A lot of distros adhere to the basic philosophy of GNU, which is essentially to build an operating system using FOSS, but most mainstream distros aren't considered free by GNU's strict definition, so they technically aren't GNU/Linux.</p>
+			<p>You might hear someone refer to a distro as GNU/Linux. This is in reference to the <a href="https://www.gnu.org/">GNU operating system.</a> A lot of distros adhere to the basic philosophy of GNU, which is essentially to build an operating system using FOSS. The problem is that none of the popular distros are considered free by GNU's strict definition, so they technically aren't full versions of GNU/Linux.</p>
 			<p>The semantics of it is confusing and there's no point in trying to understand it. The key takeaway is that most desktop operating systems that run on Linux are considered distros <i>and</i> are also referred to as GNU/Linux.</p>
 			
 			<h2 id="terminals">Terminals</h2>
@@ -137,8 +137,8 @@
 			<h2 id="graphics">Graphics</h2>
 			<hr>
 			<h3>X11 & Wayland</h3>
-			<p>These are the two main display servers available for Linux. X11 has been around for decades. It's slow and insecure but also very stable. Wayland is faster and more secure, but its also newer and less stable. Development of X11 has effectively stopped and Wayland is slowly taking its place.</p>
-			<p>What does this mean for you? Mostly nothing. The distro you end up choosing will likely handle the switch over to Wayland without you ever knowing. The only time you need to worry about X11 vs Wayland is if you have multiple monitors with different refresh rates. If you do, you need to make sure the distro and desktop environment you choose supports Wayland, because X11 will force all monitors to have the refresh rate of the monitor with the lowest one.</p>
+			<p>These are the two main display servers available for Linux. Their job is to act as a bridge between the kernel and all GUI programs. X11 has been around for decades. It's slow and insecure but also very stable. Wayland is faster and more secure, but it's also newer and less stable. Development of X11 has effectively stopped and Wayland is slowly taking its place.</p>
+			<p>What does this mean for you? Mostly nothing. The distro you end up choosing will likely handle the switch over to Wayland without you ever knowing. Most programs nowadays will run on Wayland without issue, though it's not impossible to come across a program that only works properly on X11.</p>
 			<h3>Nvidia Drivers</h3>
 			<p>If you have an Nvidia GPU, you will need to install a proprietary driver for it to work properly on Linux. Most distros will prompt you to install it, but some won't allow you to install it at all, so just be aware of that when choosing a distro. Any Nvidia GPU from the GTX 10 series or older won't work with the latest drivers, so you might have to manually install an older driver to be able to run GPU-intensive programs. If you have an AMD or Intel GPU, you won't have to install a proprietary driver and everything should work out of the box on most distros.</p>
 			<p>It's also important to note that Nvidia drivers on Linux do not have a shared memory feature. This means that when your GPU runs out of video memory (VRAM), the driver will not use regular system RAM as a backup. Because of this, when you're playing a game or running some other VRAM-intensive program, you might experience freezes, crashes, and visual bugs in <i>all</i> currently running programs. This is not normal behavior - AMD and Intel GPUs do not have this problem. It's unclear why Nvidia refuses to implement this feature, but it is clear that Linux is not a focus for them, and I suggest switching to an AMD or Intel GPU if you plan to stay on Linux.</p>
@@ -155,11 +155,11 @@
 			<h4><a href="https://snapcraft.io/">Snaps</a></h4>
 			<p>Snaps are downloaded from the Snap Store, which is developed and maintained by Canonical, the developer of Ubuntu. They are mostly only seen on Ubuntu-based distros, but you can get them on pretty much any distro with the right package manager. They work similarly to Flatpaks but they support both GUI and CLI programs, are hosted in a centralized repo, and do not run in a sandbox. They are controversial in the Linux community for several reasons, and most Linux enthusiasts will tell you to use Flatpaks instead.</p>
 			<h4><a href="https://appimage.org/">AppImages</a></h4>
-			<p>AppImages are downloaded as single files that can be immediately ran without installing, similar to portable .exe files on Windows. Many programs bundled as AppImages are also capable of updating themselves when launched. A lot of open source projects choose to use this format because it doesn't require publishing their app to another website, but the downside is that AppImages cannot be verified as safe.</p>
+			<p>AppImages are downloaded as single files that can be immediately run without installing, similar to portable .exe files on Windows. Many programs bundled as AppImages are also capable of updating themselves when launched. A lot of open source projects choose to use this format because it doesn't require publishing their app to another website, but the downside is that AppImages cannot be verified as safe. It can also be tricky to make firewall rules for AppImages since the executable gets extracted to a temporary location every time the program opens.</p>
 
 			<h2 id="compat">Software Compatibility</h2>
 			<hr>
-			<p>One of the main reasons people stay away from Linux is because the programs they use or the games they play on Windows don't run on Linux, or so they think. Over the past few years, there have been significant improvements toward this. Many Windows apps are capable of running on Linux through compatibility tools, with little to no performance loss (and sometimes even an increase). There have even been <a href="https://www.gamingonlinux.com/2025/01/ntsync-driver-for-improving-windows-games-on-linux-with-wine-proton-should-finally-land-in-linux-kernel-614/">recent changes</a> to the Linux kernel itself that help improve performance when running Windows programs.</p>
+			<p>One of the main reasons people stay away from Linux is because the programs they use or the games they play on Windows don't run on Linux, or so they think. Over the past few years, there have been significant improvements toward this. Many Windows apps are capable of running on Linux through compatibility tools, with little to no performance loss (and sometimes even an increase). There have even been <a href="https://www.gamingonlinux.com/2025/01/ntsync-driver-for-improving-windows-games-on-linux-with-wine-proton-should-finally-land-in-linux-kernel-614/">changes to the Linux kernel itself</a> that help improve performance when running Windows programs.</p>
 			<h3 id="compattools">Compatibility Tools</h3>
 			<h4><a href="https://www.winehq.org/">Wine</a></h4>
 			<p>Wine is the main compatibility tool that pretty much everything else is based on. It translates code written for Windows into code that Linux can understand, in real time. It also provides a virtual Windows file system, called a prefix, that Windows programs can use for installations or saving files to avoid breaking compatibility. Wine is good for running generic programs, but it can be very hit-or-miss with games and other GPU-intensive programs.</p>
@@ -170,11 +170,11 @@
 			<h4><a href="https://github.com/GloriousEggroll/proton-ge-custom">Proton GE</a></h4>
 			<p>Proton GE is a fork of Proton created by GloriousEggroll. It contains patches for specific games that aren't included in regular Proton. If you have a game that doesn't work with any version of Proton, Proton GE might be the solution.</p>
 			<h4><a href="https://github.com/sonic2kk/steamtinkerlaunch">SteamTinkerLaunch</a></h4>
-			<p>SteamTinkerLaunch is a GUI wrapper for Proton that allows you to configure a wide range of settings which would otherwise need to be done through the terminal or a shell script. It's mainly used for modding and benchmarking.</p>
+			<p>SteamTinkerLaunch is a GUI wrapper for Proton that allows you to configure a wide range of settings which would otherwise need to be done through the terminal or a script. It's mainly used for modding and benchmarking.</p>
 			<h4><a href="https://usebottles.com/">Bottles</a></h4>
 			<p>Bottles allows users to create customizable environments to run Windows apps through Wine. These environments are sandboxed, partly due to the fact that Bottles is installed as a Flatpak. This makes the Windows apps running inside of it safer to use, at the cost of occasionally causing compatibility issues. It also provides an interface to install dependencies into the Wine prefix with a click of a button.</p>
 			<h4><a href="https://lutris.net/">Lutris</a></h4>
-			<p>Lutris is similar to Bottles but is focused more on gaming and is more barebones. It doesn't provide the same sandboxing and dependency features that Bottles does, but it does provide install scripts for a variety of games to automatically setup the game and apply custom configs if needed. Since Lutris isn't sandboxed, it doesn't suffer from the same compatibility issues that Bottles sometimes does. It also allows users to easily use Proton or Proton GE instead of Wine, and it will automatically install the latest versions of Wine and Proton GE.</p>
+			<p>Lutris is similar to Bottles but it's more barebones and gaming-focused. It doesn't provide the same sandboxing and dependency features that Bottles does, but it does provide install scripts for a variety of games to automatically setup the game and apply custom configs if needed. Since Lutris isn't sandboxed, it doesn't suffer from the same compatibility issues that Bottles sometimes does. It also allows users to easily use Proton or Proton GE instead of Wine, and it will automatically install the latest versions of Wine and Proton GE.</p>
 			<h4><a href="https://davidotek.github.io/protonup-qt/">ProtonUp-Qt</a></h4>
 			<p>ProtonUp-Qt is a simple GUI program that makes it easy to install Proton GE, SteamTinkerLaunch, and other custom versions of Proton and Wine inside Steam and Lutris.</p>
 			<h4><a href="https://github.com/Winetricks/winetricks">WineTricks / ProtonTricks</a></h4>
@@ -187,7 +187,7 @@
 			<h4><a href="https://github.com/HarbourHeading/KVM-GPU-Passthrough">QEMU/KVM</a></h4>
 			<p>KVM is a virtualization module that's built into the Linux kernel. QEMU is simply the graphical frontend for KVM. In terms of performance it's probably better than anything else out there because of how low-level it is. By following the steps linked above, you can pass your GPU through to the VM to be able to run graphics intensive programs like games, which isn't really possible with any other virtualization software on Linux. The downside is that the setup is extremely tedious and probably not worth it in the end.</p>
 			<h4><a href="https://github.com/TibixDev/winboat">WinBoat</a></h4>
-			<p>WinBoat is a new tool that uses Docker containers and virtual machines to allow users to easily setup and run Windows apps on Linux, with seamless integration with your Linux desktop so you don't have to deal with a separate Windows desktop inside the VM. It's a little easier to setup than VirtualBox, but it's still in early development so bugs and instabilities are likely. It definitely has potential though, so it's worth keeping in mind.</p>
+			<p>WinBoat uses Docker containers and virtual machines to allow users to easily setup and run Windows apps on Linux, with seamless integration with your Linux desktop so you don't have to deal with a separate Windows desktop inside the VM. It's currently in beta so bugs and instabilities are likely.</p>
 
 			<h3 id="compat2">Program List</h3>
 			<p>The following is a list of popular Windows programs and how they run on Linux (if at all). Good alternatives that are confirmed to work on Linux are also listed where applicable. Steam games are not listed here; for those, you should visit <a href="https://www.protondb.com/">ProtonDB.</a></p>
@@ -337,6 +337,7 @@
 					<li>Base distro: Ubuntu</li>
 					<li>Default desktop environments: Cinnamon, Xfce, MATE</li>
 					<li>Release type: Periodical. Every 6 months for minor versions; Roughly every 2 years for major versions</li>
+					<li>Maintainer: Linux Mint Team (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="mint.png">
 				
@@ -349,6 +350,7 @@
 					<li>Base distro: Ubuntu</li>
 					<li>Default desktop environment: Customized GNOME (multiple variants available, some locked behind pro version)</li>
 					<li>Release type: Irregular</li>
+					<li>Maintainer: Zorin OS Technologies Limited (Irish for-profit company)</li>
 				</ul>
 				<img src="zorin.png">
 	
@@ -361,6 +363,7 @@
 					<li>Base distro: Ubuntu</li>
 					<li>Default desktop environment: Pantheon</li>
 					<li>Release type: Irregular</li>
+					<li>Maintainer: Elementary Inc. (American for-profit corporation)</li>
 				</ul>
 				<img src="elementary.png">
 	
@@ -373,6 +376,7 @@
 					<li>Base distro: Debian</li>
 					<li>Default desktop environment: GNOME</li>
 					<li>Release type: Periodical, every 6 months</li>
+					<li>Maintainer: Canonical Ltd. (English for-profit company)</li>
 				</ul>
 				<img src="ubuntu.png">
 
@@ -385,6 +389,7 @@
 					<li>Base distro: Arch</li>
 					<li>Default desktop environments: KDE Plasma, Xfce, GNOME, Cinnamon</li>
 					<li>Release type: Rolling</li>
+					<li>Maintainer: Manjaro GmbH & Co. KG (German for-profit company)</li>
 				</ul>
 				<img src="manjaro.png">
 
@@ -397,6 +402,7 @@
 					<li>Base distro: Arch</li>
 					<li>Default desktop environments: KDE Plasma, GNOME, XFCE, Budgie, Cinnamon, COSMIC, LXDE, LXQt, MATE, UKUI</li>
 					<li>Release type: Rolling</li>
+					<li>Maintainer: CachyOS Team (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="cachy.png">
 
@@ -409,11 +415,12 @@
 					<li>Base distro: Fedora</li>
 					<li>Default desktop environments: GNOME, KDE Plasma</li>
 					<li>Release type: Irregular</li>
+					<li>Maintainer: Universal Blue (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="bazzite.png">
 
 				<h3><a href="https://nobaraproject.org/">Nobara</a></h3>
-				<p>Nobara is an improved version of Fedora with quality of life features added. Most notably, it allows users to easily install proprietary software. It's tailored for gaming but it's not as gaming-focused as Bazzite.</p>
+				<p>Nobara is an improved version of Fedora with quality of life features added. Most notably, it allows users to easily install proprietary software. It's tailored for gaming but it's not as gaming-focused as Bazzite. It was created by GloriousEggroll, who also created Proton GE.</p>
 				<ul>
 					<li>Beginner friendliness: 6/10</li>
 					<li>Includes starter guide: Yes (Online only)</li>
@@ -421,6 +428,7 @@
 					<li>Base distro: Fedora</li>
 					<li>Default desktop environments: KDE Plasma (Nobara theme), KDE Plasma (Default theme), KDE Plasma (Steam Deck theme), GNOME</li>
 					<li>Release type: Irregular</li>
+					<li>Maintainer: Nobara Project (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="nobara.png">
 
@@ -433,6 +441,7 @@
 					<li>Base distro: None</li>
 					<li>Default desktop environments: Cinnamon, GNOME, KDE Plasma, Xfce, LXDE, Lxqt, MATE</li>
 					<li>Release type: Periodical, roughly every 2 years</li>
+					<li>Maintainer: Software in the Public Interest (American non-profit corporation)</li>
 				</ul>
 				<img src="debian.png">
 	
@@ -445,6 +454,7 @@
 					<li>Base distro: Ubuntu</li>
 					<li>Default desktop environment: GNOME</li>
 					<li>Release type: Periodical, every 6 months</li>
+					<li>Maintainer: Red Hat, LLC (American for-profit company)</li>
 				</ul>
 				<img src="fedora.png">
 	
@@ -457,6 +467,7 @@
 					<li>Base distro: Ubuntu</li>
 					<li>Default desktop environment: COSMIC</li>
 					<li>Release type: Periodical, roughly every 6-8 months</li>
+					<li>Maintainer: System76, Inc (American for-profit corporation)</li>
 				</ul>
 				<img src="pop.png">
 
@@ -469,6 +480,7 @@
 					<li>Base distro: Debian</li>
 					<li>Default desktop environments: KDE Plasma, GNOME, Xfce</li>
 					<li>Release type: Rolling (Tumbleweed); Periodical, every 12 months (Leap)</li>
+					<li>Maintainer: openSUSE Project (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="opensuse.png">
 	
@@ -481,6 +493,7 @@
 					<li>Base distro: Arch</li>
 					<li>Default desktop environments: Mokka (Customized KDE Plasma), Dr460nized (Customized KDE Plasma), GNOME, Cinnamon, Xfce, KDE Plasma, COSMIC</li>
 					<li>Release type: Rolling</li>
+					<li>Maintainer: Garuda Team (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="garuda.png">
 
@@ -493,6 +506,7 @@
 					<li>Base distro: Arch</li>
 					<li>Default desktop environments: KDE Plasma, Xfce, GNOME, MATE, Cinnamon, Budgie, LXQt, LXDE (Only KDE Plasma if you choose offline installer)</li>
 					<li>Release type: Rolling</li>
+					<li>Maintainer: EndeavourOS Team (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="endeavour.png">
 	
@@ -505,6 +519,7 @@
 					<li>Base distro: None</li>
 					<li>Default desktop environment: Xfce</li>
 					<li>Release type: Rolling</li>
+					<li>Maintainer: Void Linux Contributors (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="void.png">
 
@@ -517,6 +532,7 @@
 					<li>Base distro: None</li>
 					<li>Default desktop environments: GNOME, KDE Plasma</li>
 					<li>Release type: Periodical, every 6 months</li>
+					<li>Maintainer: NixOS Contributors (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="nixos.png">
 
@@ -529,6 +545,7 @@
 					<li>Base distro: None</li>
 					<li>Default desktop environment: None</li>
 					<li>Release type: Rolling</li>
+					<li>Maintainer: Levente Polyak (German individual)</li>
 				</ul>
 				<img src="arch.png">
 	
@@ -541,6 +558,7 @@
 					<li>Base distro: None</li>
 					<li>Default desktop environment: None</li>
 					<li>Release type: Rolling</li>
+					<li>Maintainer: Gentoo Authors (Non-profit group of hobbyists)</li>
 				</ul>
 
 				<h2 id="specialized">Specialized Distros</h2><hr>
