@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on August 12, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on August 13, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -190,7 +190,7 @@
 			<p>WinBoat uses Docker containers and virtual machines to allow users to easily setup and run Windows apps on Linux, with seamless integration with your Linux desktop so you don't have to deal with a separate Windows desktop inside the VM. It's currently in beta so bugs and instabilities are likely.</p>
 
 			<h3 id="compat2">Program List</h3>
-			<p>The following is a list of popular Windows programs and how they run on Linux (if at all). Good alternatives that are confirmed to work on Linux are also listed where applicable. Steam games are not listed here; for those, you should visit <a href="https://www.protondb.com/">ProtonDB.</a></p>
+			<p>The following is a list of popular Windows programs and how they run on Linux (if at all). Good alternatives that run natively on Linux are also listed where applicable. Steam games are not listed here; for those, you should visit <a href="https://www.protondb.com/">ProtonDB.</a></p>
 			<button id="CompatListButton" onclick="ToggleVis('CompatList')">Show Program List</button>
 			<div id="CompatList" class="hidden">
 				<table>
@@ -252,7 +252,7 @@
 						<td>Logitech GHub</td>
 						<td>No</td>
 						<td>OpenRGB (For device lighting controls)</td>
-						<td>If you're worried about getting drivers for certain devices such as steering wheels and joysticks, Linux generally supports them out of the box.</td>
+						<td>Installing drivers for Logitech peripherals isn't necessary; Linux supports them out of the box.</td>
 					</tr>
 					<tr>
 						<td>Microsoft Office / Office 365</td>
@@ -267,6 +267,18 @@
 						<td></td>
 					</tr>
 					<tr>
+						<td>Nvidia Control Panel / GeForce Experience</td>
+						<td>No</td>
+						<td>N/A</td>
+						<td>Control Panel technically exists on Linux but it's extremely barebones. Driver updates are automatically handled by your software manager so you don't have to worry about that.</td>
+					</tr>
+					<tr>
+						<td>Nvidia Shadowplay</td>
+						<td>No</td>
+						<td>GPU Screen Recorder, Steam, OBS Studio</td>
+						<td></td>
+					</tr>
+					<tr>
 						<td>Razer Synapse</td>
 						<td>No</td>
 						<td>OpenRGB, OpenRazer</td>
@@ -274,7 +286,7 @@
 					</tr>
 					<tr>
 						<td>Ubisoft Connect</td>
-						<td>Yes, with Lutris, Bottles, or Wine</td>
+						<td>Yes (Lutris, Bottles, Wine)</td>
 						<td>N/A</td>
 						<td>Doesn't need manual installation for Steam games.</td>
 					</tr>
@@ -292,9 +304,9 @@
 					</tr>
 					<tr>
 						<td>Vortex Mod Manager</td>
-						<td>Yes (Wine)</td>
+						<td>Yes (Wine, Proton GE)</td>
 						<td>N/A</td>
-						<td>Using Wine is the official method for Linux users.</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>WinDirStat & WizTree</td>
@@ -311,7 +323,7 @@
 					<tr>
 						<td>Xbox Game Bar</td>
 						<td>No</td>
-						<td>OBS Studio, Steam (For game recording); btop++, CPU-X (For hardware stats)</td>
+						<td>GPU Screen Recorder, OBS Studio, Steam (For game recording); btop++, CPU-X (For hardware stats)</td>
 						<td>No alternatives exist for the Xbox social features.</td>
 					</tr>
 				</table>
