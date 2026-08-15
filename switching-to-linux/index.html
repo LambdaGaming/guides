@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on August 13, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on August 15, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -190,7 +190,7 @@
 			<p>WinBoat uses Docker containers and virtual machines to allow users to easily setup and run Windows apps on Linux, with seamless integration with your Linux desktop so you don't have to deal with a separate Windows desktop inside the VM. It's currently in beta so bugs and instabilities are likely.</p>
 
 			<h3 id="compat2">Program List</h3>
-			<p>The following is a list of popular Windows programs and how they run on Linux (if at all). Good alternatives that run natively on Linux are also listed where applicable. Steam games are not listed here; for those, you should visit <a href="https://www.protondb.com/">ProtonDB.</a></p>
+			<p>The following is a list of popular programs and how they run on Linux (if at all). Programs marked as native have a version that is specifically built to run on Linux without any sort of compatibility or translation layers. Good alternatives that run natively on Linux are also listed where applicable. Steam games are not listed here; for those, you should visit <a href="https://www.protondb.com/">ProtonDB.</a></p>
 			<button id="CompatListButton" onclick="ToggleVis('CompatList')">Show Program List</button>
 			<div id="CompatList" class="hidden">
 				<table>
@@ -207,19 +207,13 @@
 						<td>If you're looking to edit complex PDFs that were specifically designed for Acrobat, you will likely run into issues with alternatives.</td>
 					</tr>
 					<tr>
-						<td>Adobe Photoshop</td>
-						<td>No</td>
-						<td>GIMP, Krita</td>
-						<td>Older versions that predate Creative Cloud might work with Wine.</td>
+						<td>Adobe Photoshop / Illustrator</td>
+						<td>Yes (Wine)</td>
+						<td>GIMP, Krita, Inkscape</td>
+						<td>Requires Wine 11.4 or newer to be able to install. Older versions that predate Creative Cloud will likely work better.</td>
 					</tr>
 					<tr>
-						<td>Adobe Illustrator</td>
-						<td>No</td>
-						<td>Inkscape, Krita</td>
-						<td>Older versions that predate Creative Cloud might work with Wine.</td>
-					</tr>
-					<tr>
-						<td>Core Temp & GPU-Z</td>
+						<td>Core Temp / GPU-Z / HWiNFO</td>
 						<td>No</td>
 						<td>btop++, CPU-X</td>
 						<td></td>
@@ -234,13 +228,19 @@
 						<td>Epic Games Launcher</td>
 						<td>Yes (Lutris, Bottles, Wine)</td>
 						<td>Heroic Games Launcher</td>
-						<td></td>
+						<td>Native version is in development.</td>
 					</tr>
 					<tr>
 						<td>Fortnite</td>
 						<td>Partially (Proton)</td>
 						<td>N/A</td>
 						<td>Anti-cheat blocks Linux. The game will run but you can't play online.</td>
+					</tr>
+					<tr>
+						<td>Google Chrome / Chromium Browser</td>
+						<td>Yes (Native)</td>
+						<td>Brave, Ungoogled Chromium, Microsoft Edge</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>HxD / WinHex</td>
@@ -255,10 +255,22 @@
 						<td>Installing drivers for Logitech peripherals isn't necessary; Linux supports them out of the box.</td>
 					</tr>
 					<tr>
+						<td>Microsoft Edge</td>
+						<td>Yes (Native)</td>
+						<td>N/A</td>
+						<td></td>
+					</tr>
+					<tr>
 						<td>Microsoft Office / Office 365</td>
 						<td>No</td>
 						<td>LibreOffice, OpenOffice</td>
-						<td>Older versions that predate Office 365 might work with Wine.</td>
+						<td>Older versions that predate Office 365 will likely work with Wine.</td>
+					</tr>
+					<tr>
+						<td>Mozilla Firefox</td>
+						<td>Yes (Native)</td>
+						<td>LibreWolf, Floorp, Waterfox, Zen Browser</td>
+						<td>Firefox comes pre-installed with most distros.</td>
 					</tr>
 					<tr>
 						<td>Notepad++</td>
@@ -273,6 +285,12 @@
 						<td>Control Panel technically exists on Linux but it's extremely barebones. Driver updates are automatically handled by your software manager so you don't have to worry about that.</td>
 					</tr>
 					<tr>
+						<td>Nvidia GeForce NOW</td>
+						<td>Yes (Native)</td>
+						<td>N/A</td>
+						<td>Nvidia recommends running this app on X11 rather than Wayland, though it's currently unknown how badly it runs on Wayland.</td>
+					</tr>
+					<tr>
 						<td>Nvidia Shadowplay</td>
 						<td>No</td>
 						<td>GPU Screen Recorder, Steam, OBS Studio</td>
@@ -283,6 +301,12 @@
 						<td>No</td>
 						<td>OpenRGB, OpenRazer</td>
 						<td>Alternatives lack a lot of features and support for certain devices.</td>
+					</tr>
+					<tr>
+						<td>Spotify</td>
+						<td>Yes (Native)</td>
+						<td>N/A</td>
+						<td>SpotX is also available for Linux via <a href="https://github.com/SpotX-Official/SpotX-Bash">SpotX-Bash.</a></td>
 					</tr>
 					<tr>
 						<td>Ubisoft Connect</td>
@@ -303,16 +327,22 @@
 						<td>Runs fine in a Windows virtual machine. Alternatives offer similar features but none of them are full replacements.</td>
 					</tr>
 					<tr>
+						<td>VSCode</td>
+						<td>Yes (Native)</td>
+						<td>Kate</td>
+						<td>VSCodium is the recommended version to use as it removes Microsoft's branding and telemetry.</td>
+					</tr>
+					<tr>
 						<td>Vortex Mod Manager</td>
 						<td>Yes (Wine, Proton GE)</td>
 						<td>N/A</td>
 						<td></td>
 					</tr>
 					<tr>
-						<td>WinDirStat & WizTree</td>
+						<td>WinDirStat / WizTree</td>
 						<td>Partially (Wine)</td>
 						<td>Disk Usage Analyser, Filelight</td>
-						<td>Technically works but it's kind of slow and it has to go through Wine's virtual file system, so using a native alternative would be better.</td>
+						<td>They technically work but they're slow and clunky. Using a native alternative would be better.</td>
 					</tr>
 					<tr>
 						<td>WinSCP</td>
@@ -325,6 +355,12 @@
 						<td>No</td>
 						<td>GPU Screen Recorder, OBS Studio, Steam (For game recording); btop++, CPU-X (For hardware stats)</td>
 						<td>No alternatives exist for the Xbox social features.</td>
+					</tr>
+					<tr>
+						<td>Xbox Game Pass</td>
+						<td>No</td>
+						<td>Xodus</td>
+						<td></td>
 					</tr>
 				</table>
 			</div>
