@@ -1245,5 +1245,12 @@
 		"info": "In a Reddit post discussing his second retirement from Valve, programmer Chris Green is asked if he can give any info on HLX, to which he replies with 'I think you know the answer to that :-)', causing fans to speculate on whether or not he is confirming the existence of the project. Two days later, he follows up with another comment clarifying that he meant he's not going to discuss projects that may or may not exist. Notably, he also confirms that he worked on Episode 3.",
 		"url": "https://www.reddit.com/r/valve/comments/1uwx9q0/comment/oxpvf9w/",
 		"type": 3
+	},
+	{
+		"title": "Episode 3 Content Found in Steam Leak",
+		"date": "August 29, 2026",
+		"info": "In a huge 13 TB leak of Steam games from 2003-2013, a small amount of Episode 3 content is found in beta builds of Portal 2. The most notable of which is the model for the weaponizer, which was previously only seen in a gameplay video as part of the Half-Life 2 20th anniversary documentary.",
+		"url": "https://combineoverwiki.net/wiki/Half-Life_2_leak#2026",
+		"type": 2
 	}
 ]
