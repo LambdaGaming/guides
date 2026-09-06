@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on September 4, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on September 6, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -378,7 +378,7 @@
 			<button id="DistroListButton" onclick="ToggleVis('DistroList')">Show Distro List</button>
 			<div id="DistroList" class="hidden">
 				<h3><a href="https://www.linuxmint.com/">Mint</a></h3>
-				<p>Mint is an excellent general-purpose OS that comes with a wide variety of software pre-installed. The Cinnamon DE feels similar to Windows while also being lightweight and minimalistic. While the personalization options aren't as in-depth as you might expect, it's a solid choice for most Windows users.</p>
+				<p>Mint is an excellent general-purpose OS that comes with a wide variety of software pre-installed. The Cinnamon DE feels similar to Windows while also being lightweight and minimalistic. While the personalization options aren't as in-depth as you might expect, it's a solid choice for casual users.</p>
 				<ul>
 					<li>Beginner friendliness: 10/10</li>
 					<li>Includes starter guide: Yes (After installing)</li>
@@ -391,7 +391,7 @@
 				<img src="mint.png">
 				
 				<h3><a href="https://zorin.com/">Zorin OS</a></h3>
-				<p>Zorin OS is a very simple OS that is designed for beginners who are coming from Windows. It comes with a lot of generic programs pre-installed and provides a UI layout that is familiar and easy to navigate, making it ideal for people who don't have the knowledge or interest in tinkering with their OS. However, it loses a point for the pro version being misleading. The pro version states it comes with a suite of professional-grade software, and while this is true, they fail to mention that all of this software is free and open source, and is available for Windows, Linux, and macOS. The only exclusive things you're paying for with the pro version are the extra desktop environments and technical support.</p>
+				<p>Zorin OS is a very simple OS that is designed for beginners who are coming from Windows. It comes with a lot of generic programs pre-installed and provides a UI layout that is familiar and easy to navigate, making it ideal for people who don't have the knowledge or interest in tinkering with their OS. It loses a point because the website neglects (likely intentionally) to inform people that the professional-grade software included with the pro version is all open source and can be downloaded for free on other platforms. The only exclusive things you're paying for with the pro version are the extra desktop environments and technical support.</p>
 				<ul>
 					<li>Beginner friendliness: 9/10</li>
 					<li>Includes starter guide: Yes</li>
@@ -404,7 +404,7 @@
 				<img src="zorin.png">
 	
 				<h3><a href="https://elementary.io">elementary OS</a></h3>
-				<p>Elementary OS is another very basic OS, though this one is catered toward macOS users. It comes with a lot of basic but useful apps, and provides a decent amount of settings. Much like Zorin OS, this is ideal for those who are not technically inclined and only need basic functionality. It loses a point for the download being made to look like you have to pay for it. You can get it for free by entering 0 for the price.</p>
+				<p>Elementary OS is another very basic OS, though this one is catered toward macOS users. It comes with a lot of basic but useful apps, and provides a decent amount of settings. Much like Zorin OS, this is ideal for those who are not technically inclined and only need basic functionality. It loses a point because the website tries to trick you into paying for it. You can get it for free by entering 0 for the price.</p>
 				<ul>
 					<li>Beginner friendliness: 9/10</li>
 					<li>Includes starter guide: Yes</li>
@@ -430,7 +430,7 @@
 				<img src="ubuntu.png">
 
 				<h3><a href="https://manjaro.org/">Manjaro</a></h3>
-				<p>Manjaro is a general-purpose OS that comes with a variety of software pre-installed, but it's a bit more complex due to how it works under the hood. The distro is based on Arch Linux, but it uses its own repositories. The Manjaro team tests software updates being pushed to the Arch repos before pushing them to their own repos, for the sake of stability. This is a great idea on paper, but in reality it often causes Manjaro to be less stable than Arch due to the delays between patches. While it's easy for beginners to get into compared to most other Arch-based distros, it's not uncommon for people to eventually switch to a different distro.</p>
+				<p>Manjaro is an Arch-based distro that comes with a good amount of general-purpose software pre-installed. It's had several controversies over the years, with the most notable one being related to stability. Manjaro uses its own repositories, and every package goes through multiple testing phases before being pushed to the main repo. This was a good idea years ago when rolling release distros were very unstable, but nowadays that really isn't the case, so package updates get delayed by multiple weeks for no reason. Ironically, this causes stability issues with packages from the AUR because they rely on package versions from the Arch repos. Despite this, I'm still giving it a 7 because it's an easy way to be introduced to the Arch ecosystem, and casual users will likely not run into many issues.</p>
 				<ul>
 					<li>Beginner friendliness: 7/10</li>
 					<li>Includes starter guide: Yes</li>
@@ -442,21 +442,8 @@
 				</ul>
 				<img src="manjaro.png">
 
-				<h3><a href="https://cachyos.org/">CachyOS</a></h3>
-				<p>CachyOS is similar to Manjaro except it uses a customized kernel that contains optimizations for maximum performance (particularly in gaming), and it doesn't have the stability issues that Manjaro has. It's also a little rougher around the edges in terms of the user experience compared to Manjaro, but overall it's still a decent choice for beginners.</p>
-				<ul>
-					<li>Beginner friendliness: 7/10</li>
-					<li>Includes starter guide: Yes</li>
-					<li>Includes GUI software manager: Yes</li>
-					<li>Base distro: Arch</li>
-					<li>Default desktop environments: KDE Plasma, GNOME, XFCE, Budgie, Cinnamon, COSMIC, LXDE, LXQt, MATE, UKUI</li>
-					<li>Release type: Rolling</li>
-					<li>Maintainer: CachyOS Team (Self-organized, non-profit group of hobbyists)</li>
-				</ul>
-				<img src="cachy.png">
-
 				<h3><a href="https://bazzite.gg/">Bazzite</a></h3>
-				<p>Bazzite is a gaming-focused distro that comes with a handful of gaming-related software pre-installed. This software includes but is not limited to Steam, Lutris, ProtonPlus, Protontricks, Distrobox, and Waydroid. There are also extra drivers and tweaks included to ensure maximum compatibility out of the box. Programs are mainly installed as Flatpaks, so it might be difficult for beginners to install non-Flatpak software.</p>
+				<p>Bazzite is an immutable, gaming-focused distro that comes with a handful of gaming-related software pre-installed. This software includes but is not limited to Steam, Lutris, ProtonPlus, Protontricks, Distrobox, and Waydroid. There are also extra drivers and tweaks included to ensure maximum compatibility out of the box. Programs are mainly installed as Flatpaks, so it might be difficult for beginners to install non-Flatpak software. Since the distro is immutable, much of the core system is read-only and cannot be easily modified, but it also results in a more secure and stable OS.</p>
 				<ul>
 					<li>Beginner friendliness: 7/10</li>
 					<li>Includes starter guide: Yes (Online only)</li>
@@ -467,6 +454,19 @@
 					<li>Maintainer: Universal Blue (Self-organized, non-profit group of hobbyists)</li>
 				</ul>
 				<img src="bazzite.png">
+
+				<h3><a href="https://cachyos.org/">CachyOS</a></h3>
+				<p>CachyOS is an Arch-based distro that uses a customized kernel optimized for maximum performance, particularly in gaming. It uses its own repositories but doesn't suffer from the same stability issues that Manjaro does. It's also a little rougher around the edges in terms of the user experience compared to Manjaro, but overall it's still a decent choice for beginners.</p>
+				<ul>
+					<li>Beginner friendliness: 6/10</li>
+					<li>Includes starter guide: Yes</li>
+					<li>Includes GUI software manager: Yes</li>
+					<li>Base distro: Arch</li>
+					<li>Default desktop environments: KDE Plasma, GNOME, XFCE, Budgie, Cinnamon, COSMIC, LXDE, LXQt, MATE, UKUI</li>
+					<li>Release type: Rolling</li>
+					<li>Maintainer: CachyOS Team (Self-organized, non-profit group of hobbyists)</li>
+				</ul>
+				<img src="cachy.png">
 
 				<h3><a href="https://nobaraproject.org/">Nobara</a></h3>
 				<p>Nobara is an improved version of Fedora with quality of life features added. Most notably, it allows users to easily install proprietary software. It's tailored for gaming but it's not as gaming-focused as Bazzite. It was created by GloriousEggroll, who also created Proton GE.</p>
@@ -495,7 +495,7 @@
 				<img src="debian.png">
 	
 				<h3><a href="https://fedoraproject.org/workstation/">Fedora</a></h3>
-				<p>Fedora is also similar to Ubuntu but with a much larger focus on open source software, privacy, and workloads. It's backed by Red Hat, so some functionalities that are commonly seen in the enterprise ecosystem such as virtual machines and containers are included by default. Most beginners should avoid it unless they are only going to be using open source software.</p>
+				<p>Fedora is similar to Ubuntu but with a much larger focus on open source software, privacy, and workloads. It's backed by Red Hat, so some functionalities that are commonly seen in the enterprise ecosystem such as virtual machines and containers are included by default.</p>
 				<ul>
 					<li>Beginner friendliness: 6/10</li>
 					<li>Includes starter guide: Yes (Not very detailed)</li>
@@ -573,7 +573,7 @@
 				<img src="void.png">
 
 				<h3><a href="https://nixos.org/">NixOS</a></h3>
-				<p>NixOS is a terminal-centric distro that has several features designed for software developers. These features include but are not limited to: Saving exact system configurations to use on different PCs so development environments remain consistent, having multiple versions of the same software installed at the same time, testing potentially dangerous system changes in a virtual machine, and rolling back the system to a previous version if something does break.</p>
+				<p>NixOS is an immutable, terminal-centric distro that has several features designed for software developers. These features include but are not limited to: Saving exact system configurations to use on different PCs so development environments remain consistent, having multiple versions of the same software installed at the same time, testing potentially dangerous system changes in a virtual machine, and rolling back the system to a previous version if something does break.</p>
 				<ul>
 					<li>Beginner friendliness: 3/10</li>
 					<li>Includes starter guide: Yes</li>
@@ -616,12 +616,12 @@
 	
 				<h3><a href="https://www.kali.org/">Kali</a></h3>
 				<p>Kali Linux is a highly specialized distro focused around cybersecurity. It comes with a huge amount of tools used for password cracking, forensic analysis, packet sniffing, network attacks, and much more. It's not meant for daily driving, but it might still be worth checking out if you're into cybersecurity.</p>
-
-				<h3><a href="https://www.linuxfromscratch.org/">Linux From Scratch</a></h3>
-				<p>Linux From Scratch is not a distro, but a book. It explains how to build your own custom Linux system from the ground up. It's designed for enthusiasts who want to build a system that is tailored exactly to their needs and wants.</p>
 	
 				<h3><a href="https://store.steampowered.com/steamos">SteamOS</a></h3>
 				<p>SteamOS is a specialized Arch Linux-based OS developed by Valve. It is mainly used with handhelds and other small form factor systems such as the Steam Deck, Steam Machine, and Lenovo Legion Go. While it can be installed on regular PCs, I don't recommend doing so because it contains a limited set of pre-installed software and does not support Nvidia GPUs out of the box. If you want a similar experience with a larger selection of pre-installed software and Nvidia GPU support, check out Bazzite.</p>
+
+				<h3><a href="https://www.linuxfromscratch.org/">Linux From Scratch</a></h3>
+				<p>Linux From Scratch is not a distro, but a book. It explains how to build your own custom Linux system from the ground up. It's designed for enthusiasts who want to build a system that is tailored exactly to their needs and wants.</p>
 
 				<h3><a href="https://www.freebsd.org/">FreeBSD</a></h3>
 				<p>FreeBSD is NOT Linux, but I'm putting it here to avoid confusion because some people think it is. It's actually based on Unix, which is a much older OS made by Bell Labs that started development in 1969. Linux is Unix-like but not directly based on it, so naturally there's some similarities but there are many more differences.<br><br>These days, Unix itself isn't in development anymore, but several Unix-based operating systems are. FreeBSD, macOS, and Solaris are just a few examples. FreeBSD and other BSD operating systems can be used by beginners, but software compatibility and availability is much more limited compared to Linux.</p>
@@ -629,7 +629,7 @@
 
 			<h1 id="installinglinux">Installing Linux</h1>
 			<p>Now that you've picked a distro, it's time to install it! Installing a beginner-friendly distro is pretty straightforward - just follow the instructions it gives you as you go. What isn't always straightforward is actually getting Linux to boot. Many distros just give you the ISO file and don't explain what you're supposed to do with it, so that's what this section will be about.</p>
-			<p>There's three things you're going to need to get Linux to boot: a USB drive large enough for your distro; a working Windows, Linux, or macOS PC; and <a href="https://etcher.balena.io/">balenaEtcher</a> installed on that PC. (Just be aware that balenaEtcher has some <a href="https://tails.net/news/rufus/index.en.html">minor privacy issues</a> despite being open source. If you're familiar with alternatives such as Raspberry Pi Imager or Rufus, I would use one of those instead; but for beginners balenaEtcher is the easiest to download and use on all platforms.) Once you have all of that, follow these steps:</p>
+			<p>There's three things you're going to need to get Linux to boot: a USB drive large enough for your distro; a working Windows, Linux, or macOS PC; and <a href="https://etcher.balena.io/">balenaEtcher</a> installed on that PC. (Just be aware that balenaEtcher has some <a href="https://tails.net/news/rufus/">minor privacy issues</a> despite being open source. If you're familiar with alternatives such as Raspberry Pi Imager or Rufus, I would use one of those instead.) Once you have all of that, follow these steps:</p>
 			<ol>
 				<li>Plug in the USB and open balenaEtcher.</li>
 				<li>Select the ISO file you downloaded from the website of the distro you want to use.</li>
