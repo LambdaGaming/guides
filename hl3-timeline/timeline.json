@@ -807,7 +807,7 @@
 	{
 		"title": "Valve Wants to do More With Half-Life",
 		"date": "March 24, 2020",
-		"info": "At the very end of an IGN interview with Robin Walker and Chris Remo, Robin suggests that Valve wants to do more with Half-Life if Alyx is successful, and states that 'hopefully you will see more from us a lot sooner than last time'.",
+		"info": "At the very end of an IGN interview with Valve game designers Robin Walker and Chris Remo, Walker suggests that Valve wants to do more with Half-Life if Alyx is successful, and states that 'hopefully you will see more from us a lot sooner than last time'.",
 		"url": "https://youtu.be/cqi1EYDoa7o",
 		"type": 0
 	},
@@ -1249,8 +1249,15 @@
 	{
 		"title": "Episode 3 Content Found in Steam Leak",
 		"date": "August 29, 2026",
-		"info": "In a huge 13 TB leak of Steam games from 2003-2013, a small amount of Episode 3 content is found in beta builds of Portal 2. The most notable of which is the model for the weaponizer, which was previously only seen in a gameplay video as part of the Half-Life 2 20th anniversary documentary.",
+		"info": "In a huge 13 TB leak of Steam games from 2003-2013, a small amount of Episode 3 content is found in beta builds of Portal 2 from 2009. The most notable of which is the model for the weaponizer, which was previously only seen in a gameplay video as part of the Half-Life 2 20th anniversary documentary.",
 		"url": "https://combineoverwiki.net/wiki/Half-Life_2_leak#2026",
 		"type": 2
+	},
+	{
+		"title": "Valve is Too Busy",
+		"date": "September 15, 2026",
+		"info": "In an interview with Norm from Adam Savage's Tested, Valve game designer Robin Walker is asked if there were any plans to create new VR experiences for the newly released Steam Frame, to which Walker replies: 'Yeah I think we're all just all too busy [laughs] not for a lack of desire.'. Given the rumors about how many people are working on HLX, fans speculate that he could be indirectly referring to it here. Fans also note that Walker appears to be tired or worn out throughout the interview, and speculate that it could be due to HLX.",
+		"url": "https://youtu.be/IwELiBZpQw4?t=2418",
+		"type": 3
 	}
 ]
