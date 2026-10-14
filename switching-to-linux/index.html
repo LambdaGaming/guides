@@ -9,7 +9,7 @@
 	<body>
 		<div class="main">
 			<h1>Switching to Linux</h1>
-			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on October 10, 2026</h3>
+			<h3 style="text-align:center">By <a href="https://github.com/LambdaGaming">OPGman<br></a>Published on June 12, 2024<br>Last updated on October 14, 2026</h3>
 			<h2>Table of Contents</h2>
 			<div class="toc">
 				<ol>
@@ -70,7 +70,7 @@
 			<p>Tying into the group permissions, Linux has a special group called root, which has access to the entire system including all protected files. Normal users can only gain access to this group temporarily by prepending a command with 'sudo' in the terminal, or by having a GUI program prompt for it. Sudo will require the user to enter a password, which is typically setup when the OS is installed. Root access is revoked once the program that required it has closed, though if the program stays open long enough its root access will expire after a certain amount of time.</p>
 			<p>Most Windows home users will have some admin permissions at all times due to how admin accounts work. This decreases security since some system files only need basic admin permissions in order to be modified. On top of that, Windows also uses a prompt (called User Account Control, or UAC) to escalate admin privileges up to the next level, which people are typically accustomed to clicking "yes" for without seeing what program is requiring it. The UAC prompts also have <a href="https://docs.redteamleaders.com/offensive-security/privilege-escalation/windows-uac-bypass-techniques">several exploits</a> that allow malicious programs to completely bypass them without the user ever knowing, some of which still work even on Windows 11.</p>
 			<h3>No Kernel-Level Access</h3>
-			<p>Unlike Windows, Linux does not allow any random program to run code at the kernel level, also called ring 0. This is extremely important, as ring 0 gives programs full access to your entire system without the need for admin privileges. This is why most video game anti-cheats will not run on Linux. Many of them run at the kernel level on Windows so they can monitor for cheating by reading the memory of other programs.</p><p>Kernel modules on Linux need to be compiled for specific kernel versions and installed using root privileges. They can also be discovered and disabled at any time by the user, so it's extremely impractical to use them for malware, anti-cheats, or any other software designed to take away user control. They are mainly used for device drivers.</p>
+			<p>Unlike Windows, Linux does not allow any random program to run code at the kernel level, also called ring 0. This is extremely important, as ring 0 gives programs full access to your entire system without the need for admin privileges. This is why getting effective video game anti-cheats to work on Linux has been such a challenge. Many of them run at the kernel level on Windows so they can monitor for cheating without risk of being bypassed.</p><p>Kernel modules on Linux need to be compiled for specific kernel versions and installed using root privileges. They can also be discovered and disabled at any time by the user, so it's extremely impractical to use them for malware, anti-cheats, or any other software designed to take away user control. They are mainly used for device drivers.</p>
 			<h3>Transparency</h3>
 			<p>Many Linux programs (and the Linux kernel itself) are open source, which allows anyone to view the code and determine whether or not it's malicious. Many popular open source projects are audited by independent organizations and individuals to verify that the software is safe to use. Windows and macOS are developed exclusively by corporations and are largely closed-source, so if they want to do something malicious or unwanted, it's eventually going to affect everyone due to forced updates, and you likely won't be able to do much about it without compromising some other part of the system.</p>
 			<h3>Verified Apps</h3>
@@ -142,7 +142,7 @@
 			<h3>Nvidia Drivers</h3>
 			<p>If you have an Nvidia GPU, you will need to install a proprietary driver for it to work properly on Linux. Most distros will prompt you to install it, but some won't allow you to install it at all, so just be aware of that when choosing a distro. Any Nvidia GPU from the GTX 10 series or older won't work with the latest drivers, so you might have to manually install an older driver to be able to run GPU-intensive programs. If you have an AMD or Intel GPU, you won't have to install a proprietary driver and everything should work out of the box on most distros.</p>
 			<h3>VRAM Issues</h3>
-			<p>Aside from anti-cheat incompatibilities, one of the biggest issues with gaming on Linux is the fact that various apps tend to freeze or crash when your VRAM is maxed out. GPU drivers help mitigate this to an extent, but it's not perfect (especially with Nvidia). Linux 7.3 aims to fix this problem for good, but as of early September 2026 it is likely at least a month or two away from release, and it'll take much longer than that for scheduled release distros to catch up to that version. If you need this fix ASAP, you should use a rolling release distro.</p>
+			<p>Aside from anti-cheat incompatibilities, one of the biggest issues with gaming on Linux is the fact that various apps tend to freeze or crash when your VRAM is maxed out. GPU drivers help mitigate this to an extent, but it's not perfect (especially with Nvidia). Linux 7.3 aims to fix this problem for good; it's set to release in mid-October 2026, but it'll take much longer for scheduled release distros to catch up to this version. If you need this fix ASAP, you should use a rolling release distro.</p>
 
 			<h2 id="software">Software Management</h2>
 			<hr>
@@ -227,15 +227,15 @@
 					</tr>
 					<tr>
 						<td>Epic Games Launcher</td>
-						<td>Yes (Lutris, Bottles, Wine)</td>
+						<td>Yes (Native)</td>
 						<td>Heroic Games Launcher</td>
-						<td>Native version is in development.</td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>Fortnite</td>
 						<td>Partially (Proton)</td>
 						<td>N/A</td>
-						<td>Anti-cheat blocks Linux. The game will run but you can't play online.</td>
+						<td>Anti-cheat blocks Linux so you can't play online. This is set to change soon.</td>
 					</tr>
 					<tr>
 						<td>Google Chrome / Chromium Browser</td>
