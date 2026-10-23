@@ -1259,5 +1259,19 @@
 		"info": "In an interview with Norm from Adam Savage's Tested, Valve game designer Robin Walker is asked if there were any plans to create new VR experiences for the newly released Steam Frame, to which Walker replies: 'Yeah I think we're all just all too busy [laughs] not for a lack of desire.'. Given the rumors about how many people are working on HLX, fans speculate that he could be indirectly referring to it here. Fans also note that Walker appears to be tired or worn out throughout the interview, and speculate that it could be due to HLX.",
 		"url": "https://youtu.be/IwELiBZpQw4?t=2418",
 		"type": 3
+	},
+	{
+		"title": "Mike Morasky Mentions HLX By Name",
+		"date": "October 21, 2026",
+		"info": "During a developer panel about video game audio, Valve music composer Mike Morasky is answering a question about how the Source 2 sound system connects with other parts of the engine, when he mentions that Deadlock and HLX have their own versions of HDR. Immediately after saying this, Valve sound designer David Feise looks at Morasky and whispers \"Nice work\". At the end of the panel, Feise leans over to Morasky and says \"Good job, you only mentioned HLX once\". This is the first time a Valve employee has publicly mentioned HLX by name.",
+		"url": "https://kotaku.com/valve-employee-seemingly-slips-up-and-says-rumored-half-life-3-codename-on-stage-2000748885",
+		"type": 0
+	},
+	{
+		"title": "More HLX Info Found in Multiple Source 2 Game Updates",
+		"date": "October 22, 2026",
+		"info": "A datamine of updates to Dota 2, Counter-Strike 2, and Deadlock reveal more info that is likely related to HLX. The most notable info includes the following: A Hammer visualizer for a trap cable entity, a flyer NPC, a Combine gunship that drops bombs, a Hammer visualizer for NPC cover, and a \"Xen Animation\" mode for the Hammer paint tool. Tyler McVicker also reports that there was recently a huge uptick in the number of commits made by Valve, and speculates that this could be a sign the game is nearing completion, as something similar happened before Half-Life: Alyx was announced.",
+		"url": "https://youtu.be/5nR6GfshoYw",
+		"type": 1
 	}
 ]
