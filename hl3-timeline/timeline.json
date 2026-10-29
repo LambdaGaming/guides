@@ -58,7 +58,7 @@
 	{
 		"title": "David Speyrer Explains Episode 2 Ending",
 		"date": "November 8, 2007",
-		"info": "In an interview with Rock Paper Shotgun, Episode 2 project lead David Speyrer explains various aspects of Episode 2, including its ending and why it didn't end with a trailer for Episode 3. He states that one of the reasons for the lack of a trailer was to leave Episode 3 open for Valve to do more ambitious things with.",
+		"info": "In an interview with Rock Paper Shotgun, Episode 2 project lead David Speyrer explains various aspects of the game, including its ending and why it didn't end with a trailer for Episode 3. He states that one of the reasons for the lack of a trailer was to leave Episode 3 open for Valve to do more ambitious things with.",
 		"url": "https://www.rockpapershotgun.com/rps-interview-episode-ones-david-speyrer",
 		"type": 0
 	},
@@ -102,7 +102,7 @@
 		"date": "June 27, 2008",
 		"info": "Internet rumors spread that Episode 3 will be revealed at E3 2008. Doug Lombardi confirms that this isn't the case.",
 		"url": "https://web.archive.org/web/20190719043636/https://kotaku.com/will-half-life-2-episode-three-be-at-e3-valve-says-no-5020376",
-		"type": 3
+		"type": 4
 	},
 	{
 		"title": "More Episode 3 Concept Art Revealed",
@@ -305,7 +305,7 @@
 		"date": "July 14, 2011",
 		"info": "Valve senior art director Jeremy Bennett was seen wearing a Half-Life 3 shirt at Comic Con 2011. While it took the community over a year to discover this, they ultimately speculated that he could be hinting at the game being in development.",
 		"url": "https://web.archive.org/web/20160608105338/https://whitecloudworlds.blogspot.com/2011/07/comic-con-2011.html",
-		"type": 0
+		"type": 3
 	},
 	{
 		"title": "Possible Half-Life 3 ARG Found",
@@ -590,7 +590,7 @@
 	{
 		"title": "Valve Project Tracker Leaked",
 		"date": "June 19, 2013",
-		"info": "Due to a security exploit in the project management software Jira, people from outside of Valve were able to gain access to the company's internal mailing lists. Several unannounced projects were found including Half-Life 3, Left 4 Dead 3, and Source 2. Each of these projects also list all Valve employees who have worked on them.",
+		"info": "Due to a security exploit in the project management software Jira, people from outside of Valve were able to gain access to the company's internal mailing lists. Several unreleased projects were found including Half-Life 3, Left 4 Dead 3, and Source 2. Each of these projects also list all Valve employees who have worked on them.",
 		"url": "https://web.archive.org/web/20130703062038/http://www.valvetime.net/threads/updated-half-life-3-left-4-dead-3-source-2-much-more-found-on-valve-project-tracker.243580",
 		"type": 2
 	},
@@ -672,7 +672,7 @@
 		"type": 1
 	},
 	{
-		"title": "First Mention of a Possible VR Half-Life Game",
+		"title": "Valve Might Make a VR Half-Life Game",
 		"date": "March 5, 2015",
 		"info": "During Valve's VR demo at the Game Developers Conference, Kotaku asks Valve programmer Jett Barnett about the possibility of a new Half-Life game. Barnett explains that Valve is experimenting in VR using Half-Life assets, but a new Half-Life game is not guaranteed.",
 		"url": "https://kotaku.com/yep-valve-is-experimenting-with-half-life-in-vr-1689726340",
@@ -863,7 +863,7 @@
 	{
 		"title": "More Episode 3 Concept Art Revealed",
 		"date": "August 29, 2022",
-		"info": "For the first time in over a decade, more Episode 3 concept art is released to the public by 2K marketing producer and Valve content collector David McGreavy. He states that he bought them from a Valve employee who saved the art from being thrown away during Valve's office move in 2016. A few scans were first shared with the LambdaGeneration community, and the entire collection was later uploaded to the Internet Archive.",
+		"info": "For the first time in over a decade, more Episode 3 concept art is released to the public by 2K marketing producer David McGreavy. He states that he bought them from a Valve employee who saved the art from being thrown away during Valve's office move in 2016. A few scans were first shared with the LambdaGeneration community, and the entire collection was later uploaded to the Internet Archive.",
 		"url": "https://archive.org/details/unreleased-half-life-concept-art",
 		"type": 2
 	},
@@ -1263,7 +1263,7 @@
 	{
 		"title": "Episode 3 Content Found in Steam Leak",
 		"date": "August 29, 2026",
-		"info": "In a huge 13 TB leak of Steam games from 2003-2013, a small amount of Episode 3 content is found in beta builds of Portal 2 from 2009. The most notable of which is the model for the weaponizer, which was previously only seen in a gameplay video as part of the Half-Life 2 20th anniversary documentary.",
+		"info": "In a huge 13 TB leak of Steam games from 2003-2013, a small amount of Episode 3 content is found in beta builds of Portal 2 from 2009. The most notable of which is the model for the Weaponizer, which was previously only seen in a gameplay video as part of the Half-Life 2 20th anniversary documentary.",
 		"url": "https://combineoverwiki.net/wiki/Half-Life_2_leak#2026",
 		"type": 2
 	},
