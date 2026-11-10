@@ -1287,5 +1287,12 @@
 		"info": "A datamine of updates to Dota 2, Counter-Strike 2, and Deadlock reveal more info related to HLX. The most notable info includes the following: Hammer visualizers for a trap cable entity, NPC cover, and bullet spray; a flyer NPC; a Combine gunship that drops bombs; a \"Xen Animation\" mode for the Hammer paint tool; and an update for Source 2 Filmmaker to support an HLX-exclusive animation format. Tyler McVicker also reports that there was recently a huge uptick in the number of internal commits made by Valve, and speculates that this could be a sign the game is nearing completion.",
 		"url": "https://youtu.be/5nR6GfshoYw",
 		"type": 1
+	},
+	{
+		"title": "Another Episode 3 Source Code Leak",
+		"date": "November 9, 2026",
+		"info": "Dozens of C++ source files for Episode 3 leak alongside 600+ map source files for Portal 2. Most of the code is related to weapons and NPCs. While some of these files have been public for years, many of them are new. It's currently unknown how or when the original leaker obtained the files.",
+		"url": "https://x.com/gabefollower/status/2119877396681871500",
+		"type": 2
 	}
 ]
