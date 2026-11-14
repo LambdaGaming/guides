@@ -1289,10 +1289,17 @@
 		"type": 1
 	},
 	{
-		"title": "Another Episode 3 Source Code Leak",
+		"title": "Partial Episode 3 Source Code Leak",
 		"date": "November 9, 2026",
 		"info": "Dozens of C++ source files for Episode 3 leak alongside 600+ map source files for Portal 2. Most of the code is related to weapons and NPCs. While some of these files have been public for years, many of them are new. It's currently unknown how or when the original leaker obtained the files.",
 		"url": "https://x.com/gabefollower/status/2119877396681871500",
+		"type": 2
+	},
+	{
+		"title": "Screenshots Posted From 2011-era Half-Life 3",
+		"date": "November 12, 2026",
+		"info": "A leaker posts a screenshot in various Discord servers that appears to show a snowy test map with various unfinished models including space ships and Combine walls. GabeFollower confirms that the map is from the 2011-era Half-Life 3, and that the ship models are from the cancelled game Stars of Blood. A screenshot of the same map from a different perspective was posted to the Half-Life: Alyx Steam community page, suggesting that the leaker has access to the actual files and didn't just find the screenshot somewhere.",
+		"url": "https://x.com/gabefollower/status/2120936473511743756",
 		"type": 2
 	}
 ]
