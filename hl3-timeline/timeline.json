@@ -364,6 +364,13 @@
 		"type": 3
 	},
 	{
+		"title": "Steam Achievements Found for Half-Life 3",
+		"date": "December 7, 2011",
+		"info": "A screenshot circulating around the internet appears to show Steam achievements for Half-Life 3. It was quickly debunked once fans realized that the link shown in the screenshot was never valid.",
+		"url": "https://web.archive.org/web/20120107051305/https://stickskills.com/2011/12/07/rumor-half-life-3-steam-achievements-surface/",
+		"type": 4
+	},
+	{
 		"title": "Voice Lines Recorded for Episode 3",
 		"date": "December 9, 2011",
 		"info": "An unnamed American voice actor tells the Official Xbox Magazine that they recently recorded voice lines for \"Half-Life Episode 3\". Fans speculate how far along in development the game is, and whether or not it could be announced at the Spike Video Game Awards.",
@@ -373,7 +380,7 @@
 	{
 		"title": "Wheatley Speech Releases",
 		"date": "December 22, 2011",
-		"info": "Valve releases a video for the Spike Video Game Awards Character of the Year award, showing Wheatley from Portal 2 accepting the award. Wheatley was nominated but did not win. Fans are quick to note the last thing Wheatley says - \"Ah, maybe next year\" - doesn't seem to be an empty phrase. People speculate that Valve could be releasing another single-player game in 2012.",
+		"info": "Valve releases a video for the Spike Video Game Awards Character of the Year award, showing Wheatley from Portal 2 accepting the award. Wheatley was nominated but did not win. Fans speculate that the last thing Wheatley says - \"Ah, maybe next year\" - could be a hint at Half-Life 3.",
 		"url": "https://archive.lambdageneration.com/valve-releases-wheatleys-vga-2011-character-of-the-year-never-aired-acceptance-short-hints-towards-a-secret-valve-single-player-game-to-be-released-in-2012/",
 		"type": 0
 	},
@@ -476,6 +483,20 @@
 		"type": 1
 	},
 	{
+		"title": "Fake Half-Life 3 Trailers Posted",
+		"date": "April 1, 2012",
+		"info": "A user on a Russian forum claims that Valve uploaded three Half-Life 3 videos to YouTube, and state that they were able to download the first two before they got taken down. The videos show a teaser trailer and a gameplay trailer for Half-Life 3. Fans quickly note that it's more than likely fake given the fact that all of this happened on April 1.",
+		"url": "https://web.archive.org/web/20120610023639/https://forums.goha.ru/showthread_0_0_t740405",
+		"type": 4
+	},
+	{
+		"title": "Fake Half-Life 3 Steam Page Launched",
+		"date": "April 1, 2012",
+		"info": "A fake Steam store is launched that features Half-Life 3 on the main page. Once again, most fans aren't fooled.",
+		"url": "https://web.archive.org/web/20120403090722/http://store.steamppowered.com/",
+		"type": 4
+	},
+	{
 		"title": "Gabe Newell Confirms No E3 2012 Announcements",
 		"date": "April 23, 2012",
 		"info": "In an email with a ValveTime user, Gabe Newell confirms that Valve will not be announcing anything new at E3 2012. He specifically mentions that they will not be announcing Half-Life 3, Portal 3, or Left 4 Dead 3.",
@@ -498,7 +519,7 @@
 	},
 	{
 		"title": "Gabe Newell Dodges Another Half-Life Question",
-		"date": "June 2012",
+		"date": "June 7, 2012",
 		"info": "At E3 2012, Norwegian news outlet DBTV asks Gabe Newell if he has received death threats yet over Half-Life 3 not being released. Gabe laughs and replies: \"I think everybody hopes that we do good work in the future.\"",
 		"url": "https://youtu.be/izoGqxYy9bs",
 		"type": 0
@@ -516,6 +537,13 @@
 		"info": "A ValveTime user discovers several pieces of Episode 3 concept art on Picasa, created by Valve artist Andrea Wicklund. She had posted the images to her Picasa account in 2008, and presumably deleted them once fans discovered them.",
 		"url": "https://web.archive.org/web/20180923122755/http://www.valvetime.net/threads/exclusive-half-life-2-episode-3-concept-art.206815/",
 		"type": 2
+	},
+	{
+		"title": "Fake Half-Life 3 Screenshots Posted",
+		"date": "July 21, 2012",
+		"info": "A user on a leak website posts screenshots that are supposedly from Half-Life 3. They feature industrial-looking locations, a HUD, and a file name. Fans debunk them by pointing out that they are edited photos of real locations, including an abandoned subway in Los Angeles, California.",
+		"url": "https://gamerfront.net/2012/07/half-life-3-images-leaked/21902",
+		"type": 4
 	},
 	{
 		"title": "EP3 & Source 2 References Found in Source Filmmaker",
@@ -546,6 +574,13 @@
 		"type": 0
 	},
 	{
+		"title": "Half-Life 3 Teased at Gamescom",
+		"date": "August 20, 2012",
+		"info": "A Twitter user at Gamescom posts an image that they claim to be a monitor capture. The image doesn't appear to show much, but the caption suggests that it's related to Half-Life, and that the user is under NDA. Fans speculate that there will be a showcase of Half-Life 3, given the fact that it was on Gamescom's official list just a week prior.",
+		"url": "https://web.archive.org/web/20181226193831/http://twitter.com/onlinegott/status/237627912810008576",
+		"type": 4
+	},
+	{
 		"title": "Insider Claims Half-Life 3 is Open World",
 		"date": "September 20, 2012",
 		"info": "An anonymous source that claims to be close to Valve told French gaming site Le Journal du Gamer that Half-Life 3 will be open world. Similar to Skyrim and Fallout, the game will also supposedly feature quests given by NPCs. The source also claims that the game won't be releasing until after 2013.",
@@ -558,6 +593,13 @@
 		"info": "During a meetup of 4chan users and Valve employees for Gabe Newell's 50th birthday, Gabe is asked about Source 2. He confirms that it's been in development for a while, and that they're \"waiting for a game to roll it out with\".",
 		"url": "https://archive.lambdageneration.com/gabe-newell-officially-confirms-that-a-next-gen-valve-engine-is-in-development/",
 		"type": 0
+	},
+	{
+		"title": "Fake Half-Life 3 Beta Website Launched",
+		"date": "December 2, 2012",
+		"info": "Fans notice a website called halflife3beta.com was recently launched. It features a countdown to December 21, 2012, with text saying \"Rise and shine\". It was debunked once people realized the domain was not registered to Valve. Notably, the day the timer is counting down to is the day that people thought the world was going to end.",
+		"url": "https://www.reddit.com/r/HalfLife/comments/145yvi/too_good_to_be_true_half_life_3_beta/",
+		"type": 4
 	},
 	{
 		"title": "Episode 3 FGD File Leaks",
@@ -593,6 +635,13 @@
 		"info": "Due to a security exploit in the project management software Jira, people from outside of Valve were able to gain access to the company's internal mailing lists. Several unreleased projects were found including Half-Life 3, Left 4 Dead 3, and Source 2. Each of these projects also list all Valve employees who have worked on them.",
 		"url": "https://web.archive.org/web/20130703062038/http://www.valvetime.net/threads/updated-half-life-3-left-4-dead-3-source-2-much-more-found-on-valve-project-tracker.243580",
 		"type": 2
+	},
+	{
+		"title": "Another Fake Half-Life 3 Store Page Launched",
+		"date": "June 21, 2013",
+		"info": "Another website featuring a fake Half-Life 3 Steam store page goes live. This one states that the game will be releasing in Fall 2013.",
+		"url": "https://web.archive.org/web/20130622004604/http://store.stearnpowered.com/app/246720/",
+		"type": 4
 	},
 	{
 		"title": "Steam Support Makes Cryptic Tweet",
@@ -1086,6 +1135,13 @@
 		"type": 1
 	},
 	{
+		"title": "Fake Half-Life 3 Concept Art Posted",
+		"date": "September 28, 2025",
+		"info": "A user on 4chan posts an image of what appears to be Half-Life 3 concept art. The user claims it's from HLX, and that the image was originally posted to a Chinese forum. Fans call it out as fake and state that it was very likely AI-generated.",
+		"url": "https://arch.b4k.dev/v/thread/721910123/",
+		"type": 4
+	},
+	{
 		"title": "Mike Shapiro Teases Something",
 		"date": "October 14, 2025",
 		"info": "A Reddit user claims to have met Mike Shapiro at a convention, where Mike said to him \"prepare for the valve opening\". While there isn't anything concrete to disprove it, most people still think it's a hoax.",
@@ -1135,6 +1191,13 @@
 		"type": 0
 	},
 	{
+		"title": "\"Insiders\" Leak Half-Life 3 Name and Trailer",
+		"date": "November 13, 2025",
+		"info": "A user on Russian social media site DTF claims that insiders have leaked an image from an upcoming Half-Life 3 trailer, and also states that the game will be called Half-Life 3: The X Moment. Fans quickly doubt the authenticity of the alleged insiders.",
+		"url": "https://dtf.ru/games/4154008-half-life-3-utechka-treilera",
+		"type": 4
+	},
+	{
 		"title": "2025 Announcement is Still Planned",
 		"date": "November 14, 2025",
 		"info": "Gabe Follower states on Discord that nothing has changed internally at Valve, and that they're still aiming for a 2025 announcement of Half-Life 3 as far as he's aware.",
@@ -1168,6 +1231,13 @@
 		"info": "He makes multiple tweets answering people's questions about a potential Half-Life 3 announcement. In one Tweet he says \"the date I was told is this year\" in regards to a reveal date. In another Tweet he states that Half-Life 3 will not be announced at the Game Awards unless Geoff Keighley \"managed to get them to agree to something\". He then says that he thinks the announcement will be standalone.",
 		"url": "https://gamingbolt.com/half-life-3-is-not-supposed-to-be-unveiled-at-the-game-awards-2025-rumour",
 		"type": 3
+	},
+	{
+		"title": "Leaker Makes Claims About HLX",
+		"date": "December 2, 2025",
+		"info": "An X user - who has previously leaked gaming-related information that turned out to be true - makes the claim that HLX will be called Half-Life: Xen, and that it will be announced at the Game Awards and released in March 2026. Tyler McVicker replies that HLX is a codename and not an acronym, and that it will not be announced at the Game Awards, but a 2026 announcement is likely.",
+		"url": "https://www.ibtimes.co.uk/half-life-3-becomes-half-life-xen-trusted-leak-renews-hope-game-finally-coming-1762178",
+		"type": 4
 	},
 	{
 		"title": "Half-Life Community Goes Insane",
@@ -1247,6 +1317,13 @@
 		"type": 4
 	},
 	{
+		"title": "Fake Half-Life 3 Screenshots Posted",
+		"date": "July 6, 2026",
+		"info": "A Reddit user posts two screenshots that they claim to have found on Gabe Follower's Discord. Fans quickly debunk it by noting that Gabe Follower doesn't have a Discord server. While some speculate that the screenshots could be AI generated, it's later confirmed that they are renders of a quickly put together Unreal Engine 5 scene.",
+		"url": "https://www.reddit.com/r/HalfLife3/comments/1uoo2xb/potential_hl3_leak_weird_screenshots_posted_and/",
+		"type": 4
+	},
+	{
 		"title": "More HLX Info Found in Dota 2 Update",
 		"date": "July 6, 2026",
 		"info": "A datamine by Tyler McVicker of a major Dota 2 update reveals info that appears to be related to HLX's development, including various graphical and physical improvements to the engine, and the return of multiple Half-Life voice actors. McVicker also indirectly hints that he's spoken to insiders about the game, and states that Valve has an entire floor at their office dedicated to its development. He also speculates that the Raising the Bar reprint is going to have an entire section dedicated to the development of Half-Life 3, and that some developers thinking the game isn't good enough is part of the reason why it wasn't announced last November.",
@@ -1291,14 +1368,14 @@
 	{
 		"title": "Partial Episode 3 Source Code Leak",
 		"date": "November 9, 2026",
-		"info": "Dozens of C++ source files for Episode 3 leak alongside 600+ map source files for Portal 2. Most of the code is related to weapons and NPCs. While some of these files have been public for years, many of them are new. It's currently unknown how or when the original leaker obtained the files.",
+		"info": "Dozens of C++ source files for Episode 3 leak alongside 600+ map source files for Portal 2. Most of the code is related to weapons and NPCs. While some of these files have been public for years, many of them are new. Rumors begin to spread that more Source game leaks are coming.",
 		"url": "https://x.com/gabefollower/status/2119877396681871500",
 		"type": 2
 	},
 	{
 		"title": "Screenshots Posted From 2011-era Half-Life 3",
 		"date": "November 12, 2026",
-		"info": "A leaker posts a screenshot in various Discord servers that appears to show a snowy test map with various unfinished models including space ships and Combine walls. GabeFollower confirms that the map is from the 2011-era Half-Life 3, and that the ship models are from the cancelled game Stars of Blood. A screenshot of the same map from a different perspective was posted to the Half-Life: Alyx Steam community page, suggesting that the leaker has access to the actual files and didn't just find the screenshot somewhere.",
+		"info": "A user in the Valve Cut Content Discord server posts a screenshot that appears to show a snowy test map with various unfinished models including space ships and Combine walls. Gabe Follower confirms that the map is from the 2011-era Half-Life 3, and that the ship models are from the cancelled game Stars of Blood. A screenshot of the same map from a different perspective was also posted to the Half-Life: Alyx Steam community page.",
 		"url": "https://x.com/gabefollower/status/2120936473511743756",
 		"type": 2
 	}
